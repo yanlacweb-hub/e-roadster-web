@@ -20,21 +20,24 @@ const posts = allPosts
   title={cat.title || `${cat.name} - e-roadster.`}
   description={cat.description || `Articles de la catégorie ${cat.name} sur e-roadster.`}
   canonical={`https://e-roadster.fr/category/${cat.slug}/`}
+  activeCategory={cat.slug}
 >
-  <h1>{cat.name}</h1>
-  {cat.description && <p class="meta">{cat.description}</p>}
+  <h1 class="section-title">{cat.name}</h1>
+  {cat.description && <p class="category-intro">{cat.description}</p>}
   <div class="post-list">
-    {posts.length === 0 && <p>Aucun article dans cette catégorie pour le moment.</p>}
+    {posts.length === 0 && <p class="empty-state">Aucun article dans cette catégorie pour le moment.</p>}
     {posts.map((post) => (
       <article class="post-card">
         {post.data.image && (
-          <a href={`/${post.data.postSlug}/`}>
+          <a class="card-media" href={`/${post.data.postSlug}/`}>
             <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width="600" height="340" />
           </a>
         )}
-        <h2><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h2>
-        <p class="meta">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
-        <p>{post.data.description}</p>
+        <div class="card-body">
+          <p class="meta">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+          <h2><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h2>
+          <p class="excerpt">{post.data.description}</p>
+        </div>
       </article>
     ))}
   </div>

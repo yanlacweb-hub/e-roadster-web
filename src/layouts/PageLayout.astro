@@ -13,7 +13,7 @@ const canonicalUrl = `${siteUrl}/${slug}/`;
 const pageTitle = `${title} - e-roadster.`;
 ---
 <BaseLayout title={pageTitle} description={description} canonical={canonicalUrl} ogType="website">
-  <article>
+  <article class="page-shell">
     <h1>{title}</h1>
     <div class="article-body">
       <slot />

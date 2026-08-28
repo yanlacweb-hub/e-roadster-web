@@ -50,19 +50,20 @@ const jsonLd = {
   modifiedTime={modified}
   author={author}
   jsonLd={jsonLd}
+  activeCategory={category}
 >
-  <article>
+  <article class="article-shell">
     <div class="article-header">
       {category && (
         <a class="category-badge" href={`/category/${category}/`}>{categoryName || category}</a>
       )}
       <h1>{title}</h1>
       <p class="meta">
-        Publié le {new Date(date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}
-        {author && <> — par {author}</>}
+        <span>Publié le {new Date(date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+        {author && <span>— par {author}</span>}
       </p>
     </div>
-    {image && <img class="article-cover" src={image} alt={imageAlt || title} />}
+    {image && <img class="article-cover" src={image} alt={imageAlt || title} width="1200" height="675" />}
     <div class="article-body">
       <slot />
     </div>

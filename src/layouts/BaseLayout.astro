@@ -1,4 +1,7 @@
 ---
+import '../styles/global.css';
+import categoriesData from '../data/categories.json';
+
 export interface Props {
   title: string;
   description?: string;
@@ -9,6 +12,7 @@ export interface Props {
   modifiedTime?: string;
   author?: string;
   jsonLd?: Record<string, any>;
+  activeCategory?: string;
 }
 
 const {
@@ -21,6 +25,7 @@ const {
   modifiedTime,
   author,
   jsonLd,
+  activeCategory,
 } = Astro.props;
 
 const siteUrl = 'https://e-roadster.fr';
@@ -28,6 +33,13 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).toString(
 const resolvedOgImage = ogImage
   ? (ogImage.startsWith('http') ? ogImage : new URL(ogImage, siteUrl).toString())
   : new URL('/wp-content/uploads/default-og.jpg', siteUrl).toString();
+
+const navCategories = [
+  { slug: 'voiture-electrique', label: 'Voiture électrique' },
+  { slug: 'entretien-et-recharge', label: 'Entretien & recharge' },
+  { slug: 'assurance', label: 'Assurance' },
+  { slug: 'e-roadster', label: 'e-roadster' },
+];
 ---
 <!doctype html>
 <html lang="fr">
@@ -38,6 +50,13 @@ const resolvedOgImage = ogImage
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
 
     <!-- Open Graph -->
     <meta property="og:title" content={title} />
@@ -64,13 +83,17 @@ const resolvedOgImage = ogImage
   <body>
     <header class="site-header">
       <div class="wrap">
-        <a class="brand" href="/">e-roadster.</a>
+        <a class="brand" href="/">e-roadster<span class="dot">.</span></a>
         <nav class="main-nav">
-          <a href="/">Accueil</a>
-          <a href="/category/voiture-electrique/">Voiture électrique</a>
-          <a href="/category/entretien-et-recharge/">Entretien &amp; recharge</a>
-          <a href="/category/assurance/">Assurance</a>
-          <a href="/category/e-roadster/">e-roadster</a>
+          <a href="/" aria-current={Astro.url.pathname === '/' ? 'page' : undefined}>Accueil</a>
+          {navCategories.map((cat) => (
+            <a
+              href={`/category/${cat.slug}/`}
+              class={activeCategory === cat.slug ? 'active' : ''}
+            >
+              {cat.label}
+            </a>
+          ))}
         </nav>
       </div>
     </header>
@@ -79,67 +102,12 @@ const resolvedOgImage = ogImage
     </main>
     <footer class="site-footer">
       <div class="wrap">
+        <p class="footer-brand">e-roadster.</p>
+        <div class="footer-links">
+          <a href="/mention-legal/">Mentions légales</a>
+        </div>
         <p>&copy; {new Date().getFullYear()} e-roadster. — Tous droits réservés.</p>
-        <p><a href="/mention-legal/">Mentions légales</a></p>
       </div>
     </footer>
-    <style is:global>
-      :root { color-scheme: light; }
-      * { box-sizing: border-box; }
-      body {
-        margin: 0;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-        color: #1a1a1a;
-        line-height: 1.65;
-        background: #fff;
-      }
-      .wrap { max-width: 860px; margin: 0 auto; padding: 0 1.25rem; }
-      .site-header {
-        border-bottom: 1px solid #eee;
-        padding: 1rem 0;
-      }
-      .site-header .wrap { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; max-width: 1000px; }
-      .brand { font-weight: 800; font-size: 1.35rem; color: #0a7d3f; text-decoration: none; }
-      .main-nav { display: flex; gap: 1rem; flex-wrap: wrap; }
-      .main-nav a { color: #333; text-decoration: none; font-size: 0.95rem; }
-      .main-nav a:hover { color: #0a7d3f; text-decoration: underline; }
-      main.wrap { max-width: 1000px; padding-top: 2rem; padding-bottom: 3rem; min-height: 60vh; }
-      img { max-width: 100%; height: auto; }
-      table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
-      table th, table td { border: 1px solid #ddd; padding: 0.5rem 0.75rem; text-align: left; }
-      table th { background: #f5f5f5; }
-      h1, h2, h3 { line-height: 1.3; }
-      a { color: #0a7d3f; }
-      .site-footer {
-        border-top: 1px solid #eee;
-        margin-top: 2rem;
-        padding: 1.5rem 0;
-        color: #666;
-        font-size: 0.9rem;
-      }
-      .site-footer .wrap { max-width: 1000px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
-      .post-card {
-        border-bottom: 1px solid #eee;
-        padding: 1.5rem 0;
-      }
-      .post-card h2 { margin: 0 0 0.4rem; font-size: 1.3rem; }
-      .post-card h2 a { text-decoration: none; color: #111; }
-      .post-card h2 a:hover { color: #0a7d3f; }
-      .post-card .meta { color: #777; font-size: 0.85rem; margin-bottom: 0.5rem; }
-      .post-card img { border-radius: 6px; margin-bottom: 0.75rem; }
-      .article-header { margin-bottom: 1.5rem; }
-      .article-header .meta { color: #777; font-size: 0.9rem; }
-      .article-header h1 { margin-bottom: 0.5rem; }
-      .article-cover { width: 100%; border-radius: 8px; margin: 1rem 0 2rem; }
-      .category-badge {
-        display: inline-block;
-        background: #e6f6ec;
-        color: #0a7d3f;
-        border-radius: 999px;
-        padding: 0.2rem 0.7rem;
-        font-size: 0.8rem;
-        text-decoration: none;
-      }
-    </style>
   </body>
 </html>

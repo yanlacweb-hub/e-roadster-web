@@ -11,21 +11,32 @@ const posts = (await getCollection('posts')).sort(
   title="e-roadster. — Actualité, conseils et guides sur la voiture électrique"
   description="e-roadster. est le blog dédié à la voiture électrique : assurance, entretien, recharge, choix de modèles et conseils pratiques."
 >
-  <h1>Derniers articles</h1>
+  <section class="hero">
+    <div class="hero-inner">
+      <span class="hero-eyebrow">Le blog de la mobilité électrique</span>
+      <h1>Tout savoir sur la voiture électrique, sans jargon.</h1>
+      <p>Guides, comparatifs, entretien et recharge : e-roadster. vous accompagne pour rouler électrique en toute confiance.</p>
+    </div>
+  </section>
+
+  <h2 class="section-title">Derniers articles</h2>
   <div class="post-list">
     {posts.map((post) => {
       const catInfo = categoriesData.find((c) => c.slug === post.data.category);
       return (
         <article class="post-card">
           {post.data.image && (
-            <a href={`/${post.data.postSlug}/`}>
+            <a class="card-media" href={`/${post.data.postSlug}/`}>
               <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width="600" height="340" />
+              {catInfo && <span class="category-badge">{catInfo.name}</span>}
             </a>
           )}
-          {catInfo && <a class="category-badge" href={`/category/${catInfo.slug}/`}>{catInfo.name}</a>}
-          <h2><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h2>
-          <p class="meta">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
-          <p>{post.data.description}</p>
+          <div class="card-body">
+            <p class="meta">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+            {!post.data.image && catInfo && <a class="category-badge" href={`/category/${catInfo.slug}/`}>{catInfo.name}</a>}
+            <h2><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h2>
+            <p class="excerpt">{post.data.description}</p>
+          </div>
         </article>
       );
     })}
