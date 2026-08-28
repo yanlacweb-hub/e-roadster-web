@@ -1,5 +1,5 @@
 ---
-title: "cout remplacement batterie voiture electrique"
+title: "Coût du remplacement d'une batterie électrique"
 postSlug: "cout-remplacement-batterie-voiture-electrique"
 date: "2022-12-29T18:45:15"
 modified: "2025-05-16T10:57:05"

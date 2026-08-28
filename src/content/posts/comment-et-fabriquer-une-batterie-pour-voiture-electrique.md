@@ -1,5 +1,5 @@
 ---
-title: "comment et fabriquer une batterie pour voiture electrique"
+title: "Comment fabriquer une batterie pour voiture électrique ?"
 postSlug: "comment-et-fabriquer-une-batterie-pour-voiture-electrique"
 date: "2022-12-28T01:54:09"
 modified: "2025-05-16T15:17:30"

@@ -1,5 +1,5 @@
 ---
-title: "7 avantages de passer sur une petite voiture electrique"
+title: "Petite voiture électrique : 7 bonnes raisons de la choisir"
 postSlug: "petite-voiture-electrique-7-arguments"
 date: "2022-12-05T00:21:39"
 modified: "2022-12-18T02:04:58"

@@ -1,5 +1,5 @@
 ---
-title: "batterie voiture electrique: 7 avantages"
+title: "Batterie de voiture électrique : 7 avantages"
 postSlug: "batterie-voiture-electrique"
 date: "2022-12-05T00:32:13"
 modified: "2022-12-18T02:02:19"
