@@ -3,24 +3,40 @@
     "slug": "assurance",
     "name": "assurance",
     "title": "Archives des assurance - e-roadster.",
-    "description": ""
+    "description": "",
+    "color": "#e59736",
+    "hero": "/wp-content/uploads/2022/12/vehicule-electrique-blanc.png",
+    "heroAlt": "Voiture électrique blanche assurée",
+    "label": "Protéger son véhicule"
   },
   {
     "slug": "e-roadster",
     "name": "e-roadster",
     "title": "Archives des e-roadster - e-roadster.",
-    "description": ""
+    "description": "",
+    "color": "#9b6bd8",
+    "hero": "/wp-content/uploads/2021/01/tesla-roadster-live-from-grand-basel.webp",
+    "heroAlt": "Tesla Roadster, voiture électrique sportive",
+    "label": "La passion électrique"
   },
   {
     "slug": "entretien-et-recharge",
     "name": "entretien et recharge",
     "title": "Entretien voiture électrique : conseils, coûts et durée de vie - e-roadster.",
-    "description": "Découvrez comment entretenir votre voiture électrique : batterie, recharge, coûts, garanties. Astuces pour économiser et prolonger la durée de vie du véhicule."
+    "description": "Découvrez comment entretenir votre voiture électrique : batterie, recharge, coûts, garanties. Astuces pour économiser et prolonger la durée de vie du véhicule.",
+    "color": "#2f9de0",
+    "hero": "/wp-content/uploads/2025/07/ve-cable-de-recharge-scaled.jpg",
+    "heroAlt": "Branchement d’un câble de recharge sur une voiture électrique",
+    "label": "Bien choisir son câble"
   },
   {
     "slug": "voiture-electrique",
     "name": "Voiture electrique",
     "title": "Archives des Voiture electrique - e-roadster.",
-    "description": ""
+    "description": "",
+    "color": "#18c995",
+    "hero": "/wp-content/uploads/2025/07/suv-electrique-scaled.jpg",
+    "heroAlt": "SUV électrique moderne",
+    "label": "Choisir son véhicule électrique"
   }
 ]

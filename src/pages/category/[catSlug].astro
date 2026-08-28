@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import categoriesData from '../../data/categories.json';
 import { estimateReadingTime, formatReadingTime } from '../../utils/readingTime';
+import { cleanExcerpt } from '../../utils/text';
 
 export async function getStaticPaths() {
   return categoriesData.map((cat) => ({
@@ -34,6 +35,10 @@ const popularTopics = categoriesData
 // Guide "à la une" de la catégorie (le plus ancien / le plus consulté par défaut : ici le 2e plus récent
 // s'il existe, sinon le plus récent, pour éviter de dupliquer le featured en aside).
 const guidePick = others[0] ?? featured;
+
+// Couleur dédiée + image hero + label court par catégorie (maquette v2 client,
+// /tmp/refonte-ux-v2/categorie.js -> objet `taxonomy`). Portés dans categories.json.
+const categoryColor = cat.color ?? '#12b76a';
 ---
 <BaseLayout
   title={cat.title || `${cat.name} - e-roadster.`}
@@ -41,17 +46,27 @@ const guidePick = others[0] ?? featured;
   canonical={`https://e-roadster.fr/category/${cat.slug}/`}
   activeCategory={cat.slug}
 >
-  <div class="nd-page category-page">
-    <section class="category-hero">
+  <div class="nd-page category-page" style={`--category-color: ${categoryColor}`}>
+    <section class="category-hero-wrap">
       <div class="container">
-        <nav class="breadcrumbs" aria-label="Fil d’Ariane"><a href="/">Accueil</a><span>&rsaquo;</span><strong>{cat.name}</strong></nav>
-        <div class="category-intro">
-          <div>
-            <p class="eyebrow"><span></span> Dossier e-roadster.</p>
-            <h1>{cat.name}</h1>
-            <p>{cat.description || `Guides, conseils et actualités sur ${cat.name}.`}</p>
+        <div class="category-hero">
+          <div class="category-hero-copy">
+            <nav class="breadcrumbs" aria-label="Fil d’Ariane"><a href="/">Accueil</a><span>&rsaquo;</span><strong>{cat.name}</strong></nav>
+            <div class="category-intro">
+              <div>
+                <p class="eyebrow"><span></span> Dossier e-roadster.</p>
+                <h1>{cat.name}</h1>
+                <p>{cat.description || `Guides, conseils et actualités sur ${cat.name}.`}</p>
+              </div>
+              <div class="category-stat"><strong>{posts.length}</strong><span>{posts.length > 1 ? 'guides pratiques' : 'guide pratique'}</span></div>
+            </div>
           </div>
-          <div class="category-stat"><strong>{posts.length}</strong><span>{posts.length > 1 ? 'guides pratiques' : 'guide pratique'}</span></div>
+          {cat.hero && (
+            <figure class="category-hero-image">
+              <img src={cat.hero} alt={cat.heroAlt || cat.name} width="480" height="390" loading="eager" />
+              {cat.label && <figcaption>{cat.label}</figcaption>}
+            </figure>
+          )}
         </div>
       </div>
     </section>
@@ -70,7 +85,7 @@ const guidePick = others[0] ?? featured;
               <div>
                 <p class="meta">{cat.name} &middot; {formatReadingTime(readMinutes(featured))}</p>
                 <h2><a href={`/${featured.data.postSlug}/`}>{featured.data.title}</a></h2>
-                <p>{featured.data.description}</p>
+                <p>{cleanExcerpt(featured.data.description)}</p>
                 <a class="read" href={`/${featured.data.postSlug}/`}>Lire le guide <span>&rarr;</span></a>
               </div>
             </article>
@@ -86,9 +101,9 @@ const guidePick = others[0] ?? featured;
                       {post.data.image && <img src={post.data.image} alt={post.data.imageAlt || post.data.title} width="230" height="150" loading="lazy" />}
                     </a>
                     <div>
-                      <span class="tag" data-category={cat.slug}>{cat.name}</span>
+                      <span class="tag category-tag" data-category={cat.slug}>{cat.name}</span>
                       <h3><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h3>
-                      <p>{post.data.description}</p>
+                      <p>{cleanExcerpt(post.data.description)}</p>
                       <small>{fmtDate(post.data.date)} &middot; {formatReadingTime(readMinutes(post))}</small>
                     </div>
                   </article>
@@ -104,7 +119,7 @@ const guidePick = others[0] ?? featured;
               <span>⚡</span>
               <p class="eyebrow">Le guide essentiel</p>
               <h2>{guidePick.data.title}</h2>
-              <p>{guidePick.data.description}</p>
+              <p>{cleanExcerpt(guidePick.data.description)}</p>
               <a class="button primary" href={`/${guidePick.data.postSlug}/`}>Lire le guide &rarr;</a>
             </div>
           )}
@@ -112,7 +127,7 @@ const guidePick = others[0] ?? featured;
             <h2>Les autres sujets</h2>
             <div class="popular-links">
               {popularTopics.map((topic) => (
-                <a href={`/category/${topic.slug}/`}><span>{topic.name}</span><b>{topic.count}</b></a>
+                <a href={`/category/${topic.slug}/`} style={`--link-color: ${topic.color ?? '#12b76a'}`}><span><i></i>{topic.name}</span><b>{topic.count}</b></a>
               ))}
             </div>
           </div>

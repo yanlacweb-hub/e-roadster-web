@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import categoriesData from '../data/categories.json';
 import { estimateReadingTime, formatReadingTime } from '../utils/readingTime';
+import { cleanExcerpt } from '../utils/text';
 
 const posts = (await getCollection('posts')).sort(
   (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
@@ -80,8 +81,8 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
         </div>
         <div class="hero-visual" aria-label="Voiture électrique en recharge">
           {heroImage && <img src={heroImage} alt={heroImageAlt} width="900" height="1050" loading="eager" />}
-          <div class="charge-card"><span class="charge-icon">⚡</span><div><small>Recharge en cours</small><strong>80&nbsp;% en 28&nbsp;min</strong></div></div>
-          <div class="range-card"><small>Autonomie estimée</small><strong>420 <span>km</span></strong></div>
+          <div class="charge-card"><span class="charge-icon">⚡</span><div><small>Guide pratique</small><strong>Comprendre la recharge</strong></div></div>
+          <div class="range-card"><small>Conseils utiles</small><strong class="no-metric">Autonomie expliquée</strong></div>
         </div>
       </div>
     </section>
@@ -120,7 +121,7 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
               <div class="story-content">
                 <p class="meta">{formatReadingTime(readMinutes(featured))} &middot; {fmtDate(featured.data.date)}</p>
                 <h3><a href={`/${featured.data.postSlug}/`}>{featured.data.title}</a></h3>
-                <p>{featured.data.description}</p>
+                <p>{cleanExcerpt(featured.data.description)}</p>
                 <a class="read" href={`/${featured.data.postSlug}/`}>Lire le guide <span>&rarr;</span></a>
               </div>
             </article>
@@ -133,7 +134,7 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
                     <div>
                       {info && <span class="tag" data-category={info.slug}>{info.name}</span>}
                       <h3><a href={`/${post!.data.postSlug}/`}>{post!.data.title}</a></h3>
-                      <p>{post!.data.description}</p>
+                      <p>{cleanExcerpt(post!.data.description)}</p>
                       <a class="read" href={`/${post!.data.postSlug}/`}>Lire le guide &rarr;</a>
                     </div>
                   </article>
@@ -167,7 +168,7 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
                 <div>
                   {info && <span class="tag" data-category={info.slug}>{info.name}</span>}
                   <h3><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h3>
-                  <p>{post.data.description}</p>
+                  <p>{cleanExcerpt(post.data.description)}</p>
                   <small>{formatReadingTime(readMinutes(post))}</small>
                 </div>
               </article>
