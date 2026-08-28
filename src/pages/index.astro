@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import categoriesData from '../data/categories.json';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+---
+<BaseLayout
+  title="e-roadster. — Actualité, conseils et guides sur la voiture électrique"
+  description="e-roadster. est le blog dédié à la voiture électrique : assurance, entretien, recharge, choix de modèles et conseils pratiques."
+>
+  <h1>Derniers articles</h1>
+  <div class="post-list">
+    {posts.map((post) => {
+      const catInfo = categoriesData.find((c) => c.slug === post.data.category);
+      return (
+        <article class="post-card">
+          {post.data.image && (
+            <a href={`/${post.data.postSlug}/`}>
+              <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width="600" height="340" />
+            </a>
+          )}
+          {catInfo && <a class="category-badge" href={`/category/${catInfo.slug}/`}>{catInfo.name}</a>}
+          <h2><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h2>
+          <p class="meta">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+          <p>{post.data.description}</p>
+        </article>
+      );
+    })}
+  </div>
+</BaseLayout>

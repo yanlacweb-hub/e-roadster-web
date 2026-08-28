@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "assurance",
+    "name": "assurance",
+    "title": "Archives des assurance - e-roadster.",
+    "description": ""
+  },
+  {
+    "slug": "e-roadster",
+    "name": "e-roadster",
+    "title": "Archives des e-roadster - e-roadster.",
+    "description": ""
+  },
+  {
+    "slug": "entretien-et-recharge",
+    "name": "entretien et recharge",
+    "title": "Entretien voiture électrique : conseils, coûts et durée de vie - e-roadster.",
+    "description": "Découvrez comment entretenir votre voiture électrique : batterie, recharge, coûts, garanties. Astuces pour économiser et prolonger la durée de vie du véhicule."
+  },
+  {
+    "slug": "voiture-electrique",
+    "name": "Voiture electrique",
+    "title": "Archives des Voiture electrique - e-roadster.",
+    "description": ""
+  }
+]

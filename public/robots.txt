@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://e-roadster.fr/sitemap-index.xml

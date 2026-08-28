@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+import PageLayout from '../layouts/PageLayout.astro';
+import categoriesData from '../data/categories.json';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const pages = await getCollection('pages');
+
+  const postPaths = posts.map((post) => ({
+    params: { slug: post.data.postSlug },
+    props: { kind: 'post' as const, entry: post },
+  }));
+
+  const pagePaths = pages.map((page) => ({
+    params: { slug: page.data.postSlug },
+    props: { kind: 'page' as const, entry: page },
+  }));
+
+  return [...postPaths, ...pagePaths];
+}
+
+const { kind, entry } = Astro.props;
+const { Content } = await entry.render();
+
+const catInfo = kind === 'post'
+  ? categoriesData.find((c) => c.slug === (entry as any).data.category)
+  : undefined;
+---
+{kind === 'post' ? (
+  <ArticleLayout
+    title={entry.data.title}
+    description={(entry as any).data.description}
+    slug={entry.data.postSlug}
+    date={(entry as any).data.date}
+    modified={(entry as any).data.modified}
+    image={(entry as any).data.image}
+    imageAlt={(entry as any).data.imageAlt}
+    author={(entry as any).data.author}
+    category={(entry as any).data.category}
+    categoryName={catInfo?.name}
+  >
+    <Content />
+  </ArticleLayout>
+) : (
+  <PageLayout title={entry.data.title} description={(entry as any).data.description} slug={entry.data.postSlug}>
+    <Content />
+  </PageLayout>
+)}

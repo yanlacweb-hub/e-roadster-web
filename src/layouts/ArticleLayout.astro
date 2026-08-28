@@ -1,0 +1,70 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+export interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  date: string;
+  modified?: string;
+  image?: string;
+  imageAlt?: string;
+  author?: string;
+  category?: string;
+  categoryName?: string;
+}
+
+const {
+  title, description, slug, date, modified, image, imageAlt, author = 'e-roadster.', category, categoryName,
+} = Astro.props;
+
+const siteUrl = 'https://e-roadster.fr';
+const canonicalUrl = `${siteUrl}/${slug}/`;
+const pageTitle = `${title} - e-roadster.`;
+const imageUrl = image ? new URL(image, siteUrl).toString() : undefined;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description,
+  datePublished: date,
+  dateModified: modified || date,
+  author: { '@type': 'Person', name: author },
+  publisher: {
+    '@type': 'Organization',
+    name: 'e-roadster.',
+    logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+  },
+  ...(imageUrl ? { image: imageUrl } : {}),
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
+};
+---
+<BaseLayout
+  title={pageTitle}
+  description={description}
+  canonical={canonicalUrl}
+  ogType="article"
+  ogImage={image}
+  publishedTime={date}
+  modifiedTime={modified}
+  author={author}
+  jsonLd={jsonLd}
+>
+  <article>
+    <div class="article-header">
+      {category && (
+        <a class="category-badge" href={`/category/${category}/`}>{categoryName || category}</a>
+      )}
+      <h1>{title}</h1>
+      <p class="meta">
+        Publié le {new Date(date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}
+        {author && <> — par {author}</>}
+      </p>
+    </div>
+    {image && <img class="article-cover" src={image} alt={imageAlt || title} />}
+    <div class="article-body">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

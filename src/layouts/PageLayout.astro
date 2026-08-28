@@ -1,0 +1,22 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+export interface Props {
+  title: string;
+  description?: string;
+  slug: string;
+}
+
+const { title, description = '', slug } = Astro.props;
+const siteUrl = 'https://e-roadster.fr';
+const canonicalUrl = `${siteUrl}/${slug}/`;
+const pageTitle = `${title} - e-roadster.`;
+---
+<BaseLayout title={pageTitle} description={description} canonical={canonicalUrl} ogType="website">
+  <article>
+    <h1>{title}</h1>
+    <div class="article-body">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

@@ -1,0 +1,74 @@
+# Configuration Sveltia CMS pour e-roadster.
+# Documentation : https://github.com/sveltia/sveltia-cms
+
+backend:
+  name: github
+  # À remplacer par le vrai repo GitHub avant déploiement (format: owner/repo)
+  repo: PLACEHOLDER_OWNER/e-roadster-site
+  branch: main
+
+# Le site est buildé et déployé sur Cloudflare Pages ; Sveltia CMS commit
+# directement dans le repo Git, ce qui déclenche un nouveau build.
+site_url: https://e-roadster.fr
+display_url: https://e-roadster.fr
+logo_url: /favicon.svg
+
+media_folder: "public/wp-content/uploads/cms"
+public_folder: "/wp-content/uploads/cms"
+
+collections:
+  - name: "posts"
+    label: "Articles"
+    label_singular: "Article"
+    folder: "src/content/posts"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    extension: "md"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Slug (URL)", name: "slug", widget: "string", hint: "Doit correspondre exactement au nom de fichier et à l'URL /slug/" }
+      - { label: "Date de publication", name: "date", widget: "datetime" }
+      - { label: "Date de modification", name: "modified", widget: "datetime", required: false }
+      - { label: "Description (SEO)", name: "description", widget: "text", hint: "Utilisée comme meta description" }
+      - label: "Catégorie principale"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Assurance", value: "assurance" }
+          - { label: "e-roadster", value: "e-roadster" }
+          - { label: "Entretien et recharge", value: "entretien-et-recharge" }
+          - { label: "Voiture électrique", value: "voiture-electrique" }
+      - label: "Catégories (liste)"
+        name: "categories"
+        widget: "list"
+        required: false
+        default: []
+        field:
+          label: "Catégorie"
+          name: "slug"
+          widget: "select"
+          options:
+            - "assurance"
+            - "e-roadster"
+            - "entretien-et-recharge"
+            - "voiture-electrique"
+      - { label: "Image à la une", name: "image", widget: "image", required: false }
+      - { label: "Texte alternatif de l'image", name: "imageAlt", widget: "string", required: false }
+      - { label: "Auteur", name: "author", widget: "string", default: "e-roadster." }
+      - { label: "Brouillon", name: "draft", widget: "boolean", default: false, required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    folder: "src/content/pages"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    extension: "md"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Slug (URL)", name: "slug", widget: "string" }
+      - { label: "Description (SEO)", name: "description", widget: "text", required: false }
+      - { label: "Contenu", name: "body", widget: "markdown" }
