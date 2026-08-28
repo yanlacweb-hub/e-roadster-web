@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import CategoryPageLayout from '../../../../components/CategoryPageLayout.astro';
+import categoriesData from '../../../../data/categories.json';
+import { getCategoryPosts, totalPagesFor, PER_PAGE } from '../../../../utils/categoryPosts';
+
+// Pages de pagination /category/<slug>/page/2/, /page/3/, etc.
+// La page 1 reste servie par /category/[catSlug].astro (URL canonique sans
+// suffixe /page/1/) : on ne génère ici que les pages 2..N.
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  const paths: { params: { catSlug: string; page: string }; props: { cat: any } }[] = [];
+
+  for (const cat of categoriesData) {
+    const posts = getCategoryPosts(allPosts, cat.slug);
+    const [, ...others] = posts;
+    const totalPages = totalPagesFor(others.length);
+    for (let n = 2; n <= totalPages; n++) {
+      paths.push({ params: { catSlug: cat.slug, page: String(n) }, props: { cat } });
+    }
+  }
+
+  return paths;
+}
+
+const { cat } = Astro.props;
+const { page } = Astro.params;
+const pageNum = Number(page);
+
+const allPosts = await getCollection('posts');
+const posts = getCategoryPosts(allPosts, cat.slug);
+const [, ...others] = posts;
+const totalPages = totalPagesFor(others.length);
+
+const pageItems = others.slice((pageNum - 1) * PER_PAGE, pageNum * PER_PAGE);
+
+const popularTopics = categoriesData
+  .filter((c) => c.slug !== cat.slug)
+  .map((c) => ({
+    ...c,
+    count: allPosts.filter((p) => p.data.categories?.includes(c.slug)).length,
+  }));
+
+const guidePick = others[0] ?? posts[0];
+const categoryColor = cat.color ?? '#12b76a';
+---
+<BaseLayout
+  title={`${cat.name} — page ${pageNum} - e-roadster.`}
+  description={cat.description || `Articles de la catégorie ${cat.name} sur e-roadster.`}
+  canonical={`https://e-roadster.fr/category/${cat.slug}/page/${pageNum}/`}
+  activeCategory={cat.slug}
+>
+  <CategoryPageLayout
+    cat={cat}
+    categoryColor={categoryColor}
+    posts={posts}
+    pageItems={pageItems}
+    showFeatured={false}
+    pageNum={pageNum}
+    totalPages={totalPages}
+    popularTopics={popularTopics}
+    guidePick={guidePick}
+    basePath={`/category/${cat.slug}`}
+  />
+</BaseLayout>

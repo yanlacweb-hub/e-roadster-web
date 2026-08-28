@@ -9,6 +9,7 @@ categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/voiture-electique-ou-diesel.webp"
 imageAlt: "Voiture hybride ou électrique : comment bien choisir en 2025 ?"
 author: "Gabriel Dubois"
+outdated: true
 ---
 
 <p> </p>

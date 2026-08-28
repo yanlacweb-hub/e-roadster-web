@@ -9,6 +9,7 @@ categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/voiture-electrique.jpg"
 imageAlt: "Quelle est la meilleure marque de voiture électrique en 2025 ?"
 author: "Gabriel Dubois"
+outdated: true
 ---
 
 <h2><img loading="lazy" decoding="async" class="size-medium wp-image-232 aligncenter" src="/wp-content/uploads/2022/12/voiture-electrique-300x187.jpg" alt="" width="300" height="187" srcset="/wp-content/uploads/2022/12/voiture-electrique-300x187.jpg 300w, /wp-content/uploads/2022/12/voiture-electrique-481x300.jpg 481w, /wp-content/uploads/2022/12/voiture-electrique.jpg 740w" sizes="auto, (max-width: 300px) 100vw, 300px" /></h2>

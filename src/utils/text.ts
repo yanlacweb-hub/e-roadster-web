@@ -12,7 +12,10 @@
 export function cleanExcerpt(text: string | undefined | null, maxLength = 140): string {
   if (!text) return '';
 
-  const cleaned = text.replace(/^\s*Introduction\s*:\s*/i, '').trim();
+  // Tolère aussi les variantes avec espace(s) parasite(s) au milieu du mot
+  // "Introduction" (ex. artefact d'import CMS "I ntroduction:") en plus du
+  // pattern strict "Introduction:".
+  const cleaned = text.replace(/^\s*I\s*n\s*t\s*r\s*o\s*d\s*u\s*c\s*t\s*i\s*o\s*n\s*:\s*/i, '').trim();
 
   if (cleaned.length <= maxLength) return cleaned;
 

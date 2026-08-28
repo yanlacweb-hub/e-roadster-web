@@ -14,6 +14,7 @@ const posts = defineCollection({
     imageAlt: z.string().optional().default(''),
     author: z.string().optional().default('e-roadster.'),
     draft: z.boolean().optional().default(false),
+    outdated: z.boolean().optional().default(false),
   }),
 });
 

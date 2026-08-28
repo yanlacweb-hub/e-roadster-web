@@ -1,9 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import CategoryPageLayout from '../../components/CategoryPageLayout.astro';
 import categoriesData from '../../data/categories.json';
-import { estimateReadingTime, formatReadingTime } from '../../utils/readingTime';
-import { cleanExcerpt } from '../../utils/text';
+import { getCategoryPosts, totalPagesFor, PER_PAGE } from '../../utils/categoryPosts';
 
 export async function getStaticPaths() {
   return categoriesData.map((cat) => ({
@@ -14,15 +14,13 @@ export async function getStaticPaths() {
 
 const { cat } = Astro.props;
 const allPosts = await getCollection('posts');
-const posts = allPosts
-  .filter((p) => p.data.categories?.includes(cat.slug))
-  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
-
-const fmtDate = (d: string) =>
-  new Date(d).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
-const readMinutes = (post: (typeof posts)[number]) => estimateReadingTime(post.body ?? '');
+const posts = getCategoryPosts(allPosts, cat.slug);
 
 const [featured, ...others] = posts;
+const totalPages = totalPagesFor(others.length);
+// Page 1 (URL canonique /category/<slug>/, sans suffixe /page/1/) : les 9
+// premiers articles hors vedette.
+const pageItems = others.slice(0, PER_PAGE);
 
 // Sujets populaires (sidebar) : les autres vraies catégories avec leur nombre d'articles.
 const popularTopics = categoriesData
@@ -46,117 +44,17 @@ const categoryColor = cat.color ?? '#12b76a';
   canonical={`https://e-roadster.fr/category/${cat.slug}/`}
   activeCategory={cat.slug}
 >
-  <div class="nd-page category-page" style={`--category-color: ${categoryColor}`}>
-    <section class="category-hero-wrap">
-      <div class="container">
-        <div class="category-hero">
-          <div class="category-hero-copy">
-            <nav class="breadcrumbs" aria-label="Fil d’Ariane"><a href="/">Accueil</a><span>&rsaquo;</span><strong>{cat.name}</strong></nav>
-            <div class="category-intro">
-              <div>
-                <p class="eyebrow"><span></span> Dossier e-roadster.</p>
-                <h1>{cat.name}</h1>
-                <p>{cat.description || `Guides, conseils et actualités sur ${cat.name}.`}</p>
-              </div>
-              <div class="category-stat"><strong>{posts.length}</strong><span>{posts.length > 1 ? 'guides pratiques' : 'guide pratique'}</span></div>
-            </div>
-          </div>
-          {cat.hero && (
-            <figure class="category-hero-image">
-              <img src={cat.hero} alt={cat.heroAlt || cat.name} width="480" height="390" loading="eager" />
-              {cat.label && <figcaption>{cat.label}</figcaption>}
-            </figure>
-          )}
-        </div>
-      </div>
-    </section>
-
-    <section class="category-content">
-      <div class="container category-layout">
-        <div class="category-main">
-          {posts.length === 0 && <p class="empty-state">Aucun article dans cette catégorie pour le moment.</p>}
-
-          {featured && (
-            <article class="category-featured">
-              <a class="category-featured-image" href={`/${featured.data.postSlug}/`}>
-                {featured.data.image && <img src={featured.data.image} alt={featured.data.imageAlt || featured.data.title} width="540" height="300" />}
-                <span>Guide recommandé</span>
-              </a>
-              <div>
-                <p class="meta">{cat.name} &middot; {formatReadingTime(readMinutes(featured))}</p>
-                <h2><a href={`/${featured.data.postSlug}/`}>{featured.data.title}</a></h2>
-                <p>{cleanExcerpt(featured.data.description)}</p>
-                <a class="read" href={`/${featured.data.postSlug}/`}>Lire le guide <span>&rarr;</span></a>
-              </div>
-            </article>
-          )}
-
-          {others.length > 0 && (
-            <>
-              <div class="category-toolbar"><h2>Tous les articles</h2></div>
-              <div class="category-list">
-                {others.map((post) => (
-                  <article class="category-row">
-                    <a class="row-image" href={`/${post.data.postSlug}/`}>
-                      {post.data.image && <img src={post.data.image} alt={post.data.imageAlt || post.data.title} width="230" height="150" loading="lazy" />}
-                    </a>
-                    <div>
-                      <span class="tag category-tag" data-category={cat.slug}>{cat.name}</span>
-                      <h3><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h3>
-                      <p>{cleanExcerpt(post.data.description)}</p>
-                      <small>{fmtDate(post.data.date)} &middot; {formatReadingTime(readMinutes(post))}</small>
-                    </div>
-                  </article>
-                ))}
-              </div>
-            </>
-          )}
-        </div>
-
-        <aside class="category-aside">
-          {guidePick && (
-            <div class="aside-card guide-card">
-              <span>⚡</span>
-              <p class="eyebrow">Le guide essentiel</p>
-              <h2>{guidePick.data.title}</h2>
-              <p>{cleanExcerpt(guidePick.data.description)}</p>
-              <a class="button primary" href={`/${guidePick.data.postSlug}/`}>Lire le guide &rarr;</a>
-            </div>
-          )}
-          <div class="aside-card">
-            <h2>Les autres sujets</h2>
-            <div class="popular-links">
-              {popularTopics.map((topic) => (
-                <a href={`/category/${topic.slug}/`} style={`--link-color: ${topic.color ?? '#12b76a'}`}><span><i></i>{topic.name}</span><b>{topic.count}</b></a>
-              ))}
-            </div>
-          </div>
-          <div class="aside-card mini-newsletter">
-            <p class="eyebrow">Newsletter</p>
-            <h2>Un guide utile chaque semaine.</h2>
-            <form id="nd-newsletter-form">
-              <label class="sr-only" for="nd-email">Votre adresse e-mail</label>
-              <input id="nd-email" type="email" placeholder="Votre e-mail" required />
-              <button type="submit">Je m&rsquo;inscris &rarr;</button>
-              <small id="nd-form-message">Aucun spam. Désinscription en un clic.</small>
-            </form>
-          </div>
-        </aside>
-      </div>
-    </section>
-  </div>
+  <CategoryPageLayout
+    cat={cat}
+    categoryColor={categoryColor}
+    posts={posts}
+    featured={featured}
+    pageItems={pageItems}
+    showFeatured={true}
+    pageNum={1}
+    totalPages={totalPages}
+    popularTopics={popularTopics}
+    guidePick={guidePick}
+    basePath={`/category/${cat.slug}`}
+  />
 </BaseLayout>
-
-<script>
-  // Newsletter : démonstration visuelle uniquement, pas de backend.
-  const form = document.querySelector('#nd-newsletter-form');
-  form?.addEventListener('submit', (event) => {
-    event.preventDefault();
-    const message = document.querySelector('#nd-form-message');
-    if (message) {
-      message.textContent = 'Merci ! Le formulaire est prêt à être relié à votre outil d’e-mailing.';
-      (message as HTMLElement).style.color = '#087a5b';
-    }
-    (event.currentTarget as HTMLFormElement).reset();
-  });
-</script>

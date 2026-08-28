@@ -117,6 +117,7 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
               <a class="story-image" href={`/${featured.data.postSlug}/`}>
                 {featured.data.image && <img src={featured.data.image} alt={featured.data.imageAlt || featured.data.title} width="760" height="330" />}
                 {catInfo(featured.data.category) && <span>{catInfo(featured.data.category)?.name}</span>}
+                {featured.data.outdated && <span class="outdated-badge">Contenu à actualiser</span>}
               </a>
               <div class="story-content">
                 <p class="meta">{formatReadingTime(readMinutes(featured))} &middot; {fmtDate(featured.data.date)}</p>
@@ -131,6 +132,7 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
                 return (
                   <article class="side-story">
                     {post!.data.image && <img src={post!.data.image} alt={post!.data.imageAlt || post!.data.title} width="320" height="210" />}
+                    {post!.data.outdated && <span class="outdated-badge">Contenu à actualiser</span>}
                     <div>
                       {info && <span class="tag" data-category={info.slug}>{info.name}</span>}
                       <h3><a href={`/${post!.data.postSlug}/`}>{post!.data.title}</a></h3>
@@ -164,6 +166,7 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
               <article class="article-card" data-category={post.data.category}>
                 <a href={`/${post.data.postSlug}/`}>
                   {post.data.image && <img src={post.data.image} alt={post.data.imageAlt || post.data.title} width="360" height="195" loading="lazy" />}
+                  {post.data.outdated && <span class="outdated-badge">Contenu à actualiser</span>}
                 </a>
                 <div>
                   {info && <span class="tag" data-category={info.slug}>{info.name}</span>}
