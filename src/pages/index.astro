@@ -7,47 +7,219 @@ import { estimateReadingTime, formatReadingTime } from '../utils/readingTime';
 const posts = (await getCollection('posts')).sort(
   (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
 );
+
+const catInfo = (slug: string) => categoriesData.find((c) => c.slug === slug);
+const fmtDate = (d: string) =>
+  new Date(d).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' });
+const readMinutes = (post: (typeof posts)[number]) => estimateReadingTime(post.body ?? '');
+
+// Article vedette = le plus récent ; 2 articles secondaires = les 2 suivants.
+const [featured, side1, side2, ...rest] = posts;
+
+// "Commencez ici" : 4 raccourcis vers de vrais articles/catégories représentatifs.
+const quickPicks = [
+  {
+    icon: '🚘',
+    label: 'Guide d’achat',
+    title: 'Quelle voiture électrique choisir ?',
+    text: 'Comparez les modèles selon votre budget et votre usage.',
+    href: `/${posts.find((p) => p.data.postSlug === 'top-10-quelle-voiture-electrique-choisir')?.data.postSlug ?? posts[0].data.postSlug}/`,
+    featured: true,
+  },
+  {
+    icon: '⌂',
+    label: 'À la maison',
+    title: 'Installer une recharge',
+    text: 'Prise, borne, prix et conseils pratiques.',
+    href: `/category/entretien-et-recharge/`,
+  },
+  {
+    icon: '🔋',
+    label: 'Comprendre',
+    title: 'Autonomie & batterie',
+    text: 'Durée de vie et bonnes pratiques.',
+    href: `/${posts.find((p) => p.data.postSlug === 'autonomie-voiture-electrique')?.data.postSlug ?? posts[0].data.postSlug}/`,
+  },
+  {
+    icon: '⚡',
+    label: 'Découvrir',
+    title: 'Tous les guides voiture électrique',
+    text: 'Comparatifs, entretien et actualités.',
+    href: `/category/voiture-electrique/`,
+  },
+];
+
+// Grille filtrable : les articles restants (hors vedette + secondaires), limités à 12.
+const gridPosts = rest.slice(0, 12);
+
+// Vraies catégories du site pour les boutons de filtre.
+const filterCategories = categoriesData;
+
+// Image de hero : la plus récente image d'article disponible.
+const heroImage = featured?.data.image;
+const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture électrique';
 ---
 <BaseLayout
   title="e-roadster. — Actualité, conseils et guides sur la voiture électrique"
   description="e-roadster. est le blog dédié à la voiture électrique : assurance, entretien, recharge, choix de modèles et conseils pratiques."
 >
-  <section class="hero">
-    <div class="hero-inner">
-      <span class="hero-eyebrow">Le blog de la mobilité électrique</span>
-      <h1>Tout savoir sur la voiture électrique, sans jargon.</h1>
-      <p>Guides, comparatifs, entretien et recharge : e-roadster. vous accompagne pour rouler électrique en toute confiance.</p>
-    </div>
-  </section>
-
-  <h2 class="section-title">Derniers articles</h2>
-  <div class="post-list">
-    {posts.map((post) => {
-      const catInfo = categoriesData.find((c) => c.slug === post.data.category);
-      const readingMinutes = estimateReadingTime(post.body ?? '');
-      return (
-        <article class="post-card">
-          {post.data.image && (
-            <a class="card-media" href={`/${post.data.postSlug}/`}>
-              <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width="600" height="340" />
-              {catInfo && <span class="category-badge" data-category={catInfo.slug}>{catInfo.name}</span>}
-            </a>
-          )}
-          <div class="card-body">
-            <p class="meta">
-              <span class="meta-date">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
-              <span class="meta-sep" aria-hidden="true">&middot;</span>
-              <span class="meta-reading">{formatReadingTime(readingMinutes)}</span>
-            </p>
-            {!post.data.image && catInfo && <a class="category-badge" data-category={catInfo.slug} href={`/category/${catInfo.slug}/`}>{catInfo.name}</a>}
-            <h2><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h2>
-            <p class="excerpt">{post.data.description}</p>
-            <a class="card-cta" href={`/${post.data.postSlug}/`} aria-hidden="true" tabindex="-1">
-              Lire l&rsquo;article <span class="card-cta-arrow">&rarr;</span>
-            </a>
+  <div class="nd-page">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow"><span></span> Le guide de la mobilité électrique</p>
+          <h1>Passez à l&rsquo;électrique <em>sans vous tromper.</em></h1>
+          <p class="lead">Comparatifs, autonomie, recharge et coûts réels : des réponses claires pour choisir et utiliser votre voiture électrique.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#choisir">Choisir ma voiture <span>&rarr;</span></a>
+            <a class="button secondary" href="#guides">Voir les guides</a>
           </div>
-        </article>
-      );
-    })}
+          <div class="trust">
+            <span>✓ Guides pratiques</span><span>✓ Sans jargon</span><span>✓ Conseils indépendants</span>
+          </div>
+        </div>
+        <div class="hero-visual" aria-label="Voiture électrique en recharge">
+          {heroImage && <img src={heroImage} alt={heroImageAlt} width="900" height="1050" loading="eager" />}
+          <div class="charge-card"><span class="charge-icon">⚡</span><div><small>Recharge en cours</small><strong>80&nbsp;% en 28&nbsp;min</strong></div></div>
+          <div class="range-card"><small>Autonomie estimée</small><strong>420 <span>km</span></strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="quick" id="choisir">
+      <div class="container">
+        <div class="section-heading">
+          <div><p class="eyebrow">Commencez ici</p><h2>Que cherchez-vous aujourd&rsquo;hui&nbsp;?</h2></div>
+          <p>Trouvez directement les informations adaptées à votre projet.</p>
+        </div>
+        <div class="quick-grid">
+          {quickPicks.map((q) => (
+            <a class={`quick-card${q.featured ? ' featured' : ''}`} href={q.href}>
+              <span class="icon">{q.icon}</span>
+              <div><small>{q.label}</small><h3>{q.title}</h3><p>{q.text}</p></div>
+              <b>&rarr;</b>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="spotlight" id="guides">
+      <div class="container">
+        <div class="section-heading">
+          <div><p class="eyebrow">Sélection de la rédaction</p><h2>À lire en priorité</h2></div>
+          <a class="text-link" href="#articles">Tous les articles &rarr;</a>
+        </div>
+        {featured && (
+          <div class="spotlight-grid">
+            <article class="main-story">
+              <a class="story-image" href={`/${featured.data.postSlug}/`}>
+                {featured.data.image && <img src={featured.data.image} alt={featured.data.imageAlt || featured.data.title} width="760" height="330" />}
+                {catInfo(featured.data.category) && <span>{catInfo(featured.data.category)?.name}</span>}
+              </a>
+              <div class="story-content">
+                <p class="meta">{formatReadingTime(readMinutes(featured))} &middot; {fmtDate(featured.data.date)}</p>
+                <h3><a href={`/${featured.data.postSlug}/`}>{featured.data.title}</a></h3>
+                <p>{featured.data.description}</p>
+                <a class="read" href={`/${featured.data.postSlug}/`}>Lire le guide <span>&rarr;</span></a>
+              </div>
+            </article>
+            <div class="side-stories">
+              {[side1, side2].filter(Boolean).map((post) => {
+                const info = catInfo(post!.data.category);
+                return (
+                  <article class="side-story">
+                    {post!.data.image && <img src={post!.data.image} alt={post!.data.imageAlt || post!.data.title} width="320" height="210" />}
+                    <div>
+                      {info && <span class="tag" data-category={info.slug}>{info.name}</span>}
+                      <h3><a href={`/${post!.data.postSlug}/`}>{post!.data.title}</a></h3>
+                      <p>{post!.data.description}</p>
+                      <a class="read" href={`/${post!.data.postSlug}/`}>Lire le guide &rarr;</a>
+                    </div>
+                  </article>
+                );
+              })}
+            </div>
+          </div>
+        )}
+      </div>
+    </section>
+
+    <section class="articles" id="articles">
+      <div class="container">
+        <div class="section-heading">
+          <div><p class="eyebrow">Les derniers guides</p><h2>Pour aller plus loin</h2></div>
+          <div class="filters" role="group" aria-label="Filtrer les articles">
+            <button class="active" data-filter="all">Tous</button>
+            {filterCategories.map((c) => (
+              <button data-filter={c.slug}>{c.name}</button>
+            ))}
+          </div>
+        </div>
+        <div class="article-grid">
+          {gridPosts.map((post) => {
+            const info = catInfo(post.data.category);
+            return (
+              <article class="article-card" data-category={post.data.category}>
+                <a href={`/${post.data.postSlug}/`}>
+                  {post.data.image && <img src={post.data.image} alt={post.data.imageAlt || post.data.title} width="360" height="195" loading="lazy" />}
+                </a>
+                <div>
+                  {info && <span class="tag" data-category={info.slug}>{info.name}</span>}
+                  <h3><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h3>
+                  <p>{post.data.description}</p>
+                  <small>{formatReadingTime(readMinutes(post))}</small>
+                </div>
+              </article>
+            );
+          })}
+        </div>
+        <div class="center"><a class="button secondary dark" href="/category/voiture-electrique/">Découvrir tous les articles <span>&rarr;</span></a></div>
+      </div>
+    </section>
+
+    <section class="newsletter">
+      <div class="container newsletter-inner">
+        <div>
+          <p class="eyebrow">La newsletter e-roadster.</p>
+          <h2>L&rsquo;électrique, expliqué simplement.</h2>
+          <p>Recevez nos nouveaux guides et comparatifs. Pas de spam, uniquement l&rsquo;essentiel.</p>
+        </div>
+        <form id="nd-newsletter-form">
+          <label class="sr-only" for="nd-email">Votre adresse e-mail</label>
+          <input id="nd-email" type="email" placeholder="Votre adresse e-mail" required />
+          <button type="submit">Je m&rsquo;inscris &rarr;</button>
+          <small id="nd-form-message">En vous inscrivant, vous acceptez notre politique de confidentialité.</small>
+        </form>
+      </div>
+    </section>
   </div>
 </BaseLayout>
+
+<script>
+  // Filtres d'articles par vraie catégorie (adapté de script.js de la maquette).
+  const filterButtons = document.querySelectorAll('.nd-page .filters button');
+  filterButtons.forEach((button) => {
+    button.addEventListener('click', () => {
+      document.querySelector('.nd-page .filters .active')?.classList.remove('active');
+      button.classList.add('active');
+      const filter = (button as HTMLElement).dataset.filter;
+      document.querySelectorAll('.nd-page .article-card').forEach((card) => {
+        const cat = (card as HTMLElement).dataset.category;
+        card.classList.toggle('hidden', filter !== 'all' && cat !== filter);
+      });
+    });
+  });
+
+  // Newsletter : démonstration visuelle uniquement, pas de backend.
+  const form = document.querySelector('#nd-newsletter-form');
+  form?.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const message = document.querySelector('#nd-form-message');
+    if (message) {
+      message.textContent = 'Merci ! Le formulaire est prêt à être relié à votre outil d’e-mailing.';
+      (message as HTMLElement).style.color = '#087a5b';
+    }
+    (event.currentTarget as HTMLFormElement).reset();
+  });
+</script>
