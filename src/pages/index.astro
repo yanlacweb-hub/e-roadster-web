@@ -178,6 +178,7 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
             );
           })}
         </div>
+        <p id="no-results" class="empty-state" hidden>Aucun article dans cette catégorie pour le moment.</p>
         <div class="center"><a class="button secondary dark" href="/category/voiture-electrique/">Découvrir tous les articles <span>&rarr;</span></a></div>
       </div>
     </section>
@@ -203,15 +204,36 @@ const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture
 <script>
   // Filtres d'articles par vraie catégorie (adapté de script.js de la maquette).
   const filterButtons = document.querySelectorAll('.nd-page .filters button');
+  const spotlightSection = document.querySelector('.nd-page .spotlight#guides');
+  const noResults = document.querySelector('#no-results') as HTMLElement | null;
+
   filterButtons.forEach((button) => {
     button.addEventListener('click', () => {
       document.querySelector('.nd-page .filters .active')?.classList.remove('active');
       button.classList.add('active');
       const filter = (button as HTMLElement).dataset.filter;
+      const filterLabel = (button as HTMLElement).textContent?.trim() ?? '';
+
+      // "À lire en priorité" est une sélection éditoriale globale, pas un résultat
+      // de recherche par catégorie : on la masque tant qu'un filtre est actif.
+      spotlightSection?.classList.toggle('hidden', filter !== 'all');
+
+      let visibleCount = 0;
       document.querySelectorAll('.nd-page .article-card').forEach((card) => {
         const cat = (card as HTMLElement).dataset.category;
-        card.classList.toggle('hidden', filter !== 'all' && cat !== filter);
+        const isHidden = filter !== 'all' && cat !== filter;
+        card.classList.toggle('hidden', isHidden);
+        if (!isHidden) visibleCount += 1;
       });
+
+      if (noResults) {
+        if (visibleCount === 0 && filter !== 'all') {
+          noResults.innerHTML = `Aucun article dans la catégorie « ${filterLabel} » pour le moment. Découvrez nos <a href="/category/voiture-electrique/">guides voiture électrique</a>.`;
+          noResults.hidden = false;
+        } else {
+          noResults.hidden = true;
+        }
+      }
     });
   });
 
