@@ -12,7 +12,7 @@ author: "Gabriel Dubois"
 ---
 
 <h2></h2>
-<h2><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-99" src="/wp-content/uploads/2022/08/images-2-300x150.jpeg" alt="" width="300" height="150" srcset="/wp-content/uploads/2022/08/images-2-300x150.jpeg 300w, /wp-content/uploads/2022/08/images-2.jpeg 318w" sizes="auto, (max-width: 300px) 100vw, 300px" />Faut il acheter ou louer une voiture electrique</h2>
+<h2><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-99" src="/wp-content/uploads/2022/08/images-2-300x150.jpeg" alt="" width="300" height="150" srcset="/wp-content/uploads/2022/08/images-2-300x150.jpeg 300w, /wp-content/uploads/2022/08/images-2.jpeg 318w" sizes="(max-width: 780px) 100vw, 780px" />Faut il acheter ou louer une voiture electrique</h2>
 <p>Il y a plusieurs avantages à acheter une voiture électrique, mais il y a aussi des inconvénients. Avant de décider si vous devriez acheter ou louer une voiture électrique, vous devez d’abord comprendre les différences entre les deux options.</p>
 <p>Acheter une voiture électrique signifie que vous aurez votre propre véhicule et que vous pourrez l’utiliser à votre guise. Cela peut être avantageux si vous avez l’intention de rouler beaucoup ou si vous avez besoin d’une voiture pour un long trajet. Cependant, il y a quelques inconvénients à acheter une voiture électrique. Tout d’abord, ils sont généralement plus chers que les voitures à essence ou au diesel. De plus, ils nécessitent souvent plus d’entretien et de réparations que les voitures conventionnelles.</p>
 <p><!--more--></p>
