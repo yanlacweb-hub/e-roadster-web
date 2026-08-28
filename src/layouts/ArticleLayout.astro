@@ -12,10 +12,11 @@ export interface Props {
   author?: string;
   category?: string;
   categoryName?: string;
+  readingMinutes?: number;
 }
 
 const {
-  title, description, slug, date, modified, image, imageAlt, author = 'e-roadster.', category, categoryName,
+  title, description, slug, date, modified, image, imageAlt, author = 'e-roadster.', category, categoryName, readingMinutes,
 } = Astro.props;
 
 const siteUrl = 'https://e-roadster.fr';
@@ -55,12 +56,13 @@ const jsonLd = {
   <article class="article-shell">
     <div class="article-header">
       {category && (
-        <a class="category-badge" href={`/category/${category}/`}>{categoryName || category}</a>
+        <a class="category-badge" data-category={category} href={`/category/${category}/`}>{categoryName || category}</a>
       )}
       <h1>{title}</h1>
       <p class="meta">
         <span>Publié le {new Date(date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
         {author && <span>— par {author}</span>}
+        {readingMinutes && <span class="meta-reading">{readingMinutes} min de lecture</span>}
       </p>
     </div>
     {image && <img class="article-cover" src={image} alt={imageAlt || title} width="1200" height="675" />}

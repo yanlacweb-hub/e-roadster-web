@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import ArticleLayout from '../layouts/ArticleLayout.astro';
 import PageLayout from '../layouts/PageLayout.astro';
 import categoriesData from '../data/categories.json';
+import { estimateReadingTime } from '../utils/readingTime';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -27,6 +28,7 @@ const { Content } = await entry.render();
 const catInfo = kind === 'post'
   ? categoriesData.find((c) => c.slug === (entry as any).data.category)
   : undefined;
+const readingMinutes = kind === 'post' ? estimateReadingTime(entry.body ?? '') : undefined;
 ---
 {kind === 'post' ? (
   <ArticleLayout
@@ -40,6 +42,7 @@ const catInfo = kind === 'post'
     author={(entry as any).data.author}
     category={(entry as any).data.category}
     categoryName={catInfo?.name}
+    readingMinutes={readingMinutes}
   >
     <Content />
   </ArticleLayout>

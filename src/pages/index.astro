@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import categoriesData from '../data/categories.json';
+import { estimateReadingTime, formatReadingTime } from '../utils/readingTime';
 
 const posts = (await getCollection('posts')).sort(
   (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
@@ -23,19 +24,27 @@ const posts = (await getCollection('posts')).sort(
   <div class="post-list">
     {posts.map((post) => {
       const catInfo = categoriesData.find((c) => c.slug === post.data.category);
+      const readingMinutes = estimateReadingTime(post.body ?? '');
       return (
         <article class="post-card">
           {post.data.image && (
             <a class="card-media" href={`/${post.data.postSlug}/`}>
               <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width="600" height="340" />
-              {catInfo && <span class="category-badge">{catInfo.name}</span>}
+              {catInfo && <span class="category-badge" data-category={catInfo.slug}>{catInfo.name}</span>}
             </a>
           )}
           <div class="card-body">
-            <p class="meta">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
-            {!post.data.image && catInfo && <a class="category-badge" href={`/category/${catInfo.slug}/`}>{catInfo.name}</a>}
+            <p class="meta">
+              <span class="meta-date">{new Date(post.data.date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+              <span class="meta-sep" aria-hidden="true">&middot;</span>
+              <span class="meta-reading">{formatReadingTime(readingMinutes)}</span>
+            </p>
+            {!post.data.image && catInfo && <a class="category-badge" data-category={catInfo.slug} href={`/category/${catInfo.slug}/`}>{catInfo.name}</a>}
             <h2><a href={`/${post.data.postSlug}/`}>{post.data.title}</a></h2>
             <p class="excerpt">{post.data.description}</p>
+            <a class="card-cta" href={`/${post.data.postSlug}/`} aria-hidden="true" tabindex="-1">
+              Lire l&rsquo;article <span class="card-cta-arrow">&rarr;</span>
+            </a>
           </div>
         </article>
       );

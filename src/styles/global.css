@@ -23,6 +23,16 @@
   --accent-2: #2f6fed;      /* bleu électrique (secondaire) */
   --accent-2-soft: #e8effe;
 
+  /* Couleurs distinctes par catégorie (cohérentes avec la palette verte/bleue) */
+  --cat-voiture-electrique: #12b76a;       /* vert électrique */
+  --cat-voiture-electrique-soft: #e3f9ee;
+  --cat-entretien-et-recharge: #2f6fed;    /* bleu électrique */
+  --cat-entretien-et-recharge-soft: #e8effe;
+  --cat-assurance: #7c5cf0;                /* violet complémentaire */
+  --cat-assurance-soft: #efe9fe;
+  --cat-e-roadster: #0aa5a8;               /* sarcelle, 4e teinte */
+  --cat-e-roadster-soft: #e1f7f7;
+
   --ink-900: #0b1220;
   --ink-800: #131c2b;
 
@@ -233,12 +243,28 @@ main.wrap {
   display: flex;
   flex-direction: column;
   box-shadow: var(--shadow-sm);
+  position: relative;
   transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.post-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.25s ease;
 }
 .post-card:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-md);
-  border-color: var(--border-strong);
+  border-color: var(--accent);
+}
+.post-card:hover::before {
+  transform: scaleX(1);
 }
 
 .post-card .card-media {
@@ -286,6 +312,39 @@ main.wrap {
   font-size: 0.8rem;
   margin: 0;
   order: -1;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.meta-sep { opacity: 0.6; }
+.meta-reading {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.meta-reading::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+  display: inline-block;
+}
+
+.article-header .meta .meta-reading {
+  color: var(--accent-dark);
+  font-weight: 700;
+}
+.article-header .meta .meta-reading::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+  display: inline-block;
+  margin-right: 0.3rem;
 }
 
 .category-badge {
@@ -305,6 +364,28 @@ main.wrap {
 }
 .category-badge:hover { color: var(--accent-dark); background: #d3f3e2; }
 
+/* Couleurs distinctes par catégorie */
+.category-badge[data-category="voiture-electrique"] {
+  background: var(--cat-voiture-electrique-soft);
+  color: var(--cat-voiture-electrique);
+}
+.category-badge[data-category="entretien-et-recharge"] {
+  background: var(--cat-entretien-et-recharge-soft);
+  color: var(--cat-entretien-et-recharge);
+}
+.category-badge[data-category="assurance"] {
+  background: var(--cat-assurance-soft);
+  color: var(--cat-assurance);
+}
+.category-badge[data-category="e-roadster"] {
+  background: var(--cat-e-roadster-soft);
+  color: var(--cat-e-roadster);
+}
+.category-badge[data-category="voiture-electrique"]:hover { background: #cdf3e0; }
+.category-badge[data-category="entretien-et-recharge"]:hover { background: #d6e4fc; }
+.category-badge[data-category="assurance"]:hover { background: #e2d8fc; }
+.category-badge[data-category="e-roadster"]:hover { background: #cdf0f0; }
+
 .post-card .card-media .category-badge {
   position: absolute;
   top: 0.75rem;
@@ -314,6 +395,30 @@ main.wrap {
   backdrop-filter: blur(4px);
 }
 .post-card .card-media .category-badge:hover { background: rgba(11, 18, 32, 0.88); }
+
+/* Sur l'image, on garde un fond sombre translucide commun mais on colore le texte/liseré */
+.post-card .card-media .category-badge[data-category="voiture-electrique"] { color: var(--cat-voiture-electrique); }
+.post-card .card-media .category-badge[data-category="entretien-et-recharge"] { color: #8fb4ff; }
+.post-card .card-media .category-badge[data-category="assurance"] { color: #c3aefb; }
+.post-card .card-media .category-badge[data-category="e-roadster"] { color: #6fe0e0; }
+
+.card-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+  color: var(--accent-dark);
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-decoration: none;
+  pointer-events: none;
+}
+.card-cta-arrow {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+.post-card:hover .card-cta { color: var(--accent); }
+.post-card:hover .card-cta-arrow { transform: translateX(4px); }
 
 .empty-state {
   color: var(--text-muted);
