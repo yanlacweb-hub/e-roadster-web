@@ -497,9 +497,21 @@ main.wrap {
 .article-body a { text-decoration: underline; text-decoration-color: var(--accent-2); text-underline-offset: 2px; }
 
 /* Tables inside article content */
+/* Certains articles migrés enveloppent leur <table> dans un div
+   .tableContainer (résidu Tailwind du contenu source) : on active un
+   vrai scroll horizontal dessus pour ne pas casser la mise en page
+   mobile quand un tableau a beaucoup de colonnes. */
+.article-body .tableContainer {
+  overflow-x: auto;
+  margin: 1.75rem 0;
+  -webkit-overflow-scrolling: touch;
+}
+.article-body .tableContainer table { margin: 0; }
+
 .article-body table,
 table {
   width: 100%;
+  min-width: 480px;
   border-collapse: collapse;
   margin: 1.75rem 0;
   font-size: 0.95rem;
@@ -507,6 +519,13 @@ table {
   border-radius: var(--radius-sm);
   overflow: hidden;
   box-shadow: var(--shadow-sm);
+}
+@media (max-width: 680px) {
+  .article-body table:not(.tableContainer table) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
 .article-body table th,
 .article-body table td,
