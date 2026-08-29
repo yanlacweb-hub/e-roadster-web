@@ -43,6 +43,7 @@ const categoryColor = cat.color ?? '#12b76a';
   description={cat.description || `Articles de la catégorie ${cat.name} sur e-roadster.`}
   canonical={`https://e-roadster.fr/category/${cat.slug}/`}
   activeCategory={cat.slug}
+  noindex={posts.length === 0}
 >
   <CategoryPageLayout
     cat={cat}

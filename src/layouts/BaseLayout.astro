@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import categoriesData from '../data/categories.json';
+import { getCollection } from 'astro:content';
 
 export interface Props {
   title: string;
@@ -11,8 +12,9 @@ export interface Props {
   publishedTime?: string;
   modifiedTime?: string;
   author?: string;
-  jsonLd?: Record<string, any>;
+  jsonLd?: Record<string, any> | Record<string, any>[];
   activeCategory?: string;
+  noindex?: boolean;
 }
 
 const {
@@ -26,6 +28,7 @@ const {
   author,
   jsonLd,
   activeCategory,
+  noindex = false,
 } = Astro.props;
 
 const siteUrl = 'https://e-roadster.fr';
@@ -34,12 +37,13 @@ const resolvedOgImage = ogImage
   ? (ogImage.startsWith('http') ? ogImage : new URL(ogImage, siteUrl).toString())
   : new URL('/wp-content/uploads/default-og.jpg', siteUrl).toString();
 
-const navCategories = [
-  { slug: 'voiture-electrique', label: 'Voiture électrique' },
-  { slug: 'entretien-et-recharge', label: 'Entretien & recharge' },
-  { slug: 'assurance', label: 'Assurance' },
-  { slug: 'e-roadster', label: 'e-roadster' },
-];
+// Nav : n'afficher que les catégories qui contiennent au moins un article
+// réel — calculé dynamiquement pour se corriger automatiquement le jour où
+// une catégorie aujourd'hui vide (ex: "assurance") reçoit son premier article.
+const allNavPosts = await getCollection('posts');
+const navCategories = categoriesData
+  .filter((c) => allNavPosts.some((p) => p.data.categories?.includes(c.slug)))
+  .map((c) => ({ slug: c.slug, label: c.name }));
 ---
 <!doctype html>
 <html lang="fr">
@@ -48,6 +52,7 @@ const navCategories = [
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonicalUrl} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
@@ -76,9 +81,9 @@ const navCategories = [
     <meta name="twitter:description" content={description} />
     {ogImage && <meta name="twitter:image" content={resolvedOgImage} />}
 
-    {jsonLd && (
-      <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-    )}
+    {jsonLd && (Array.isArray(jsonLd) ? jsonLd : [jsonLd]).map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
   </head>
   <body>
     <header class="site-header">
