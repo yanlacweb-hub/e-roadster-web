@@ -12,7 +12,7 @@ author: "Gabriel Dubois"
 ---
 
 <p> </p>
-<p><img loading="lazy" decoding="async" class="size-full wp-image-216 aligncenter" src="/wp-content/uploads/2022/12/telechargement-1.jpg" alt="" width="259" height="194" /></p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-216 aligncenter" src="/wp-content/uploads/2022/12/telechargement-1.jpg" alt="La voiture électrique : un choix de transport éco-responsable ?" width="259" height="194" /></p>
 <p class="" data-start="294" data-end="713">La question environnementale n’est plus une option mais une urgence. Face à la pollution atmosphérique et à la dépendance aux énergies fossiles, la <strong data-start="442" data-end="464">voiture électrique</strong> s’impose comme une alternative crédible pour accompagner la <strong data-start="525" data-end="550">transition écologique</strong>. Elle s’inscrit dans une dynamique mondiale de <strong data-start="598" data-end="649">réduction des émissions de gaz à effet de serre</strong>, avec des objectifs de <strong data-start="673" data-end="695">neutralité carbone</strong> à l’horizon 2050.</p>
 <p class="" data-start="715" data-end="981">En France comme ailleurs, les plans de <strong data-start="754" data-end="774">mobilité durable</strong> et les incitations à la <strong data-start="799" data-end="838">décarbonation du secteur automobile</strong> encouragent les particuliers à changer leurs habitudes. La <strong data-start="898" data-end="916">mobilité verte</strong> n’est plus un luxe, mais un engagement citoyen à portée de main.</p>
 <p data-start="233" data-end="802"><!--more--></p>
