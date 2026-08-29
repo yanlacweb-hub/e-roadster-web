@@ -1,0 +1,4 @@
+# Redirections 301 — géré au niveau de l'edge Cloudflare (Pages/Workers Assets),
+# indépendant du mode de rendu Astro (static). Voir rapport SEO 2026-08-29,
+# tâche 1 : fusion des deux articles doublons "durée de vie batterie".
+/quelle-est-la-duree-de-vie-dune-batterie-de-voiture-electrique/  /quelle-est-la-duree-de-vie-dune-batterie-de-voiture-electrique-2/  301
