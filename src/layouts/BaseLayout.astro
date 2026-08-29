@@ -84,6 +84,15 @@ const navCategories = categoriesData
     {jsonLd && (Array.isArray(jsonLd) ? jsonLd : [jsonLd]).map((block) => (
       <script type="application/ld+json" set:html={JSON.stringify(block)} />
     ))}
+
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CP6GH4DLMP"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-CP6GH4DLMP');
+    </script>
   </head>
   <body>
     <header class="site-header">
