@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { extractFaqSchema } from '../utils/extractFaqSchema';
 
 export interface Props {
   title: string;
@@ -13,10 +14,11 @@ export interface Props {
   category?: string;
   categoryName?: string;
   readingMinutes?: number;
+  rawBody?: string;
 }
 
 const {
-  title, description, slug, date, modified, image, imageAlt, author = 'e-roadster.', category, categoryName, readingMinutes,
+  title, description, slug, date, modified, image, imageAlt, author = 'e-roadster.', category, categoryName, readingMinutes, rawBody,
 } = Astro.props;
 
 const siteUrl = 'https://e-roadster.fr';
@@ -40,6 +42,25 @@ const jsonLd = {
   ...(imageUrl ? { image: imageUrl } : {}),
   mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
 };
+
+// FAQPage : bloc JSON-LD additionnel (pas de remplacement du BlogPosting
+// ci-dessus) injecté uniquement si une section FAQ a été détectée dans le
+// corps de l'article. Voir src/utils/extractFaqSchema.ts.
+const faqPairs = rawBody ? extractFaqSchema(rawBody) : [];
+const faqJsonLd = faqPairs.length > 0
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqPairs.map((pair) => ({
+        '@type': 'Question',
+        name: pair.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: pair.answer,
+        },
+      })),
+    }
+  : undefined;
 ---
 <BaseLayout
   title={pageTitle}
@@ -50,7 +71,7 @@ const jsonLd = {
   publishedTime={date}
   modifiedTime={modified}
   author={author}
-  jsonLd={jsonLd}
+  jsonLd={faqJsonLd ? [jsonLd, faqJsonLd] : jsonLd}
   activeCategory={category}
 >
   <article class="article-shell">

@@ -43,6 +43,7 @@ const readingMinutes = kind === 'post' ? estimateReadingTime(entry.body ?? '') :
     category={(entry as any).data.category}
     categoryName={catInfo?.name}
     readingMinutes={readingMinutes}
+    rawBody={kind === 'post' ? entry.body : undefined}
   >
     <Content />
   </ArticleLayout>
