@@ -1,5 +1,5 @@
 ---
-title: "Renault Zoe : tout savoir sur la citadine électrique"
+title: "Renault Zoé : tout savoir sur la citadine"
 postSlug: "tout-savoir-sur-la-renault-zoe-100-electrique"
 date: "2022-12-26T00:21:40"
 modified: "2026-08-30T00:00:00"

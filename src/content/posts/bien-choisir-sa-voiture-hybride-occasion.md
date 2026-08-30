@@ -1,5 +1,5 @@
 ---
-title: "Bien choisir sa voiture hybride d’occasion : guide complet"
+title: "Bien choisir sa voiture hybride d'occasion"
 postSlug: "bien-choisir-sa-voiture-hybride-occasion"
 date: "2022-12-30T15:03:42"
 modified: "2025-05-21T16:01:50"

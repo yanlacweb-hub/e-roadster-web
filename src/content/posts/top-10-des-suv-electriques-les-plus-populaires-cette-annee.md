@@ -1,5 +1,5 @@
 ---
-title: "Top 10 des SUV électriques les plus populaires cette année"
+title: "Top 10 des SUV électriques populaires"
 postSlug: "top-10-des-suv-electriques-les-plus-populaires-cette-annee"
 date: "2025-07-19T10:38:16"
 modified: "2025-07-28T14:53:53"

@@ -1,5 +1,5 @@
 ---
-title: "Les différents types de batteries de voitures électriques"
+title: "Les différents types de batteries électriques"
 postSlug: "les-differents-types-de-batteries-de-voitures-electriques"
 date: "2022-12-29T10:42:18"
 modified: "2025-05-16T11:28:07"

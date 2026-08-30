@@ -1,5 +1,5 @@
 ---
-title: "Tesla Roadster : la supercar électrique toujours attendue"
+title: "Tesla Roadster : supercar électrique attendue"
 postSlug: "2023-tesla-roadster-supercar-electrique-ultime"
 date: "2021-01-21T14:26:15"
 modified: "2026-08-30T00:00:00"

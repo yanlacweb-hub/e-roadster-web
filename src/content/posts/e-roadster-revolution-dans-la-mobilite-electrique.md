@@ -1,5 +1,5 @@
 ---
-title: "Le e-roadster, une révolution dans la mobilité électrique"
+title: "Le e-roadster, une révolution électrique"
 postSlug: "e-roadster-revolution-dans-la-mobilite-electrique"
 date: "2022-12-17T00:54:20"
 modified: "2025-05-15T08:46:18"

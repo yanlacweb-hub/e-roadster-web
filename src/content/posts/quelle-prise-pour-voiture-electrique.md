@@ -1,5 +1,5 @@
 ---
-title: "Quelle prise choisir pour une voiture électrique ?"
+title: "Quelle prise pour une voiture électrique ?"
 postSlug: "quelle-prise-pour-voiture-electrique"
 date: "2022-12-30T10:00:16"
 modified: "2025-05-16T09:40:56"

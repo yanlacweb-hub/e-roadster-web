@@ -1,5 +1,5 @@
 ---
-title: "Prime rétrofit : passez votre moteur thermique en électrique"
+title: "Prime rétrofit pour passer à l'électrique"
 postSlug: "prime-retrofit-passez-votre-moteur-thermique-en-electrique"
 date: "2022-12-28T23:13:46"
 modified: "2025-05-15T11:12:30"

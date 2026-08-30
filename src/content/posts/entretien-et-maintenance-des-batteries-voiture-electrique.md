@@ -1,5 +1,5 @@
 ---
-title: "Entretien et Maintenance des Batteries Voiture Électrique"
+title: "Entretien et maintenance des batteries"
 postSlug: "entretien-et-maintenance-des-batteries-voiture-electrique"
 date: "2022-12-28T01:51:06"
 modified: "2025-05-16T15:43:14"
