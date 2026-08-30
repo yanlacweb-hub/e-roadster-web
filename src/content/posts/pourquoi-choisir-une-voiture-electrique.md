@@ -3,7 +3,7 @@ title: "Pourquoi choisir une voiture électrique"
 postSlug: "pourquoi-choisir-une-voiture-electrique"
 date: "2022-08-28T16:05:16"
 modified: "2022-12-17T12:24:17"
-description: "La voiture électrique est une voiture qui fonctionne à l’énergie électrique. Cette dernière provient de la batterie, et c’est elle qui permet au véhicule de se déplacer. Il existe plusieurs types de véhicules électriques : les voitures particulières, les camions, les bus, les motos, etc. Nous allons"
+description: "Pourquoi choisir une voiture électrique ? Fonctionnement, types de véhicules, consommation et coûts : tout pour bien décider."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir.jpg"

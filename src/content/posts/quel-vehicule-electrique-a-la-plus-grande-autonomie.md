@@ -3,7 +3,7 @@ title: "Quel véhicule électrique offre la plus grande autonomie ?"
 postSlug: "quel-vehicule-electrique-a-la-plus-grande-autonomie"
 date: "2022-12-05T00:42:41"
 modified: "2022-12-17T12:22:15"
-description: "Introduction: Les véhicules électriques sont de plus en plus populaires. Ils sont moins polluants, économiques et plus silencieux que les véhicules à essence ou diesel traditionnels. Si ces avantages sont bien connus et appréciés, l’un des principaux obstacles à l’adoption des véhicules électriques"
+description: "Quel véhicule électrique offre la plus grande autonomie ? Comparatif des modèles les plus performants du marché en 2025."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/Podium-Plus-de-60-000-1200x675-1.jpg"

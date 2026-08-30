@@ -3,7 +3,7 @@ title: "Autonomie d'une voiture électrique : ce qu'il faut savoir"
 postSlug: "autonomie-voiture-electrique"
 date: "2022-12-04T23:56:32"
 modified: "2022-12-17T12:23:37"
-description: "Introduction: L’autonomie des voitures électriques est l’un des plus grands défis auxquels sont confrontés les constructeurs automobiles à l’heure actuelle. La voiture électrique ne peut pas être considérée comme une solution durable si elle ne peut parcourir une distance suffisante sans devoir se r"
+description: "Autonomie d'une voiture électrique : distance moyenne, facteurs qui l'influencent et astuces concrètes pour l'optimiser au quotidien."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/autonomia-reale-auto-elettriche-classifica.jpg"

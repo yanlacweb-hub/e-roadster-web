@@ -3,7 +3,7 @@ title: "Combien coûte une Renault Zoe électrique ?"
 postSlug: "combien-coute-une-zoe-electrique"
 date: "2022-12-26T01:03:06"
 modified: "2022-12-26T03:10:50"
-description: "Introduction: La Zoe électrique est une berline électrique produite par la firme française Renault, et elle est considérée comme étant l’une des meilleures voitures électriques sur le marché. La Zoe est dotée d’un moteur électrique puissant et efficace qui offre une bonne autonomie et une excellente"
+description: "Combien coûte une Renault Zoé électrique ? Prix neuf et occasion, options de batterie et budget à prévoir pour cette citadine électrique."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/Renault-Zoe-Electrique-768x512-1.jpg"

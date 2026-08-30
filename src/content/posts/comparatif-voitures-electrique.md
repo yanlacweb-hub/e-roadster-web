@@ -3,7 +3,7 @@ title: "Comparatif des voitures électriques"
 postSlug: "comparatif-voitures-electrique"
 date: "2022-12-05T00:13:25"
 modified: "2022-12-17T12:23:22"
-description: "Introduction: Les voitures électriques sont un moyen plus durable et plus respectueux de l’environnement de se déplacer. Elles offrent des avantages en termes de coûts, de performances et de sécurité par rapport aux voitures à essence traditionnelles. De plus en plus populaires, elles représentent l"
+description: "Comparatif des voitures électriques : autonomie, prix et performances des modèles du marché pour vous aider à choisir la vôtre."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/voitures-electriques-840x400-1.webp"

@@ -3,7 +3,7 @@ title: "Petite voiture électrique : 7 bonnes raisons de la choisir"
 postSlug: "petite-voiture-electrique-7-arguments"
 date: "2022-12-05T00:21:39"
 modified: "2022-12-18T02:04:58"
-description: "Introduction: Les petites voitures électriques offrent à leurs utilisateurs la liberté de déplacement sans compromettre leur budget. Elles sont économiques, respectueuses de l’environnement et amusantes à conduire. Les avantages des petites voitures électriques sont nombreux et alléchants, et les mo"
+description: "Petite voiture électrique : 7 bonnes raisons de la choisir, entre économies, praticité en ville et respect de l'environnement."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/citroen-ami.jpg"

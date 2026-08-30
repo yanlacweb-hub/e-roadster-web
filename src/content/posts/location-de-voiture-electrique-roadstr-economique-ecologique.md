@@ -3,7 +3,7 @@ title: "Location de Voiture Électrique avec Roadstr : Une Mobilité Écologique
 postSlug: "location-de-voiture-electrique-roadstr-economique-ecologique"
 date: "2022-12-05T00:59:09"
 modified: "2025-05-15T10:14:21"
-description: "Louez une voiture électrique avec Roadstr et profitez d’une conduite écologique, économique et confortable. Réservez dès maintenant votre véhicule électrique en quelques clics !"
+description: "Louez une voiture électrique avec Roadstr : conduite écologique et économique. Réservez votre véhicule électrique en quelques clics."
 category: "e-roadster"
 categories: ["e-roadster"]
 image: "/wp-content/uploads/2022/12/1632730008-img8_66262_large.jpg"

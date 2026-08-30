@@ -3,7 +3,7 @@ title: "Batterie de voiture électrique : 7 avantages"
 postSlug: "batterie-voiture-electrique"
 date: "2022-12-05T00:32:13"
 modified: "2022-12-18T02:02:19"
-description: "introduction: Les voitures électriques sont l’une des technologies les plus innovantes et les plus importantes du moment. Cette technologie permet aux conducteurs de bénéficier d’une conduite efficace, économique et durable. Une partie essentielle de l’efficacité d’une voiture électrique est sa batt"
+description: "Batterie de voiture électrique : 7 avantages clés, fonctionnement, entretien et conseils pour prolonger son autonomie au quotidien."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/composition-batterie-lithium-voiture-electrique.jpg"

@@ -3,7 +3,7 @@ title: "Qui a inventé la voiture électrique ?"
 postSlug: "qui-a-invente-la-voiture-electrique"
 date: "2022-12-05T00:40:33"
 modified: "2024-01-28T01:32:17"
-description: "Introduction: La première voiture électrique remonte à l’année 1832, lorsque le physicien et inventeur hongrois Ányos Jedlik a utilisé un moteur électrique pour alimenter une petite voiture. Depuis lors, les voitures électriques (dites EV) ont fait des progrès considérables. Grâce aux avancées techn"
+description: "Qui a inventé la voiture électrique ? Retour sur les pionniers, de la première voiture de 1832 aux innovations qui ont suivi."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/la-jamais-contente-le-premier-vehicule-routier-pour-aller-plus-de-100-kilometres-par-heure-1899-t3anc5.jpg"
