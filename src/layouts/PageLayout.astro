@@ -11,8 +11,21 @@ const { title, description = '', slug } = Astro.props;
 const siteUrl = 'https://e-roadster.fr';
 const canonicalUrl = `${siteUrl}/${slug}/`;
 const pageTitle = `${title} - e-roadster.`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  description,
+  url: canonicalUrl,
+  isPartOf: {
+    '@type': 'WebSite',
+    name: 'e-roadster.',
+    url: siteUrl,
+  },
+};
 ---
-<BaseLayout title={pageTitle} description={description} canonical={canonicalUrl} ogType="website">
+<BaseLayout title={pageTitle} description={description} canonical={canonicalUrl} ogType="website" jsonLd={jsonLd}>
   <article class="page-shell">
     <h1>{title}</h1>
     <div class="article-body">

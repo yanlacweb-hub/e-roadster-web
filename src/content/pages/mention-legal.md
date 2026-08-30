@@ -1,7 +1,7 @@
 ---
-title: "mention legal"
+title: "Mentions légales"
 postSlug: "mention-legal"
-description: ""
+description: "Mentions légales du blog e-roadster : conditions d'utilisation, propriété intellectuelle et responsabilité."
 ---
 
 <ol>

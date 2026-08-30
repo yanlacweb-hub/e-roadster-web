@@ -44,12 +44,27 @@ const popularTopics = categoriesData
 
 const guidePick = others[0] ?? posts[0];
 const categoryColor = cat.color ?? '#12b76a';
+
+const siteUrl = 'https://e-roadster.fr';
+const categoryJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${cat.name} — page ${pageNum} - e-roadster.`,
+  description: cat.description || `Articles de la catégorie ${cat.name} sur e-roadster.`,
+  url: `${siteUrl}/category/${cat.slug}/page/${pageNum}/`,
+  isPartOf: {
+    '@type': 'WebSite',
+    name: 'e-roadster.',
+    url: siteUrl,
+  },
+};
 ---
 <BaseLayout
   title={`${cat.name} — page ${pageNum} - e-roadster.`}
   description={cat.description || `Articles de la catégorie ${cat.name} sur e-roadster.`}
   canonical={`https://e-roadster.fr/category/${cat.slug}/page/${pageNum}/`}
   activeCategory={cat.slug}
+  jsonLd={categoryJsonLd}
 >
   <CategoryPageLayout
     cat={cat}

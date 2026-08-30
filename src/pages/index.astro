@@ -59,10 +59,20 @@ const filterCategories = categoriesData;
 // Image de hero : la plus récente image d'article disponible.
 const heroImage = featured?.data.image;
 const heroImageAlt = featured?.data.imageAlt || featured?.data.title || 'Voiture électrique';
+
+const siteUrl = 'https://e-roadster.fr';
+const homeJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'e-roadster.',
+  url: siteUrl,
+  description: 'e-roadster. est le blog dédié à la voiture électrique : assurance, entretien, recharge, choix de modèles et conseils pratiques.',
+};
 ---
 <BaseLayout
   title="e-roadster. — Actualité, conseils et guides sur la voiture électrique"
   description="e-roadster. est le blog dédié à la voiture électrique : assurance, entretien, recharge, choix de modèles et conseils pratiques."
+  jsonLd={homeJsonLd}
 >
   <div class="nd-page">
     <section class="hero">

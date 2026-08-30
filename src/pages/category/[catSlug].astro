@@ -37,6 +37,20 @@ const guidePick = others[0] ?? featured;
 // Couleur dédiée + image hero + label court par catégorie (maquette v2 client,
 // /tmp/refonte-ux-v2/categorie.js -> objet `taxonomy`). Portés dans categories.json.
 const categoryColor = cat.color ?? '#12b76a';
+
+const siteUrl = 'https://e-roadster.fr';
+const categoryJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: cat.title || `${cat.name} - e-roadster.`,
+  description: cat.description || `Articles de la catégorie ${cat.name} sur e-roadster.`,
+  url: `${siteUrl}/category/${cat.slug}/`,
+  isPartOf: {
+    '@type': 'WebSite',
+    name: 'e-roadster.',
+    url: siteUrl,
+  },
+};
 ---
 <BaseLayout
   title={cat.title || `${cat.name} - e-roadster.`}
@@ -44,6 +58,7 @@ const categoryColor = cat.color ?? '#12b76a';
   canonical={`https://e-roadster.fr/category/${cat.slug}/`}
   activeCategory={cat.slug}
   noindex={posts.length === 0}
+  jsonLd={categoryJsonLd}
 >
   <CategoryPageLayout
     cat={cat}
