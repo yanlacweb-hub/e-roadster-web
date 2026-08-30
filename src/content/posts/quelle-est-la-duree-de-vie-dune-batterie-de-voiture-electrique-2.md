@@ -1,5 +1,5 @@
 ---
-title: "Quelle est la durée de vie d’une batterie de voiture électrique"
+title: "Durée de vie d'une batterie électrique"
 postSlug: "quelle-est-la-duree-de-vie-dune-batterie-de-voiture-electrique-2"
 date: "2022-12-29T08:37:36"
 modified: "2026-08-29T00:00:00"

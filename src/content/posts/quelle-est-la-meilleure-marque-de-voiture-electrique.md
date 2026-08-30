@@ -1,5 +1,5 @@
 ---
-title: "Quelle est la meilleure marque de voiture électrique en 2025 ?"
+title: "Meilleure marque de voiture électrique en 2025"
 postSlug: "quelle-est-la-meilleure-marque-de-voiture-electrique"
 date: "2022-12-28T01:44:02"
 modified: "2025-05-15T13:17:34"

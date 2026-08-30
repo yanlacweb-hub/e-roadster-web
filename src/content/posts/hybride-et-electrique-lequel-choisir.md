@@ -1,5 +1,5 @@
 ---
-title: "Voiture hybride ou électrique : comment bien choisir en 2025 ?"
+title: "Hybride ou électrique : comment choisir ?"
 postSlug: "hybride-et-electrique-lequel-choisir"
 date: "2022-12-28T23:11:47"
 modified: "2025-05-15T11:33:20"

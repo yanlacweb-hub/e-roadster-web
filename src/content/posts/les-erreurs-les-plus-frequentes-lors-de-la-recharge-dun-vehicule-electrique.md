@@ -1,5 +1,5 @@
 ---
-title: "Les erreurs les plus fréquentes lors de la recharge d’un véhicule électrique"
+title: "Erreurs fréquentes de recharge électrique"
 postSlug: "les-erreurs-les-plus-frequentes-lors-de-la-recharge-dun-vehicule-electrique"
 date: "2025-07-22T11:45:50"
 modified: "2025-07-28T15:00:28"

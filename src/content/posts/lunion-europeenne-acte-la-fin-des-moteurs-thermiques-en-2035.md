@@ -1,5 +1,5 @@
 ---
-title: "L’Union européenne acte la fin des moteurs thermiques en 2035"
+title: "Fin des moteurs thermiques en 2035"
 postSlug: "lunion-europeenne-acte-la-fin-des-moteurs-thermiques-en-2035"
 date: "2022-12-30T23:21:27"
 modified: "2025-05-15T10:08:38"

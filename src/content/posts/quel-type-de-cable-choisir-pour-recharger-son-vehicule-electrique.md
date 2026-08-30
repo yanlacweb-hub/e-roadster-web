@@ -1,5 +1,5 @@
 ---
-title: "Quel type de câble choisir pour recharger son véhicule électrique ?"
+title: "Quel câble pour recharger sa voiture ?"
 postSlug: "quel-type-de-cable-choisir-pour-recharger-son-vehicule-electrique"
 date: "2025-07-25T13:52:53"
 modified: "2025-07-28T15:03:18"

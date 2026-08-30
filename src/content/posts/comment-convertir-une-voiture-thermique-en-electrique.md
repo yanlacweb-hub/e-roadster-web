@@ -1,5 +1,5 @@
 ---
-title: "Comment convertir une voiture thermique en électrique (rétrofit auto)"
+title: "Convertir une voiture thermique en électrique"
 postSlug: "comment-convertir-une-voiture-thermique-en-electrique"
 date: "2022-12-30T22:10:51"
 modified: "2025-05-15T10:06:47"
