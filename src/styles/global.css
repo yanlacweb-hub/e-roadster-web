@@ -525,6 +525,45 @@ table {
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    position: relative;
+    /* Scroll-shadow hint: subtle fade at each edge that only appears
+       while there's more content to scroll to in that direction, so the
+       reader knows the table is horizontally scrollable without any JS. */
+    background:
+      linear-gradient(to right, var(--surface) 30%, rgba(255, 255, 255, 0)) local,
+      linear-gradient(to right, rgba(255, 255, 255, 0), var(--surface) 70%) 100% 0 local,
+      linear-gradient(to right, rgba(11, 18, 32, 0.12), rgba(255, 255, 255, 0)) scroll,
+      linear-gradient(to left, rgba(11, 18, 32, 0.12), rgba(255, 255, 255, 0)) 100% 0 scroll;
+    background-repeat: no-repeat;
+    background-color: var(--surface);
+    background-size: 32px 100%, 32px 100%, 12px 100%, 12px 100%;
+  }
+  .article-body table:not(.tableContainer table) th,
+  .article-body table:not(.tableContainer table) td {
+    padding: 0.55rem 0.7rem;
+    font-size: 0.88rem;
+    white-space: nowrap;
+  }
+  /* Sticky first column: on wide tables (6 columns for the driver-profile
+     table), the row label would otherwise scroll out of view, leaving the
+     reader unable to tell which row of figures they're looking at. */
+  .article-body table:not(.tableContainer table) th:first-child,
+  .article-body table:not(.tableContainer table) td:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+    white-space: normal;
+    box-shadow: 2px 0 4px rgba(11, 18, 32, 0.06);
+  }
+  .article-body table:not(.tableContainer table) th:first-child {
+    background: var(--ink-900);
+    z-index: 3;
+  }
+  .article-body table:not(.tableContainer table) td:first-child {
+    background: var(--surface);
+  }
+  .article-body table:not(.tableContainer table) tbody tr:nth-child(even) td:first-child {
+    background: var(--bg-alt);
   }
 }
 .article-body table th,
