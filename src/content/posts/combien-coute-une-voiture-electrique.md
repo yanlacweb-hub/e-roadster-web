@@ -70,7 +70,9 @@ author: "Gabriel Dubois"
 <p>Le <strong>coût d'usage seul</strong> (hors financement du véhicule) est le montant le plus comparable entre électrique et thermique, car il isole ce qui change réellement avec la motorisation. Le budget automobile total dépend, lui, surtout du prix du véhicule choisi et du mode de financement — identique quelle que soit la motorisation.</p>
 
 <h2>Le bonus écologique et les aides à l'achat</h2>
-<p>Plusieurs dispositifs permettent de réduire ce prix d'achat. Le <strong>bonus écologique</strong> peut atteindre plusieurs milliers d'euros selon le prix du véhicule et les revenus du foyer, et la <strong>prime à la conversion</strong> s'ajoute si vous mettez à la casse un ancien véhicule thermique. Des aides locales complémentaires existent aussi selon la région. Ces montants évoluent régulièrement — consultez le <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">détail officiel du bonus écologique sur economie.gouv.fr</a> pour les conditions actualisées au moment de votre achat.</p>
+<p>Depuis le 1<sup>er</sup> juillet 2025, le bonus écologique pour l'achat d'une voiture électrique a été remplacé par la prime <strong>« Coup de pouce Véhicules Particuliers Électriques »</strong>, financée par les certificats d'économies d'énergie (CEE) et non plus directement par l'État. En 2026, son montant indicatif peut atteindre <strong>5 700 €</strong> pour les ménages en situation de précarité énergétique, <strong>4 700 €</strong> pour les ménages modestes non précaires et <strong>3 500 €</strong> pour les autres ménages, avec un soutien additionnel possible pour les véhicules dont la batterie est produite en Europe. Ces montants sont présentés par l'administration comme indicatifs, à confirmer au moment de votre achat.</p>
+<p><strong>À noter :</strong> la prime à la conversion a été supprimée par décret le 2 décembre 2024 et ne s'applique plus, même en cas de mise à la casse d'un ancien véhicule thermique. Pour l'occasion, une aide CEE distincte est prévue à partir du 1<sup>er</sup> septembre 2026, sans condition de revenus, sous réserve que le véhicule soit 100 % électrique, immatriculé pour la première fois entre 2017 et 2023, acheté ou loué auprès d'un professionnel habilité, et présente un état de santé de batterie d'au moins 80 %.</p>
+<p>Ces dispositifs évoluant régulièrement, consultez le <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">détail officiel des aides sur economie.gouv.fr</a> pour les conditions applicables au moment de votre achat.</p>
 
 <h2>Combien coûte la recharge d'une voiture électrique ?</h2>
 <p>Le coût de la recharge dépend fortement du mode utilisé :</p>
@@ -98,15 +100,15 @@ author: "Gabriel Dubois"
 <p>Ce qui est en revanche établi : ce remplacement complet reste rare, il intervient généralement après plusieurs centaines de milliers de kilomètres ou en dehors de la période de garantie constructeur (souvent 8 ans / 160 000 km), et certaines interventions ne concernent qu'un module de la batterie plutôt que son remplacement intégral. Pour un devis fiable, contactez directement le constructeur ou un réparateur agréé de votre modèle.</p>
 
 <h2>Quel budget d'utilisation annuel prévoir selon votre profil ?</h2>
-<p>Au-delà du prix d'achat, le budget d'usage dépend surtout de votre kilométrage annuel. Voici une estimation sur 3 profils, calculée à partir d'hypothèses explicites : recharge à domicile à 3 € en moyenne pour 100 km (milieu de la fourchette 1,8-4,5 € indiquée plus haut), entretien à 800 €/an et assurance à 535 €/an (moyenne du marché constatée sur plusieurs comparateurs spécialisés). <em>Ce calcul couvre l'énergie, l'entretien et l'assurance — il n'intègre pas le prix d'achat, la décote, le financement ni une éventuelle borne à domicile.</em></p>
+<p>Au-delà du prix d'achat, le budget d'usage dépend surtout de votre kilométrage annuel. Voici une estimation sur 3 profils, calculée à partir d'hypothèses explicites : recharge à domicile à 3 € en moyenne pour 100 km (milieu de la fourchette 1,8-4,5 € indiquée plus haut), assurance à 535 €/an (moyenne du marché constatée sur plusieurs comparateurs spécialisés) et un entretien composé d'une base fixe d'environ 500 €/an (révision annuelle) plus une part variable liée à l'usure (pneus, freins, liquides), pour atteindre environ 800 €/an au kilométrage le plus élevé — cohérent avec la moyenne marché de 800 €/an citée plus haut pour un usage standard. <em>Ce calcul couvre l'énergie, l'entretien et l'assurance — il n'intègre pas le prix d'achat, la décote, le financement ni une éventuelle borne à domicile.</em></p>
 <span class="table-caption">Budget annuel par profil de conducteur</span>
 <table>
 <thead>
 <tr><th>Profil</th><th>Kilométrage/an</th><th>Recharge/an</th><th>Entretien/an</th><th>Assurance/an</th><th>Coût annuel total</th></tr>
 </thead>
 <tbody>
-<tr><td>Petit rouleur</td><td>8 000 km</td><td>~240 €</td><td>~800 €</td><td>~535 €</td><td><strong>~1 575 €</strong></td></tr>
-<tr><td>Conducteur moyen</td><td>12 000-15 000 km</td><td>~405 €</td><td>~800 €</td><td>~535 €</td><td><strong>~1 740 €</strong></td></tr>
+<tr><td>Petit rouleur</td><td>8 000 km</td><td>~240 €</td><td>~595 €</td><td>~535 €</td><td><strong>~1 370 €</strong></td></tr>
+<tr><td>Conducteur moyen</td><td>12 000-15 000 km</td><td>~405 €</td><td>~660 €</td><td>~535 €</td><td><strong>~1 600 €</strong></td></tr>
 <tr><td>Gros rouleur</td><td>25 000 km</td><td>~750 €</td><td>~800 €</td><td>~535 €</td><td><strong>~2 085 €</strong></td></tr>
 </tbody>
 </table>
