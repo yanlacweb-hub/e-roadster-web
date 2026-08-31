@@ -1,5 +1,5 @@
 ---
-title: "Combien coûte une voiture électrique ?"
+title: "Combien coûte une voiture électrique en 2026 ?"
 postSlug: "combien-coute-une-voiture-electrique"
 date: "2022-08-28T17:37:00"
 modified: "2026-08-31T00:00:00"
@@ -11,17 +11,19 @@ imageAlt: "Combien coûte une voiture électrique ?"
 author: "Gabriel Dubois"
 ---
 
-<h2>Combien coûte une voiture électrique en 2026 ?</h2>
 <p>Vous cherchez une <strong>voiture électrique</strong> et la première question reste toujours la même : combien ça coûte réellement ? La réponse dépend du modèle, mais aussi du prix d'achat, des aides disponibles et du coût à l'usage. Voici le calcul complet, chiffres à l'appui.</p>
+<div class="highlight-box">
+<p><strong>À retenir :</strong> une citadine électrique neuve démarre autour de 17 000 €, l'occasion dès 6 000 à 10 000 €. Le coût réel dépend ensuite fortement de votre kilométrage annuel, du mode de recharge, de l'assurance, de l'entretien et des aides mobilisées — voir le calcul détaillé et les 3 profils d'usage ci-dessous.</p>
+</div>
 <!--more-->
 
-<h2>Prix d'achat d'une voiture électrique neuve : de 16 900 € à plus de 60 000 €</h2>
+<h2>Le budget à prévoir selon votre profil</h2>
 <p>Le prix d'une voiture électrique neuve varie fortement selon le segment. Les citadines les moins chères démarrent autour de <strong>16 900 €</strong> pour la Dacia Spring, une des voitures électriques les plus accessibles du marché français. Viennent ensuite des modèles autour de 23 000 à 25 000 € : Citroën ë-C3 (environ 23 300 €), Fiat 500e (environ 24 900 €), Renault 5 E-Tech (à partir d'environ 25 000 €) ou Hyundai Inster (à partir de 25 350 €).</p>
 <p>Plus haut en gamme, une berline comme la Tesla Model 3 démarre autour de <strong>43 000 €</strong>, et un SUV familial comme le Tesla Model Y peut dépasser 60 000 € selon la version. Globalement, la fourchette de prix la plus courante pour une voiture électrique neuve se situe entre <strong>20 000 € et 45 000 €</strong>.</p>
 <p>Pour un budget serré, l'occasion permet d'accéder à ce type de véhicule dès 10 000 à 15 000 € — voir notre <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">guide sur la Renault Zoé d'occasion</a>, un des modèles les plus recherchés sur ce segment.</p>
 
 <h2>Prix par segment : citadine, berline, SUV</h2>
-<p>Le prix varie fortement selon la catégorie de véhicule choisie :</p>
+<p>Le prix varie fortement selon la catégorie de véhicule choisie. <em>Prix catalogue indicatifs relevés en août 2026, hors options et hors aides — vérifiez toujours le tarif à jour auprès du constructeur ou concessionnaire avant achat.</em></p>
 <table>
 <thead>
 <tr><th>Modèle</th><th>Segment</th><th>Prix indicatif</th><th>Autonomie WLTP</th></tr>
@@ -65,7 +67,34 @@ author: "Gabriel Dubois"
 <p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile — l'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p>
 
 <h2>Entretien et coût sur la durée</h2>
-<p>Au-delà du prix d'achat et de la recharge, une voiture électrique coûte généralement moins cher à l'usage qu'un modèle thermique équivalent : pas de vidange, moins de pièces d'usure (pas d'embrayage, moins de freinage grâce à la récupération d'énergie), un entretien globalement réduit. Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie, dont le coût varie fortement selon le modèle — par exemple environ 8 000 € pour une Renault Zoé contre environ 12 000 € pour une Peugeot e-208, selon les tarifs constructeur.</p>
+<p>Au-delà du prix d'achat et de la recharge, une voiture électrique coûte généralement moins cher à l'usage qu'un modèle thermique équivalent : pas de vidange, moins de pièces d'usure (pas d'embrayage, moins de freinage grâce à la récupération d'énergie), un entretien globalement réduit. Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie, dont le coût varie fortement selon le modèle — par exemple environ 8 000 € pour une Renault Zoé contre environ 12 000 € pour une Peugeot e-208, selon les tarifs constructeur. Ce remplacement complet reste rare : il intervient généralement après plusieurs centaines de milliers de kilomètres ou en dehors de la période de garantie constructeur (souvent 8 ans / 160 000 km), et certaines interventions ne concernent qu'un module de la batterie plutôt que son remplacement intégral.</p>
+
+<h2>Combien coûte réellement une voiture électrique sur 5 ans ?</h2>
+<p>Au-delà du prix d'achat, le coût réel dépend surtout de votre kilométrage annuel. Voici une estimation sur 3 profils d'usage, calculée à partir d'hypothèses explicites : recharge à domicile à 3 € en moyenne pour 100 km (milieu de la fourchette 1,8-4,5 € indiquée plus haut), entretien à 800 €/an et assurance à 535 €/an (moyenne du marché constatée sur plusieurs comparateurs spécialisés).</p>
+<table>
+<thead>
+<tr><th>Profil</th><th>Kilométrage/an</th><th>Recharge/an</th><th>Entretien/an</th><th>Assurance/an</th><th>Coût annuel total</th></tr>
+</thead>
+<tbody>
+<tr><td>Petit rouleur</td><td>8 000 km</td><td>~240 €</td><td>~800 €</td><td>~535 €</td><td><strong>~1 575 €</strong></td></tr>
+<tr><td>Conducteur moyen</td><td>12 000-15 000 km</td><td>~405 €</td><td>~800 €</td><td>~535 €</td><td><strong>~1 740 €</strong></td></tr>
+<tr><td>Gros rouleur</td><td>25 000 km</td><td>~750 €</td><td>~800 €</td><td>~535 €</td><td><strong>~2 085 €</strong></td></tr>
+</tbody>
+</table>
+<p><em>Ces montants sont des estimations basées sur des moyennes de marché, hors financement du véhicule lui-même — votre coût réel dépendra de votre profil de conduite, de votre région et de votre assureur.</em></p>
+
+<h2>Électrique vs thermique : la simulation chiffrée sur 5 ans</h2>
+<p>Pour un conducteur moyen (13 500 km/an), voici une estimation comparative sur 5 ans entre une citadine électrique et son équivalent thermique. Hypothèses : recharge domicile à 3 €/100 km, carburant à 1,75 €/L pour une consommation moyenne de 6,5 L/100 km, entretien électrique 25 % moins cher que le thermique.</p>
+<table>
+<thead>
+<tr><th>Poste</th><th>Électrique</th><th>Thermique</th></tr>
+</thead>
+<tbody>
+<tr><td>Énergie sur 5 ans</td><td>~2 025 €</td><td>~7 680 €</td></tr>
+<tr><td>Entretien sur 5 ans</td><td>~4 000 €</td><td>~5 330 €</td></tr>
+</tbody>
+</table>
+<p><strong>Économie estimée : environ 7 000 € sur 5 ans en faveur de l'électrique</strong>, sur ces deux seuls postes. <em>Cette simulation exclut le prix d'achat, l'assurance (comparable sur les deux motorisations) et l'éventuelle installation d'une borne à domicile. Elle donne un ordre de grandeur, pas un calcul individualisé.</em></p>
 
 <h2>Voiture électrique d'occasion : combien ça coûte vraiment ?</h2>
 <p>L'occasion reste la meilleure option pour un budget serré. Les premiers modèles électriques (Nissan Leaf, Renault Zoé première génération) se trouvent aujourd'hui dès 6 000 à 10 000 €, avec une autonomie plus limitée que les modèles récents. Pour un modèle plus récent avec une meilleure autonomie, comptez plutôt entre 12 000 € et 20 000 €. Un point de vigilance spécifique à l'occasion électrique : vérifiez l'état de santé de la batterie (SOH) avant l'achat, un critère aussi important que le kilométrage sur un véhicule thermique — voir notre guide sur la <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">Renault Zoé d'occasion</a> pour un exemple concret.</p>
