@@ -40,10 +40,22 @@ author: "Gabriel Dubois"
 <p>Ce classement par segment aide à cibler directement la fourchette de budget qui correspond à votre usage, plutôt que de comparer des véhicules aux vocations différentes.</p>
 
 <h2>Voiture électrique ou thermique : quelle est la moins chère au global ?</h2>
-<p>À l'achat, une voiture électrique reste généralement plus chère qu'un modèle thermique équivalent. Mais l'écart se réduit, voire s'inverse, une fois le coût d'usage intégré : pas de carburant, entretien réduit, et souvent une fiscalité plus favorable (exonération partielle de la carte grise selon les régions, avantages en flotte d'entreprise). Sur une utilisation de plusieurs années avec un kilométrage annuel important, le coût total de possession d'une électrique devient souvent inférieur à celui d'un modèle essence ou diesel comparable — l'écart dépendant surtout du prix d'achat initial et du kilométrage parcouru.</p>
+<p>À l'achat, une voiture électrique reste généralement plus chère qu'un modèle thermique équivalent. Mais l'écart se réduit, voire s'inverse, une fois le coût d'usage intégré :</p>
+<ul>
+<li><strong>Carburant</strong> : aucune dépense d'essence/diesel, remplacée par une recharge nettement moins coûteuse</li>
+<li><strong>Entretien</strong> : moins de pièces d'usure (pas d'embrayage, moins de freinage grâce à la récupération d'énergie)</li>
+<li><strong>Fiscalité</strong> : exonération partielle de la carte grise selon les régions, avantages en flotte d'entreprise</li>
+</ul>
+<p>Sur une utilisation de plusieurs années avec un kilométrage annuel important, le coût total de possession d'une électrique devient souvent inférieur à celui d'un modèle essence ou diesel comparable — l'écart dépendant surtout du prix d'achat initial et du kilométrage parcouru.</p>
 
 <h2>Combien coûte une voiture électrique par mois ?</h2>
-<p>En intégrant financement (ou amortissement), assurance, recharge et entretien, le budget mensuel d'une voiture électrique se situe généralement dans une fourchette de 150 € à 300 € par mois hors financement du véhicule lui-même, selon le modèle et le kilométrage parcouru. Ce budget est comparable, voire inférieur, à celui d'un véhicule thermique équivalent une fois le poste carburant retiré — la recharge à domicile restant nettement moins coûteuse qu'un plein d'essence pour un usage équivalent.</p>
+<p>En intégrant financement (ou amortissement), assurance, recharge et entretien, le budget mensuel d'une voiture électrique se situe généralement dans une fourchette de <strong>150 € à 300 € par mois</strong> hors financement du véhicule lui-même, selon le modèle et le kilométrage parcouru. Ce budget se répartit principalement entre :</p>
+<ul>
+<li><strong>Recharge</strong> : le poste le plus économique, surtout à domicile</li>
+<li><strong>Assurance</strong> : comparable à un véhicule thermique équivalent</li>
+<li><strong>Entretien courant</strong> : réduit par rapport au thermique</li>
+</ul>
+<p>Ce budget est comparable, voire inférieur, à celui d'un véhicule thermique équivalent une fois le poste carburant retiré — la recharge à domicile restant nettement moins coûteuse qu'un plein d'essence pour un usage équivalent.</p>
 
 <h2>Le bonus écologique et les aides à l'achat</h2>
 <p>Plusieurs dispositifs permettent de réduire ce prix d'achat. Le <strong>bonus écologique</strong> peut atteindre plusieurs milliers d'euros selon le prix du véhicule et les revenus du foyer, et la <strong>prime à la conversion</strong> s'ajoute si vous mettez à la casse un ancien véhicule thermique. Des aides locales complémentaires existent aussi selon la région. Ces montants évoluent régulièrement — consultez le <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">détail officiel du bonus écologique sur economie.gouv.fr</a> pour les conditions actualisées au moment de votre achat.</p>
