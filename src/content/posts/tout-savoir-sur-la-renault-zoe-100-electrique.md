@@ -13,7 +13,7 @@ author: "Gabriel Dubois"
 
 <p>La <strong>Renault Zoé</strong> reste l'une des citadines électriques les plus recherchées en occasion en France. Sa production s'est arrêtée le 30 mars 2024, mais elle continue d'être un excellent point d'entrée dans l'électrique — à condition de bien comprendre ses versions et le piège classique de la batterie en location.</p>
 <div class="highlight-box">
-<p><strong>À retenir :</strong> deux motorisations principales existent (R110 : 109 ch ; R135 : 135 ch, jusqu'à 390-395 km WLTP selon les sources). Le prix varie fortement selon que la batterie est en location ou achetée intégralement — un écart pouvant dépasser 5 000 €. Comptez de 5 500 € à 19 000 € selon l'année, le modèle et la formule batterie.</p>
+<p><strong>À retenir :</strong> deux motorisations principales existent (R110 : 109 ch ; R135 : 135 ch). Avec la grande batterie (52 kWh), les deux offrent une autonomie WLTP proche de 390 km. Le prix varie fortement selon que la batterie est en location ou achetée intégralement — un écart pouvant dépasser 5 000 €. Comptez de 5 500 € à 19 000 € selon l'année, le modèle et la formule batterie.</p>
 </div>
 <!--more-->
 
@@ -21,26 +21,27 @@ author: "Gabriel Dubois"
 <p>Lancée en 2013, la Renault Zoé s'est imposée comme l'une des citadines 100 % électriques les plus vendues en Europe. Sa production s'est arrêtée le 30 mars 2024, l'usine de Flins étant reconvertie au reconditionnement de véhicules d'occasion. Elle a été remplacée dans la gamme Renault par la Renault 5 E-Tech Electric. Ce guide reste utile pour qui envisage l'achat d'une Zoé d'occasion, aujourd'hui la seule façon d'accéder à ce modèle.</p>
 
 <h2>R110 ou R135 : quelle version choisir ?</h2>
-<p>La Zoé a connu deux générations de moteur principales sur le marché de l'occasion :</p>
+<p>La Zoé a connu plusieurs générations de moteur et de batterie au fil de sa commercialisation. Les deux versions les plus courantes en occasion aujourd'hui sont le R110 et le R135 :</p>
 <span class="table-caption">Comparatif des motorisations R110 et R135</span>
 <table>
 <thead>
 <tr><th>Version</th><th>Puissance</th><th>Batterie</th><th>Autonomie WLTP</th><th>Période</th></tr>
 </thead>
 <tbody>
-<tr><td>R110</td><td>80 kW (109 ch)</td><td>41 ou 52 kWh</td><td>voir fiche constructeur</td><td>06/2018 - 01/2024</td></tr>
-<tr><td>R135</td><td>100 kW (135 ch)</td><td>52 kWh</td><td>jusqu'à 390-395 km WLTP selon source</td><td>06/2019 - 01/2024</td></tr>
+<tr><td>R110</td><td>80 kW (109 ch)</td><td>41 kWh</td><td>~325 km</td><td>06/2018 - 01/2024</td></tr>
+<tr><td>R110</td><td>80 kW (109 ch)</td><td>52 kWh</td><td>~390 km</td><td>06/2018 - 01/2024</td></tr>
+<tr><td>R135</td><td>100 kW (135-136 ch)</td><td>52 kWh</td><td>~390 km</td><td>06/2019 - 01/2024</td></tr>
 </tbody>
 </table>
-<p>La R135, plus récente, offre de meilleures reprises et une autonomie supérieure — c'est la version à privilégier si votre budget le permet. La R110 reste un choix pertinent pour un usage urbain avec un budget plus serré. <em>Spécifications vérifiées : Wikipédia et Automobile Propre (fiche technique Renault Zoé) — les sources disponibles ne convergent pas totalement sur l'autonomie exacte par version, vérifiez la fiche du véhicule avant l'achat.</em></p>
+<p>La R135, plus récente, offre de meilleures reprises grâce à sa puissance supérieure. La R110 avec batterie 52 kWh offre une autonomie très proche de la R135 pour un prix d'occasion généralement inférieur — c'est souvent le meilleur compromis. La R110 avec la petite batterie 41 kWh (325 km) reste un choix pertinent pour un usage urbain avec un budget plus serré. <em>Spécifications vérifiées : Wikipédia et Automobile Propre (fiche technique + tableau des générations).</em></p>
 
 <h2>Batterie en location ou achat intégral : le point qui change tout le budget</h2>
-<p>C'est la question la plus importante avant d'acheter une Zoé d'occasion — et celle que les annonces mentionnent rarement en clair. Jusqu'en 2018, Renault ne proposait la Zoé qu'avec une <strong>location de batterie</strong> obligatoire (un contrat mensuel séparé, généralement 50 à 100 €/mois selon le kilométrage). Depuis 2018, l'<strong>achat intégral</strong> est possible, avec un surcoût à l'achat d'environ <strong>8 900 €</strong> par rapport à une Zoé équivalente avec batterie louée.</p>
+<p>C'est la question la plus importante avant d'acheter une Zoé d'occasion — et celle que les annonces mentionnent rarement en clair. Jusqu'en 2018, Renault ne proposait la Zoé qu'avec une <strong>location de batterie</strong> obligatoire (un contrat mensuel séparé, le plus souvent autour de <strong>70 €/mois</strong>, avec des grilles tarifaires variables selon le kilométrage annuel souscrit). Depuis 2018, l'<strong>achat intégral</strong> est possible, avec un surcoût à l'achat d'environ <strong>8 900 €</strong> par rapport à une Zoé équivalente avec batterie louée.</p>
 <ul>
-<li><strong>Batterie en location</strong> : prix d'achat du véhicule plus bas, mais mensualité de location à vie (ou jusqu'à rachat du contrat) — à additionner au coût réel de possession</li>
+<li><strong>Batterie en location</strong> : prix d'achat du véhicule plus bas, mais mensualité de location à vie (ou jusqu'à rachat du contrat), et une <strong>assurance séparée à souscrire</strong> puisque Renault reste propriétaire du pack — à additionner au coût réel de possession</li>
 <li><strong>Batterie en propriété (achat intégral)</strong> : prix d'achat plus élevé, mais aucune mensualité supplémentaire et revente facilitée</li>
 </ul>
-<p>Sur le marché de l'occasion, cette distinction explique une bonne partie des écarts de prix apparemment incohérents entre deux Zoé du même millésime. <strong>Vérifiez toujours si la batterie est incluse ou louée avant de comparer deux annonces.</strong></p>
+<p>Sur le marché de l'occasion, cette distinction explique une bonne partie des écarts de prix apparemment incohérents entre deux Zoé du même millésime. Bon à savoir : il est possible de <strong>racheter le contrat de location</strong> pour devenir propriétaire de la batterie a posteriori — utile si vous trouvez une Zoé en location qui vous convient sinon. <strong>Vérifiez toujours si la batterie est incluse ou louée avant de comparer deux annonces.</strong> <em>Détails du dispositif vérifiés via Automobile Propre.</em></p>
 
 <h2>Combien coûte une Renault Zoé d'occasion ?</h2>
 <p>La Zoé n'étant plus vendue neuve depuis l'arrêt de sa production en 2024, elle s'achète aujourd'hui exclusivement d'occasion.</p>
@@ -111,7 +112,7 @@ author: "Gabriel Dubois"
 <h3>La Renault Zoé est-elle toujours vendue neuve ?</h3>
 <p>Non, sa production s'est arrêtée le 30 mars 2024. Elle s'achète aujourd'hui exclusivement d'occasion.</p>
 <h3>Quelle est l'autonomie de la Renault Zoé ?</h3>
-<p>Jusqu'à <strong>390 à 395 km</strong> (norme WLTP, chiffre variable selon les sources) pour la version R135, la plus récente. Pour la R110, antérieure, consultez la fiche constructeur : les sources disponibles ne donnent pas de chiffre WLTP homogène pour cette version.</p>
+<p>Jusqu'à <strong>~390 km</strong> (norme WLTP) pour les versions équipées de la grande batterie 52 kWh (R110 et R135). La version R110 avec la petite batterie 41 kWh plafonne à environ 325 km.</p>
 <h3>Faut-il choisir une Zoé avec batterie en location ou achetée ?</h3>
 <p>Cela dépend de votre usage : la location réduit le prix d'achat mais ajoute une mensualité à vie, l'achat intégral coûte plus cher au départ (environ <strong>8 900 €</strong> de plus) mais élimine toute mensualité récurrente et facilite la revente.</p>
 <h3>Quel est le prix d'une Renault Zoé d'occasion ?</h3>
@@ -119,7 +120,7 @@ author: "Gabriel Dubois"
 <h3>Par quoi la Renault Zoé est-elle remplacée ?</h3>
 <p>Par la Renault 5 E-Tech Electric, disponible neuve dans la gamme Renault depuis 2024.</p>
 
-<p><em>Sources et méthodologie : spécifications techniques vérifiées via <a href="https://fr.wikipedia.org/wiki/Renault_Zoe" target="_blank" rel="noopener">Wikipédia (fiche Renault Zoé, sourcée constructeur)</a> et Automobile Propre (fiche technique Renault Zoé) — ces deux sources ne convergent pas totalement sur l'autonomie exacte par version, voir la note dans le tableau des motorisations. Fourchettes de prix construites à partir d'annonces réelles relevées sur LaCentrale, LeBonCoin et réseaux Renault en août 2026 — données volatiles, à revérifier au moment de l'achat. Aides 2026 vérifiées via <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">sources gouvernementales (economie.gouv.fr)</a>.</em></p>
+<p><em>Sources et méthodologie : spécifications techniques vérifiées via <a href="https://fr.wikipedia.org/wiki/Renault_Zoe" target="_blank" rel="noopener">Wikipédia (fiche Renault Zoé, sourcée constructeur)</a> et Automobile Propre (fiche technique et tableau complet des générations Renault Zoé). Fourchettes de prix construites à partir d'annonces réelles relevées sur LaCentrale, LeBonCoin et réseaux Renault en août 2026 — données volatiles, à revérifier au moment de l'achat. Aides 2026 vérifiées via <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">sources gouvernementales (economie.gouv.fr)</a>.</em></p>
 
 
 
