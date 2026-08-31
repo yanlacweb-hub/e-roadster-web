@@ -82,6 +82,9 @@ const faqJsonLd = faqPairs.length > 0
       <h1>{title}</h1>
       <p class="meta">
         <span>Publié le {new Date(date).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+        {modified && modified !== date && (
+          <span>— Mis à jour le {new Date(modified).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+        )}
         {author && <span>— par {author}</span>}
         {readingMinutes && <span class="meta-reading">{readingMinutes} min de lecture</span>}
       </p>
