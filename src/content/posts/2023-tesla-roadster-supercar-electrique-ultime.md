@@ -91,6 +91,8 @@ author: "Gabriel Dubois"
 <h2>Conclusion</h2>
 <p>Le Tesla Roadster ambitionne de redéfinir la supercar électrique avec des chiffres qui, sur le papier, dépassent tout ce qui existe aujourd'hui sur le marché. Mais après 9 ans d'attente et de reports successifs, ces promesses restent non vérifiées sur un véhicule livré — un schéma récurrent chez <a href="https://e-roadster.fr/qui-est-elon-musk/">Elon Musk</a>, entre visions ambitieuses et calendriers rarement tenus. Le dernier point d'actualité connu (fin août 2026) évoque une démonstration « bientôt », sans date ferme — un scénario déjà vu à plusieurs reprises depuis 2017.</p>
 
+<figure><img src="/wp-content/uploads/2026/08/tesla-roadster-recharge-nuit.jpg" alt="Illustration d'une supercar électrique en recharge de nuit dans un environnement urbain futuriste" loading="lazy" /></figure>
+
 <h2>FAQ : Tesla Roadster</h2>
 <h3>Le Tesla Roadster est-il commercialisé ?</h3>
 <p>Non, à ce jour (août 2026), aucun exemplaire n'a été livré à un client. Le projet, annoncé en 2017, accumule les reports depuis 9 ans.</p>
