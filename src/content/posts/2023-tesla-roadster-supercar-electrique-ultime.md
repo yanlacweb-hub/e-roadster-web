@@ -13,6 +13,8 @@ author: "Gabriel Dubois"
 
 <p>Le <strong>Tesla Roadster</strong> est censé être la voiture de série la plus rapide jamais construite : 0 à 100 km/h en moins de 2 secondes, une autonomie annoncée de 1 000 km, et des propulseurs inspirés de SpaceX en option. Annoncé par Elon Musk en 2017, le projet accumule les retards depuis près de 9 ans et n'a toujours pas été commercialisé en août 2026.</p>
 
+<figure><img src="/wp-content/uploads/2026/08/tesla-roadster-exterieur.jpg" alt="Illustration d'une supercar électrique de type Tesla Roadster sur route au coucher du soleil" loading="lazy" /></figure>
+
 <div class="highlight-box">
 <p><strong>À retenir :</strong> le Tesla Roadster n'est <strong>toujours pas commercialisé</strong> à ce jour (août 2026). Une démonstration est promise « bientôt » par Tesla, mais sans date ferme — le projet a déjà connu de multiples reports depuis 2017. Les chiffres de performance ci-dessous restent des <strong>annonces du constructeur</strong>, non des caractéristiques vérifiées sur un véhicule livré à un client.</p>
 </div>
@@ -52,6 +54,8 @@ author: "Gabriel Dubois"
 <li><strong>Configuration :</strong> 2+2 places, toit amovible</li>
 </ul>
 <p>Une version optionnelle équipée de <strong>propulseurs à gaz froid</strong> développés avec SpaceX est également promise, censée générer une poussée supplémentaire lors des accélérations. C'est précisément ce système qui serait à l'origine des derniers retards en 2026, ses tests internes ne se déroulant pas comme prévu selon les informations de The Information relayées par Numerama.</p>
+
+<figure><img src="/wp-content/uploads/2026/08/tesla-roadster-interieur.jpg" alt="Illustration de l'habitacle futuriste d'une supercar électrique, écran tactile et sièges baquets" loading="lazy" /></figure>
 
 <h2>Autonomie et batterie</h2>
 <p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong> — le double de celle de la Tesla Model S Plaid — pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Ce chiffre, s'il se confirme, dépasserait largement l'autonomie des véhicules électriques actuellement <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">les plus performants du marché</a>. Aucune donnée officielle sur la puissance de recharge n'a été communiquée à ce jour ; Tesla a laissé entendre que le véhicule pourrait bénéficier du futur réseau Megacharger, actuellement développé pour le Tesla Semi.</p>
