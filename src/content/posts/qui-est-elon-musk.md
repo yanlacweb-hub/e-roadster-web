@@ -11,8 +11,6 @@ imageAlt: "elon musk"
 author: "Gabriel Dubois"
 ---
 
-<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-208" src="/wp-content/uploads/2022/12/telechargement.jpg" alt="Qui est Elon Musk ?" width="183" height="275" /></p>
-<p> </p>
 <h2>Introduction:</h2>
 <p class="" data-start="163" data-end="718">Derrière chaque révolution industrielle se cache un nom, un visage, une ambition. Pour le XXIe siècle, ce nom résonne plus fort que tous les autres : <strong data-start="313" data-end="326">Elon Musk</strong>. Visionnaire pour les uns, provocateur pour les autres, cet <strong data-start="387" data-end="403">entrepreneur</strong> sud-africain devenu américain s’est hissé au rang de figure incontournable de l’innovation <strong data-start="495" data-end="507">mondiale</strong>. À la tête d’un empire tentaculaire qui va des voitures électriques à l’exploration spatiale, il fascine autant qu’il divise – à l’instar d’autres <strong data-start="655" data-end="672">milliardaires</strong> listés dans le <strong data-start="688" data-end="717">magazine américain Forbes</strong>.</p>
 <p class="" data-start="720" data-end="1189">Nourri de science-fiction, animé par une foi presque mystique dans le progrès technologique, Elon Musk bouscule les codes à chaque prise de parole. Que ce soit en lançant une fusée réutilisable ou en tweetant à la volée des décisions aux conséquences économiques colossales, il impose un rythme que le monde – y compris les <strong data-start="1044" data-end="1063">riches du monde</strong> – peine parfois à suivre. Il est l’un de ces hommes qui semblent <strong data-start="1129" data-end="1151">avoir fait fortune</strong> autant par innovation que par audace.</p>
