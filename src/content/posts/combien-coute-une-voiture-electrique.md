@@ -18,12 +18,11 @@ author: "Gabriel Dubois"
 <!--more-->
 
 <h2>Le budget à prévoir selon votre profil</h2>
-<p>Le prix d'une voiture électrique neuve varie fortement selon le segment. Les citadines les moins chères démarrent autour de <strong>16 900 €</strong> pour la Dacia Spring, une des voitures électriques les plus accessibles du marché français. Viennent ensuite des modèles autour de 23 000 à 25 000 € : Citroën ë-C3 (environ 23 300 €), Fiat 500e (environ 24 900 €), Renault 5 E-Tech (à partir d'environ 25 000 €) ou Hyundai Inster (à partir de 25 350 €).</p>
-<p>Plus haut en gamme, une berline comme la Tesla Model 3 démarre autour de <strong>43 000 €</strong>, et un SUV familial comme le Tesla Model Y peut dépasser 60 000 € selon la version. Globalement, la fourchette de prix la plus courante pour une voiture électrique neuve se situe entre <strong>20 000 € et 45 000 €</strong>.</p>
-<p>Pour un budget serré, l'occasion permet d'accéder à ce type de véhicule dès 10 000 à 15 000 € — voir notre <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">guide sur la Renault Zoé d'occasion</a>, un des modèles les plus recherchés sur ce segment.</p>
+<p>Le prix d'une voiture électrique neuve varie fortement selon le segment choisi : de moins de <strong>17 000 €</strong> pour une citadine d'entrée de gamme à plus de <strong>60 000 €</strong> pour un SUV haut de gamme, la fourchette la plus courante se situant entre 20 000 € et 45 000 €. Le tableau ci-dessous détaille les prix par modèle.</p>
+<p>Pour un budget plus serré, l'occasion permet d'accéder à ce type de véhicule dès <strong>6 000 à 10 000 €</strong> pour les premiers modèles — voir le détail dans la section dédiée à l'occasion plus bas, et notre <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">guide sur la Renault Zoé d'occasion</a>, un des modèles les plus recherchés sur ce segment.</p>
 
 <h2>Prix par segment : citadine, berline, SUV</h2>
-<p>Le prix varie fortement selon la catégorie de véhicule choisie. <em>Prix catalogue indicatifs relevés en août 2026, hors options et hors aides — vérifiez toujours le tarif à jour auprès du constructeur ou concessionnaire avant achat.</em></p>
+<p>Prix catalogue indicatifs relevés auprès de comparateurs spécialisés (Vivacar) en <strong>août 2026</strong>, hors options et hors aides — vérifiez toujours le tarif à jour auprès du constructeur ou concessionnaire avant achat.</p>
 <span class="table-caption">Prix par modèle et segment</span>
 <table>
 <thead>
@@ -67,7 +66,7 @@ author: "Gabriel Dubois"
 <tr><td><strong>Budget automobile total</strong></td><td><strong>coût d'usage + financement</strong></td></tr>
 </tbody>
 </table>
-<p>Le <strong>coût d'usage seul</strong> (hors financement du véhicule) est le montant le plus comparable entre électrique et thermique, car il isole ce qui change réellement avec la motorisation. Le budget automobile total dépend, lui, surtout du prix du véhicule choisi et du mode de financement — identique quelle que soit la motorisation.</p>
+<p>Le <strong>coût d'usage seul</strong> (hors financement du véhicule) est le montant le plus comparable entre électrique et thermique, car il isole ce qui change réellement avec la motorisation. Le budget automobile total dépend, lui, surtout du prix du véhicule choisi et du mode de financement — identique quelle que soit la motorisation. <em>(Postes recharge et entretien calculés à partir des données détaillées plus bas ; assurance basée sur une moyenne marché de 400 à 670 €/an, source izi-by-EDF.)</em></p>
 
 <h2>Le bonus écologique et les aides à l'achat</h2>
 <p>Depuis le 1<sup>er</sup> juillet 2025, le bonus écologique pour l'achat d'une voiture électrique a été remplacé par la prime <strong>« Coup de pouce Véhicules Particuliers Électriques »</strong>, financée par les certificats d'économies d'énergie (CEE) et non plus directement par l'État. En 2026, son montant indicatif peut atteindre <strong>5 700 €</strong> pour les ménages en situation de précarité énergétique, <strong>4 700 €</strong> pour les ménages modestes non précaires et <strong>3 500 €</strong> pour les autres ménages, avec un soutien additionnel possible pour les véhicules dont la batterie est produite en Europe. Ces montants sont présentés par l'administration comme indicatifs, à confirmer au moment de votre achat.</p>
@@ -93,7 +92,7 @@ author: "Gabriel Dubois"
 <p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile — l'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p>
 
 <h2>Entretien et coût sur la durée</h2>
-<p>Au-delà du prix d'achat et de la recharge, une voiture électrique coûte généralement moins cher à l'usage qu'un modèle thermique équivalent : pas de vidange, moins de pièces d'usure (pas d'embrayage, moins de freinage grâce à la récupération d'énergie), un entretien globalement réduit (environ -25 % vs thermique, source izi-by-EDF). Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie.</p>
+<p>Au-delà du prix d'achat et de la recharge, l'entretien reste globalement moins coûteux sur une électrique : pas de vidange ni de courroie de distribution, un frein moteur régénératif qui use moins les plaquettes, mécanique plus simple dans l'ensemble (environ -25 % vs thermique, source izi-by-EDF). Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie.</p>
 <div class="data-warning">
 <p><strong>⚠️ Chiffre non retenu volontairement :</strong> les montants circulant sur le web pour ce remplacement (souvent entre 8 000 € et 15 000 € selon le modèle) proviennent de comparateurs et non des constructeurs eux-mêmes — nous ne les reprenons pas ici faute de source constructeur vérifiable et datée.</p>
 </div>
@@ -115,7 +114,7 @@ author: "Gabriel Dubois"
 <p><em>Ces montants sont des estimations basées sur des moyennes de marché, hors financement du véhicule lui-même — votre coût réel dépendra de votre profil de conduite, de votre région et de votre assureur.</em></p>
 
 <h2>Électrique vs thermique : énergie et entretien sur 5 ans</h2>
-<p>Pour un conducteur moyen (13 500 km/an), voici une estimation comparative sur 5 ans entre une citadine électrique et son équivalent thermique. Hypothèses : recharge domicile à 3 €/100 km, carburant à 1,75 €/L pour une consommation moyenne de 6,5 L/100 km, entretien électrique 25 % moins cher que le thermique.</p>
+<p>Pour un conducteur moyen (13 500 km/an), voici une estimation comparative sur 5 ans entre une citadine électrique et son équivalent thermique. Hypothèses : recharge domicile à 3 €/100 km, carburant à 1,75 €/L (estimation de marché, à ajuster selon le prix constaté au moment de votre calcul) pour une consommation moyenne de 6,5 L/100 km, entretien électrique 25 % moins cher que le thermique (source izi-by-EDF).</p>
 <span class="table-caption">Électrique vs thermique, sur 5 ans</span>
 <table>
 <thead>
