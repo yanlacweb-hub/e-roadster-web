@@ -11,7 +11,7 @@ imageAlt: "RENAULT ZOE :100% électrique"
 author: "Gabriel Dubois"
 ---
 
-<p>La <strong>Renault Zoé</strong> reste l'une des citadines électriques les plus recherchées en occasion en France, avec plus de 18 000 recherches mensuelles sur Google. Sa production s'est arrêtée le 30 mars 2024, mais elle continue d'être un excellent point d'entrée dans l'électrique — à condition de bien comprendre ses versions et le piège classique de la batterie en location.</p>
+<p>La <strong>Renault Zoé</strong> reste l'une des citadines électriques les plus recherchées en occasion en France. Sa production s'est arrêtée le 30 mars 2024, mais elle continue d'être un excellent point d'entrée dans l'électrique — à condition de bien comprendre ses versions et le piège classique de la batterie en location.</p>
 <div class="highlight-box">
 <p><strong>À retenir :</strong> deux motorisations principales existent (R110 : 109 ch, 260-315 km ; R135 : 135 ch, jusqu'à 390 km WLTP). Le prix varie fortement selon que la batterie est en location ou achetée intégralement — un écart pouvant dépasser 5 000 €. Comptez de 5 500 € à 19 000 € selon l'année, le modèle et la formule batterie.</p>
 </div>
@@ -61,7 +61,21 @@ author: "Gabriel Dubois"
 <p>La batterie lithium-ion de la Zoé est garantie par Renault contre une perte de capacité excessive (généralement 8 ans / 160 000 km selon les conditions du contrat souscrit à l'origine). En usage réel, la dégradation reste limitée dans les premières années, mais s'accélère parfois au-delà de 100 000 km. Avant l'achat, demandez impérativement un <strong>diagnostic batterie</strong> (état de santé ou SOH) au vendeur — un point aussi important que le contrôle technique sur une électrique.</p>
 
 <h2>Recharge : temps et solutions disponibles</h2>
-<p>La Renault Zoé peut se recharger sur une prise domestique standard, une wallbox à domicile ou une borne publique rapide. Comptez environ 9 à 10 heures pour une charge complète sur prise domestique, réduites à 1h sur une borne rapide DC — cette option de charge rapide (50 kW en combo CCS) n'était disponible qu'en option sur la R135, pas sur la R110 ni en série. Vérifiez cet équipement sur la fiche du véhicule avant l'achat si la recharge rapide est importante pour votre usage. Voir notre <a href="/comment-recharger-une-voiture-electrique-a-domicile-guide-complet/">guide complet de la recharge à domicile</a> et notre article sur <a href="/quelle-prise-pour-voiture-electrique/">le choix de la prise adaptée</a>.</p>
+<p>Le temps de recharge de la Zoé (batterie 52 kWh) varie fortement selon la puissance disponible :</p>
+<span class="table-caption">Temps de recharge selon la puissance</span>
+<table>
+<thead>
+<tr><th>Puissance</th><th>Type</th><th>Temps de recharge</th></tr>
+</thead>
+<tbody>
+<tr><td>Prise domestique 230V (10A)</td><td>Charge lente</td><td>~20 h (20 % → 100 %)</td></tr>
+<tr><td>Wallbox 3,7 kW (16A)</td><td>Charge normale</td><td>~13h15 (20 % → 100 %)</td></tr>
+<tr><td>Wallbox 7 kW (32A)</td><td>Charge accélérée</td><td>~4h15 (20 % → 80 %)</td></tr>
+<tr><td>Borne 22 kW (triphasée)</td><td>Charge accélérée</td><td>~1h26 (20 % → 80 %)</td></tr>
+<tr><td>Borne rapide DC (option R135)</td><td>Charge rapide</td><td>~1h (20 % → 80 %)</td></tr>
+</tbody>
+</table>
+<p>La recharge rapide DC en combo CCS (50 kW) n'était disponible qu'en option sur la R135, pas sur la R110 ni en série — vérifiez cet équipement sur la fiche du véhicule avant l'achat si la recharge rapide est importante pour votre usage. Voir notre <a href="/comment-recharger-une-voiture-electrique-a-domicile-guide-complet/">guide complet de la recharge à domicile</a> et notre article sur <a href="/quelle-prise-pour-voiture-electrique/">le choix de la prise adaptée</a>. <em>Temps de recharge vérifiés via Wikipédia (fiche Renault Zoé).</em></p>
 
 <h2>Aides à l'achat d'une Zoé d'occasion en 2026</h2>
 <p>Depuis le 1<sup>er</sup> septembre 2026, une aide CEE dédiée à l'occasion électrique est disponible, sans condition de revenus, sous réserve que le véhicule soit immatriculé pour la première fois entre 2017 et 2023, acheté ou loué auprès d'un professionnel habilité, et présente un état de santé de batterie d'au moins 80 %. La plupart des Zoé d'occasion (production 2018-2024) sont potentiellement éligibles selon leur date de première immatriculation. Consultez le <a href="/combien-coute-une-voiture-electrique/">détail des aides à l'achat d'un véhicule électrique</a> pour les conditions complètes.</p>
@@ -87,7 +101,7 @@ author: "Gabriel Dubois"
 <h3>Par quoi la Renault Zoé est-elle remplacée ?</h3>
 <p>Par la Renault 5 E-Tech Electric, disponible neuve dans la gamme Renault depuis 2024.</p>
 
-<p><em>Sources et méthodologie : spécifications techniques vérifiées via Wikipédia (fiche Renault Zoé, sourcée constructeur). Fourchettes de prix construites à partir d'annonces réelles relevées sur LaCentrale, LeBonCoin et réseaux Renault en août 2026 — données volatiles, à revérifier au moment de l'achat. Aides 2026 vérifiées via sources gouvernementales (economie.gouv.fr).</em></p>
+<p><em>Sources et méthodologie : spécifications techniques vérifiées via <a href="https://fr.wikipedia.org/wiki/Renault_Zoe" target="_blank" rel="noopener">Wikipédia (fiche Renault Zoé, sourcée constructeur)</a>. Fourchettes de prix construites à partir d'annonces réelles relevées sur LaCentrale, LeBonCoin et réseaux Renault en août 2026 — données volatiles, à revérifier au moment de l'achat. Aides 2026 vérifiées via <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">sources gouvernementales (economie.gouv.fr)</a>.</em></p>
 
 
 
