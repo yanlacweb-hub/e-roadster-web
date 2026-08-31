@@ -58,8 +58,19 @@ author: "Gabriel Dubois"
 </table>
 <p><em>Fourchettes construites à partir d'annonces réelles observées sur LaCentrale, LeBonCoin et réseaux Renault (relevé août 2026) — les prix évoluent en continu, vérifiez les annonces à jour au moment de votre achat.</em></p>
 
-<h2>Fiabilité et durée de vie de la batterie</h2>
-<p>La batterie lithium-ion de la Zoé est garantie par Renault contre une perte de capacité excessive (généralement 8 ans / 160 000 km selon les conditions du contrat souscrit à l'origine). En usage réel, la dégradation reste limitée dans les premières années, mais s'accélère parfois au-delà de 100 000 km. Avant l'achat, demandez impérativement un <strong>diagnostic batterie</strong> (état de santé ou SOH) au vendeur — un point aussi important que le contrôle technique sur une électrique.</p>
+<h2>Fiabilité de la Renault Zoé : les points à vérifier avant achat</h2>
+<p>La fiabilité de la Zoé s'est progressivement améliorée au fil de ses 9 années de commercialisation. Les problèmes les plus fréquemment rapportés concernaient surtout le moteur de 90 chevaux (premières générations), avec des correctifs apportés par Renault au fil du temps. Des dysfonctionnements électroniques restent possibles sur toutes les générations, notamment sur le système multimédia R-Link — à tester impérativement lors de l'essai.</p>
+<p>Avant l'achat, vérifiez systématiquement :</p>
+<ul>
+<li><strong>L'état de santé de la batterie (SOH)</strong> — demandez un diagnostic au vendeur, un point aussi important que le kilométrage sur un véhicule thermique</li>
+<li><strong>Le fonctionnement du chargeur embarqué</strong> — testez une charge complète si possible, notamment sur les premières générations</li>
+<li><strong>Le système multimédia R-Link</strong> — écran tactile, connectivité, mises à jour</li>
+<li><strong>Le chauffage et la climatisation</strong> — leur fonctionnement affecte directement l'autonomie réelle en hiver</li>
+<li><strong>L'historique d'entretien</strong> — carnet à jour, révisions effectuées chez un réseau agréé</li>
+<li><strong>Les câbles de recharge fournis</strong> — leur présence et leur état</li>
+<li><strong>Un essai routier complet</strong> — bruits suspects, accélération, freinage régénératif</li>
+</ul>
+<p>La batterie lithium-ion de la Zoé est garantie par Renault contre une perte de capacité excessive (généralement 8 ans / 160 000 km selon les conditions du contrat souscrit à l'origine). En usage réel, la dégradation reste limitée dans les premières années, mais s'accélère parfois au-delà de 100 000 km. <em>Points de fiabilité vérifiés via Automobile Propre.</em></p>
 
 <h2>Recharge : temps et solutions disponibles</h2>
 <p>Le temps de recharge de la Zoé (batterie 52 kWh) varie fortement selon la puissance disponible. <em>Attention : les plages de charge (20-80 % ou 20-100 %) diffèrent selon la source Wikipédia — les temps ne sont donc pas directement comparables entre eux, ils donnent un ordre de grandeur par solution.</em></p>
