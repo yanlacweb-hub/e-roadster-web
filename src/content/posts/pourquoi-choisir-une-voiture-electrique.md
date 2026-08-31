@@ -9,11 +9,7 @@ categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir.jpg"
 imageAlt: "Pourquoi choisir une voiture électrique"
 author: "Gabriel Dubois"
----
-
-<p> </p>
-<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-96" src="/wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir-300x200.jpg" alt="Voiture électrique les notions a connaître pour bien choisir" width="300" height="200" srcset="/wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir-300x200.jpg 300w, /wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir-1024x682.jpg 1024w, /wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir-768x511.jpg 768w, /wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir-1536x1023.jpg 1536w, /wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir-450x300.jpg 450w, /wp-content/uploads/2022/08/Voiture-electrique-les-notions-a-connaitre-pour-bien-choisir.jpg 2000w" sizes="(max-width: 780px) 100vw, 780px" /></p>
-<p>La voiture électrique est une voiture qui fonctionne à l’énergie électrique. Cette dernière provient de la batterie, et c’est elle qui permet au véhicule de se déplacer.</p>
+---<p>La voiture électrique est une voiture qui fonctionne à l’énergie électrique. Cette dernière provient de la batterie, et c’est elle qui permet au véhicule de se déplacer.</p>
 <p>Il existe plusieurs types de véhicules électriques : les voitures particulières, les camions, les bus, les motos, etc. Nous allons voir çà de plus près.</p>
 <p><!--more--></p>
 <h2>Les avantages d’une voiture électrique</h2>

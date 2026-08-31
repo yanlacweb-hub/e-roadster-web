@@ -9,10 +9,7 @@ categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/l-hydrogene-pourait-permettre-de-conserver-nos-moteurs-thermiques.jpg"
 imageAlt: "L’Union européenne acte la fin des moteurs thermiques en 2035"
 author: "Gabriel Dubois"
----
-
-<p><img loading="lazy" decoding="async" class="size-full wp-image-293 aligncenter" src="/wp-content/uploads/2022/12/LUnion-europeenne-acte-la-fin-des-moteurs-thermiques-en-2035.jpg" alt="L'union européenne acte la fin des moteurs thermiques en 2035" width="300" height="168" /></p>
-<p> </p>
+---<p> </p>
 <p>L’Union Européenne a franchi un cap décisif en actant la <strong data-start="104" data-end="145">fin des moteurs thermiques d’ici 2035</strong>. Cette mesure vise à accélérer la transition vers une <strong data-start="200" data-end="224">mobilité plus propre</strong> et à réduire l’<strong data-start="240" data-end="261">empreinte carbone</strong> du secteur automobile. Mais cette décision soulève de nombreuses questions : <strong data-start="339" data-end="431">quels véhicules seront concernés ? Quels impacts pour l’industrie et les consommateurs ?</strong> Dans cet article, nous décryptons les enjeux, les défis et les opportunités liés à cette révolution automobile.</p>
 <p><!--more--></p>
 <h2 data-start="73" data-end="116"><strong data-start="76" data-end="114">Contexte et objectifs de la mesure</strong></h2>

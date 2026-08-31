@@ -9,10 +9,7 @@ categories: ["entretien-et-recharge"]
 image: "/wp-content/uploads/2022/12/renault-voiture-electrique.png"
 imageAlt: "renault voiture électrique"
 author: "Gabriel Dubois"
----
-
-<p><img loading="lazy" decoding="async" class="size-medium wp-image-240 aligncenter" src="/wp-content/uploads/2022/12/batterie-voiture-electrique-300x198.jpg" alt="Batterie voiture électrique" width="300" height="198" srcset="/wp-content/uploads/2022/12/batterie-voiture-electrique-300x198.jpg 300w, /wp-content/uploads/2022/12/batterie-voiture-electrique-454x300.jpg 454w, /wp-content/uploads/2022/12/batterie-voiture-electrique.jpg 700w" sizes="(max-width: 780px) 100vw, 780px" /></p>
-<h2>Introduction:</h2>
+---<h2>Introduction:</h2>
 <p class="" data-start="510" data-end="844">Alors que les voitures électriques deviennent de plus en plus populaires, nombreux sont ceux qui cherchent des alternatives économiques et ingénieuses pour améliorer leur autonomie… ou même concevoir certains éléments eux-mêmes. Et parmi les projets les plus ambitieux : <strong data-start="781" data-end="831">fabriquer une batterie pour voiture électrique</strong> à la maison.</p>
 <p class="" data-start="846" data-end="1164">L’idée peut paraître folle au premier abord, voire dangereuse. Mais à l’heure des tutoriels YouTube, des forums spécialisés et des composants accessibles en ligne, construire une <strong data-start="1025" data-end="1053">batterie lithium-ion DIY</strong> devient un projet à la fois <strong data-start="1082" data-end="1109">faisable et passionnant</strong> – à condition de bien comprendre ce que cela implique.</p>
 <p class="" data-start="1166" data-end="1481">Entre <strong data-start="1172" data-end="1190">cellules 18650</strong>, <strong data-start="1192" data-end="1207">gestion BMS</strong>, <strong data-start="1209" data-end="1243">configurations série/parallèle</strong> et considérations de sécurité, ce guide complet vous accompagne <strong data-start="1308" data-end="1327">étape par étape</strong>. L’objectif ? Vous offrir une <strong data-start="1358" data-end="1398">vision claire, réaliste et sécurisée</strong> de ce qu’implique réellement l’assemblage d’une batterie pour véhicule électrique.</p>
