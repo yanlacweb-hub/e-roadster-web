@@ -101,7 +101,7 @@ author: "Gabriel Dubois"
 <h3>Par quoi la Renault Zoé est-elle remplacée ?</h3>
 <p>Par la Renault 5 E-Tech Electric, disponible neuve dans la gamme Renault depuis 2024.</p>
 
-<p><em>Sources et méthodologie : spécifications techniques vérifiées via <a href="https://fr.wikipedia.org/wiki/Renault_Zoe" target="_blank" rel="noopener">Wikipédia (fiche Renault Zoé, sourcée constructeur)</a>. Fourchettes de prix construites à partir d'annonces réelles relevées sur LaCentrale, LeBonCoin et réseaux Renault en août 2026 — données volatiles, à revérifier au moment de l'achat. Aides 2026 vérifiées via <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">sources gouvernementales (economie.gouv.fr)</a>.</em></p>
+<p><em>Sources et méthodologie : spécifications techniques vérifiées via <a href="https://fr.wikipedia.org/wiki/Renault_Zoe" target="_blank" rel="noopener">Wikipédia (fiche Renault Zoé, sourcée constructeur)</a> et Automobile Propre (fiche technique Renault Zoé) — ces deux sources ne convergent pas totalement sur l'autonomie exacte par version, voir la note dans le tableau des motorisations. Fourchettes de prix construites à partir d'annonces réelles relevées sur LaCentrale, LeBonCoin et réseaux Renault en août 2026 — données volatiles, à revérifier au moment de l'achat. Aides 2026 vérifiées via <a href="https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/achat-dun-vehicule-comment-fonctionne-le-bonus-ecologique" target="_blank" rel="noopener">sources gouvernementales (economie.gouv.fr)</a>.</em></p>
 
 
 
