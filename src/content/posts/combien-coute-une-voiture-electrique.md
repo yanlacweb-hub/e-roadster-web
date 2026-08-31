@@ -58,10 +58,10 @@ author: "Gabriel Dubois"
 <tr><th>Poste</th><th>Estimation mensuelle</th></tr>
 </thead>
 <tbody>
-<tr><td>Recharge</td><td>~20 à 65 € (selon kilométrage, voir tableau des profils plus bas)</td></tr>
-<tr><td>Assurance</td><td>~35 à 55 €</td></tr>
-<tr><td>Entretien provisionné</td><td>~65 €</td></tr>
-<tr><td><strong>Coût d'usage seul</strong></td><td><strong>~120 à 185 € / mois</strong></td></tr>
+<tr><td>Recharge</td><td>~20 à 62 € (selon kilométrage, voir tableau des profils plus bas)</td></tr>
+<tr><td>Assurance</td><td>~45 € (moyenne 535 €/an)</td></tr>
+<tr><td>Entretien provisionné</td><td>~50 à 67 € (selon kilométrage, voir tableau des profils plus bas)</td></tr>
+<tr><td><strong>Coût d'usage seul</strong></td><td><strong>~115 à 175 € / mois</strong></td></tr>
 <tr><td>Financement / amortissement du véhicule</td><td>variable selon le modèle et l'apport</td></tr>
 <tr><td><strong>Budget automobile total</strong></td><td><strong>coût d'usage + financement</strong></td></tr>
 </tbody>
@@ -114,7 +114,7 @@ author: "Gabriel Dubois"
 <p><em>Ces montants sont des estimations basées sur des moyennes de marché, hors financement du véhicule lui-même — votre coût réel dépendra de votre profil de conduite, de votre région et de votre assureur.</em></p>
 
 <h2>Électrique vs thermique : énergie et entretien sur 5 ans</h2>
-<p>Pour un conducteur moyen (13 500 km/an), voici une estimation comparative sur 5 ans entre une citadine électrique et son équivalent thermique. Hypothèses : recharge domicile à 3 €/100 km, carburant à 1,75 €/L (estimation de marché, à ajuster selon le prix constaté au moment de votre calcul) pour une consommation moyenne de 6,5 L/100 km, entretien électrique 25 % moins cher que le thermique (source izi-by-EDF).</p>
+<p>Pour un conducteur moyen (13 500 km/an), voici une estimation comparative sur 5 ans entre une citadine électrique et son équivalent thermique. Hypothèses : recharge domicile à 3 €/100 km, carburant à 1,75 €/L (estimation de marché, à ajuster selon le prix constaté au moment de votre calcul) pour une consommation moyenne de 6,5 L/100 km, entretien électrique calculé selon le même modèle que le tableau des profils ci-dessus (~662 €/an à ce kilométrage) et 25 % plus économique que le thermique (source izi-by-EDF).</p>
 <span class="table-caption">Électrique vs thermique, sur 5 ans</span>
 <table>
 <thead>
@@ -122,10 +122,10 @@ author: "Gabriel Dubois"
 </thead>
 <tbody>
 <tr><td>Énergie sur 5 ans</td><td>~2 025 €</td><td>~7 680 €</td></tr>
-<tr><td>Entretien sur 5 ans</td><td>~4 000 €</td><td>~5 330 €</td></tr>
+<tr><td>Entretien sur 5 ans</td><td>~3 310 €</td><td>~4 415 €</td></tr>
 </tbody>
 </table>
-<p><strong>Économie estimée : environ 7 000 € sur 5 ans en faveur de l'électrique</strong>, sur ces deux seuls postes. <em>Cette simulation exclut le prix d'achat, l'assurance (comparable sur les deux motorisations) et l'éventuelle installation d'une borne à domicile. Elle donne un ordre de grandeur, pas un calcul individualisé.</em></p>
+<p><strong>Économie estimée : environ 6 760 € sur 5 ans en faveur de l'électrique</strong>, sur ces deux seuls postes. <em>Cette simulation exclut le prix d'achat, l'assurance (comparable sur les deux motorisations) et l'éventuelle installation d'une borne à domicile. Elle donne un ordre de grandeur, pas un calcul individualisé.</em></p>
 
 <h2>Voiture électrique d'occasion : combien ça coûte vraiment ?</h2>
 <p>L'occasion reste la meilleure option pour un budget serré. Les premiers modèles électriques (Nissan Leaf, Renault Zoé première génération) se trouvent aujourd'hui dès 6 000 à 10 000 €, avec une autonomie plus limitée que les modèles récents. Pour un modèle plus récent avec une meilleure autonomie, comptez plutôt entre 12 000 € et 20 000 €. Un point de vigilance spécifique à l'occasion électrique : vérifiez l'état de santé de la batterie (SOH) avant l'achat, un critère aussi important que le kilométrage sur un véhicule thermique — voir notre guide sur la <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">Renault Zoé d'occasion</a> pour un exemple concret.</p>
