@@ -54,7 +54,7 @@ author: "Gabriel Dubois"
 <p>Une version optionnelle équipée de <strong>propulseurs à gaz froid</strong> développés avec SpaceX est également promise, censée générer une poussée supplémentaire lors des accélérations. C'est précisément ce système qui serait à l'origine des derniers retards en 2026, ses tests internes ne se déroulant pas comme prévu selon les informations de The Information relayées par Numerama.</p>
 
 <h2>Autonomie et batterie</h2>
-<p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong> — le double de celle de la Tesla Model S Plaid — pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Aucune donnée officielle sur la puissance de recharge n'a été communiquée à ce jour ; Tesla a laissé entendre que le véhicule pourrait bénéficier du futur réseau Megacharger, actuellement développé pour le Tesla Semi.</p>
+<p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong> — le double de celle de la Tesla Model S Plaid — pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Ce chiffre, s'il se confirme, dépasserait largement l'autonomie des véhicules électriques actuellement <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">les plus performants du marché</a>. Aucune donnée officielle sur la puissance de recharge n'a été communiquée à ce jour ; Tesla a laissé entendre que le véhicule pourrait bénéficier du futur réseau Megacharger, actuellement développé pour le Tesla Semi.</p>
 
 <h2>Comparatif avec les autres hypercars électriques</h2>
 <p>Pour situer les chiffres annoncés du Roadster face à des véhicules réellement commercialisés et testés :</p>
@@ -85,7 +85,7 @@ author: "Gabriel Dubois"
 <p>En attendant une éventuelle commercialisation du Roadster, la <a href="https://e-roadster.fr/location-de-voiture-electrique-roadstr-economique-ecologique/">location de voiture électrique chez Roadstr</a> permet d'accéder dès maintenant à une mobilité électrique performante, sans les incertitudes de calendrier d'un véhicule encore au stade de promesse.</p>
 
 <h2>Conclusion</h2>
-<p>Le Tesla Roadster ambitionne de redéfinir la supercar électrique avec des chiffres qui, sur le papier, dépassent tout ce qui existe aujourd'hui sur le marché. Mais après 9 ans d'attente et de reports successifs, ces promesses restent non vérifiées sur un véhicule livré. Le dernier point d'actualité connu (fin août 2026) évoque une démonstration « bientôt », sans date ferme — un scénario déjà vu à plusieurs reprises depuis 2017.</p>
+<p>Le Tesla Roadster ambitionne de redéfinir la supercar électrique avec des chiffres qui, sur le papier, dépassent tout ce qui existe aujourd'hui sur le marché. Mais après 9 ans d'attente et de reports successifs, ces promesses restent non vérifiées sur un véhicule livré — un schéma récurrent chez <a href="https://e-roadster.fr/qui-est-elon-musk/">Elon Musk</a>, entre visions ambitieuses et calendriers rarement tenus. Le dernier point d'actualité connu (fin août 2026) évoque une démonstration « bientôt », sans date ferme — un scénario déjà vu à plusieurs reprises depuis 2017.</p>
 
 <h2>FAQ : Tesla Roadster</h2>
 <h3>Le Tesla Roadster est-il commercialisé ?</h3>
