@@ -628,6 +628,39 @@ table tbody tr:hover { background: var(--accent-soft); }
 }
 .article-body .data-warning strong:first-child { color: #a1650c; }
 
+/* Pros/cons two-column layout (avantages/inconvenients) */
+.article-body .pros-cons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+@media (max-width: 680px) {
+  .article-body .pros-cons { grid-template-columns: 1fr; }
+}
+.article-body .pros-cons > div {
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.2rem;
+  box-shadow: var(--shadow-sm);
+}
+.article-body .pros {
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+}
+.article-body .cons {
+  background: #f4f5f7;
+  border-left: 4px solid #8a95a3;
+}
+.article-body .pros-cons h4 {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+  font-family: var(--font-heading);
+}
+.article-body .pros h4 { color: var(--accent-dark); }
+.article-body .cons h4 { color: #4b5563; }
+.article-body .pros-cons ul { margin: 0; padding-left: 1.2rem; }
+.article-body .pros-cons li { margin-bottom: 0.45rem; font-size: 0.95rem; }
+
 /* =========================
    Static page
    ========================= */

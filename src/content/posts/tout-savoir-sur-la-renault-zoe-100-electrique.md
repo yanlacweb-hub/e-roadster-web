@@ -81,7 +81,25 @@ author: "Gabriel Dubois"
 <p>Depuis le 1<sup>er</sup> septembre 2026, une aide CEE dédiée à l'occasion électrique est disponible, sans condition de revenus, sous réserve que le véhicule soit immatriculé pour la première fois entre 2017 et 2023, acheté ou loué auprès d'un professionnel habilité, et présente un état de santé de batterie d'au moins 80 %. La plupart des Zoé d'occasion (production 2018-2024) sont potentiellement éligibles selon leur date de première immatriculation. Consultez le <a href="/combien-coute-une-voiture-electrique/">détail des aides à l'achat d'un véhicule électrique</a> pour les conditions complètes.</p>
 
 <h2>Avantages et inconvénients de la Renault Zoé</h2>
-<p>Parmi ses points forts : une consommation électrique maîtrisée, une conduite confortable et silencieuse, un entretien réduit par rapport à un véhicule thermique, et une bonne disponibilité sur le marché de l'occasion. Ses limites : une autonomie qui reste inférieure à certains concurrents plus récents et plus chers, un espace de coffre modeste pour une utilisation familiale, et la complexité du choix location/achat de batterie qui peut dérouter un premier acheteur.</p>
+<div class="pros-cons">
+<div class="pros">
+<h4>✓ Points forts</h4>
+<ul>
+<li>Consommation électrique maîtrisée</li>
+<li>Conduite confortable et silencieuse</li>
+<li>Entretien réduit par rapport à un véhicule thermique</li>
+<li>Bonne disponibilité sur le marché de l'occasion</li>
+</ul>
+</div>
+<div class="cons">
+<h4>✗ Limites</h4>
+<ul>
+<li>Autonomie inférieure à certains concurrents plus récents et plus chers</li>
+<li>Espace de coffre modeste pour une utilisation familiale</li>
+<li>Choix location/achat de batterie qui peut dérouter un premier acheteur</li>
+</ul>
+</div>
+</div>
 
 <h2>Par quoi la Renault Zoé a-t-elle été remplacée ?</h2>
 <p>Depuis l'arrêt de sa production en mars 2024, la Renault Zoé a été remplacée dans la gamme du constructeur par la Renault 5 E-Tech Electric, une citadine électrique plus récente. Pour qui recherche un modèle neuf équivalent chez Renault, la 5 E-Tech Electric constitue aujourd'hui l'alternative directe. La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif.</p>
