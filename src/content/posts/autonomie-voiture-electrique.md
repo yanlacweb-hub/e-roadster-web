@@ -11,8 +11,7 @@ imageAlt: "autonomie voiture electrique"
 author: "Gabriel Dubois"
 ---
 
-<h2></h2>
-<h2><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-101" src="/wp-content/uploads/2022/12/autonomia-reale-auto-elettriche-classifica-300x169.jpg" alt="Autonomia réelle auto elettriche classifica" width="300" height="169" srcset="/wp-content/uploads/2022/12/autonomia-reale-auto-elettriche-classifica-300x169.jpg 300w, /wp-content/uploads/2022/12/autonomia-reale-auto-elettriche-classifica-1024x576.jpg 1024w, /wp-content/uploads/2022/12/autonomia-reale-auto-elettriche-classifica-768x432.jpg 768w, /wp-content/uploads/2022/12/autonomia-reale-auto-elettriche-classifica-500x281.jpg 500w, /wp-content/uploads/2022/12/autonomia-reale-auto-elettriche-classifica.jpg 1280w" sizes="(max-width: 780px) 100vw, 780px" />Introduction:</h2>
+<h2>Introduction:</h2>
 <p>L’autonomie des voitures électriques est l’un des plus grands défis auxquels sont confrontés les constructeurs automobiles à l’heure actuelle. La voiture électrique ne peut pas être considérée comme une solution durable si elle ne peut parcourir une distance suffisante sans devoir se recharger. Les constructeurs ont donc travaillé dur pour améliorer l’autonomie de ces véhicules, avec des progrès remarquables. Ce document tentera d’analyser en quoi l’autonomie des voitures électriques a été améliorée et quelles sont les technologies qui contribuent à cette avancée.</p>
 <p><!--more--></p>
 <h2>1.L’autonomie de la voiture électrique: comment améliorer l’efficacité et le fonctionnement?</h2>
