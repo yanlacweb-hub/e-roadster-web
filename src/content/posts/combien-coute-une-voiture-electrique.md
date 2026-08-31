@@ -24,6 +24,7 @@ author: "Gabriel Dubois"
 
 <h2>Prix par segment : citadine, berline, SUV</h2>
 <p>Le prix varie fortement selon la catégorie de véhicule choisie. <em>Prix catalogue indicatifs relevés en août 2026, hors options et hors aides — vérifiez toujours le tarif à jour auprès du constructeur ou concessionnaire avant achat.</em></p>
+<span class="table-caption">Prix par modèle et segment</span>
 <table>
 <thead>
 <tr><th>Modèle</th><th>Segment</th><th>Prix indicatif</th><th>Autonomie WLTP</th></tr>
@@ -52,6 +53,7 @@ author: "Gabriel Dubois"
 
 <h2>Combien coûte une voiture électrique par mois ?</h2>
 <p>Le coût mensuel dépend de ce que vous incluez dans le calcul. Voici la décomposition, hors puis avec financement :</p>
+<span class="table-caption">Décomposition du coût mensuel</span>
 <table>
 <thead>
 <tr><th>Poste</th><th>Estimation mensuelle</th></tr>
@@ -72,6 +74,7 @@ author: "Gabriel Dubois"
 
 <h2>Combien coûte la recharge d'une voiture électrique ?</h2>
 <p>Le coût de la recharge dépend fortement du mode utilisé :</p>
+<span class="table-caption">Coût de la recharge par type de borne</span>
 <table>
 <thead>
 <tr><th>Type de recharge</th><th>Coût indicatif / 100 km</th></tr>
@@ -88,10 +91,15 @@ author: "Gabriel Dubois"
 <p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile — l'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p>
 
 <h2>Entretien et coût sur la durée</h2>
-<p>Au-delà du prix d'achat et de la recharge, une voiture électrique coûte généralement moins cher à l'usage qu'un modèle thermique équivalent : pas de vidange, moins de pièces d'usure (pas d'embrayage, moins de freinage grâce à la récupération d'énergie), un entretien globalement réduit (environ -25 % vs thermique, source izi-by-EDF). Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie. <strong>Attention : les montants circulant sur le web pour ce remplacement (souvent entre 8 000 € et 15 000 € selon le modèle) proviennent de comparateurs et non des constructeurs eux-mêmes — nous ne les reprenons pas ici faute de source constructeur vérifiable et datée.</strong> Ce qui est en revanche établi : ce remplacement complet reste rare, il intervient généralement après plusieurs centaines de milliers de kilomètres ou en dehors de la période de garantie constructeur (souvent 8 ans / 160 000 km), et certaines interventions ne concernent qu'un module de la batterie plutôt que son remplacement intégral. Pour un devis fiable, contactez directement le constructeur ou un réparateur agréé de votre modèle.</p>
+<p>Au-delà du prix d'achat et de la recharge, une voiture électrique coûte généralement moins cher à l'usage qu'un modèle thermique équivalent : pas de vidange, moins de pièces d'usure (pas d'embrayage, moins de freinage grâce à la récupération d'énergie), un entretien globalement réduit (environ -25 % vs thermique, source izi-by-EDF). Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie.</p>
+<div class="data-warning">
+<p><strong>⚠️ Chiffre non retenu volontairement :</strong> les montants circulant sur le web pour ce remplacement (souvent entre 8 000 € et 15 000 € selon le modèle) proviennent de comparateurs et non des constructeurs eux-mêmes — nous ne les reprenons pas ici faute de source constructeur vérifiable et datée.</p>
+</div>
+<p>Ce qui est en revanche établi : ce remplacement complet reste rare, il intervient généralement après plusieurs centaines de milliers de kilomètres ou en dehors de la période de garantie constructeur (souvent 8 ans / 160 000 km), et certaines interventions ne concernent qu'un module de la batterie plutôt que son remplacement intégral. Pour un devis fiable, contactez directement le constructeur ou un réparateur agréé de votre modèle.</p>
 
 <h2>Quel budget d'utilisation annuel prévoir selon votre profil ?</h2>
 <p>Au-delà du prix d'achat, le budget d'usage dépend surtout de votre kilométrage annuel. Voici une estimation sur 3 profils, calculée à partir d'hypothèses explicites : recharge à domicile à 3 € en moyenne pour 100 km (milieu de la fourchette 1,8-4,5 € indiquée plus haut), entretien à 800 €/an et assurance à 535 €/an (moyenne du marché constatée sur plusieurs comparateurs spécialisés). <em>Ce calcul couvre l'énergie, l'entretien et l'assurance — il n'intègre pas le prix d'achat, la décote, le financement ni une éventuelle borne à domicile.</em></p>
+<span class="table-caption">Budget annuel par profil de conducteur</span>
 <table>
 <thead>
 <tr><th>Profil</th><th>Kilométrage/an</th><th>Recharge/an</th><th>Entretien/an</th><th>Assurance/an</th><th>Coût annuel total</th></tr>
@@ -106,6 +114,7 @@ author: "Gabriel Dubois"
 
 <h2>Électrique vs thermique : énergie et entretien sur 5 ans</h2>
 <p>Pour un conducteur moyen (13 500 km/an), voici une estimation comparative sur 5 ans entre une citadine électrique et son équivalent thermique. Hypothèses : recharge domicile à 3 €/100 km, carburant à 1,75 €/L pour une consommation moyenne de 6,5 L/100 km, entretien électrique 25 % moins cher que le thermique.</p>
+<span class="table-caption">Électrique vs thermique, sur 5 ans</span>
 <table>
 <thead>
 <tr><th>Poste</th><th>Électrique</th><th>Thermique</th></tr>

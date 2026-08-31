@@ -546,6 +546,49 @@ table tbody tr:nth-child(even) { background: var(--bg-alt); }
 .article-body table tbody tr:hover,
 table tbody tr:hover { background: var(--accent-soft); }
 
+/* "À retenir" summary box, injected at the top of long-form articles
+   just after the intro paragraph — gives the reader the essential
+   answer in a few seconds without reading the full page. */
+.article-body .highlight-box {
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius-sm);
+  padding: 1.1rem 1.4rem;
+  margin: 1.25rem 0 1.75rem;
+}
+.article-body .highlight-box p { margin: 0; }
+.article-body .highlight-box strong:first-child { color: var(--accent-dark); }
+
+/* Table caption: small label placed right above a table to name what
+   it shows at a glance, when several tables follow one another. */
+.article-body .table-caption {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent-dark);
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 0.28rem 0.85rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+/* Data-reliability warning: used when a figure could not be sourced
+   with confidence (e.g. no direct manufacturer data) and the article
+   flags it explicitly rather than presenting it as fact. */
+.article-body .data-warning {
+  background: #fdf6e8;
+  border: 1px solid #e5c15a;
+  border-left: 4px solid #d99a1f;
+  border-radius: var(--radius-sm);
+  padding: 0.9rem 1.2rem;
+  margin: 1.1rem 0;
+  font-size: 0.95rem;
+}
+.article-body .data-warning strong:first-child { color: #a1650c; }
+
 /* =========================
    Static page
    ========================= */
