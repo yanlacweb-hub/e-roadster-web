@@ -69,6 +69,16 @@ author: "Gabriel Dubois"
 </ul>
 <p>Pour une location courte (week-end, test avant achat), Roadstr a du sens si le modèle recherché est disponible dans le catalogue électrique local. Pour un usage récurrent ou un budget serré, un loueur généraliste ou une LLD reste souvent plus prévisible en prix.</p>
 
+<h2>Comment se déroule une location sur Roadstr, du début à la fin ?</h2>
+<p>Concrètement, une location Roadstr suit plusieurs étapes :</p>
+<ul>
+<li><strong>Réservation</strong> — recherche et réservation en ligne, avec validation de votre profil (âge, ancienneté de permis, absence de sinistre dans les 24 derniers mois)</li>
+<li><strong>Remise des clés</strong> — organisée directement avec le propriétaire du véhicule, qui vous explique les spécificités du modèle (recharge, options embarquées)</li>
+<li><strong>Utilisation</strong> — le kilométrage quotidien et les conditions de recharge dépendent de l'annonce précise</li>
+<li><strong>Restitution</strong> — retour du véhicule au propriétaire, généralement avec un niveau de charge équivalent à celui du départ</li>
+</ul>
+<p>En cas de panne ou de crevaison sans accident, une assistance dédiée (Allianz Assistance selon les conditions constatées) prend en charge le dépannage et le transport du véhicule. En cas de sinistre, la procédure passe par un contact direct avec Roadstr accompagné d'un constat amiable et de photos des dommages ; en cas de vol, un dépôt de plainte est nécessaire. <em>Processus vérifié via serenitrip.fr — à reconfirmer auprès de Roadstr au moment de la réservation, les procédures pouvant évoluer.</em></p>
+
 <h2>Conclusion</h2>
 <p>Roadstr n'est pas le spécialiste de la location électrique que son image marketing peut laisser croire — c'est avant tout une plateforme premium de location entre particuliers, ou l'électrique est une catégorie parmi d'autres (collection, sport, mariage). Son intérêt réel : un catalogue de modèles parfois introuvables ailleurs (Tesla haut de gamme, modèles récents), une flexibilité de courte durée, et un usage pertinent pour tester un véhicule avant achat. En contrepartie, les prix sont généralement supérieurs à un loueur généraliste sur une citadine électrique classique, et la disponibilité dépend entièrement des annonces actives dans votre zone.</p>
 
