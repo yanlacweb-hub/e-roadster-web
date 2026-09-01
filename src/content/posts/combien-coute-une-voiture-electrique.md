@@ -3,7 +3,7 @@ title: "Combien coûte une voiture électrique en 2026 ?"
 postSlug: "combien-coute-une-voiture-electrique"
 date: "2022-08-28T17:37:00"
 modified: "2026-08-31T00:00:00"
-description: "Voiture électrique : prix moyen entre 20 000 € et 45 000 €, mais certains modèles démarrent sous 17 000 €. Aides, coût de recharge et entretien : le calcul complet."
+description: "Voiture électrique : fourchette de prix la plus courante entre 20 000 € et 45 000 €, mais certains modèles démarrent sous 17 000 €. Aides, coût de recharge et entretien : le calcul complet."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/08/images-2.jpeg"
@@ -36,7 +36,7 @@ author: "Gabriel Dubois"
 <tr><td>Hyundai Inster</td><td>Citadine</td><td>25 350 €</td><td>370 km</td></tr>
 <tr><td>Peugeot e-208</td><td>Compacte</td><td>~30 000 €</td><td>362 km</td></tr>
 <tr><td>Tesla Model 3</td><td>Berline</td><td>~43 000 €</td><td>voir fiche constructeur</td></tr>
-<tr><td>Tesla Model Y</td><td>SUV</td><td>jusqu'à 60 000 €+</td><td>voir fiche constructeur</td></tr>
+<tr><td>Tesla Model Y</td><td>SUV</td><td>à partir de ~50 000 €</td><td>voir fiche constructeur</td></tr>
 </tbody>
 </table>
 <p>Ce classement par segment aide à cibler directement la fourchette de budget qui correspond à votre usage, plutôt que de comparer des véhicules aux vocations différentes.</p>
@@ -66,7 +66,7 @@ author: "Gabriel Dubois"
 <tr><td><strong>Budget automobile total</strong></td><td><strong>coût d'usage + financement</strong></td></tr>
 </tbody>
 </table>
-<p>Le <strong>coût d'usage seul</strong> (hors financement du véhicule) est le montant le plus comparable entre électrique et thermique, car il isole ce qui change réellement avec la motorisation. Le budget automobile total dépend, lui, surtout du prix du véhicule choisi et du mode de financement — identique quelle que soit la motorisation. <em>(Postes recharge et entretien calculés à partir des données détaillées plus bas ; assurance basée sur une moyenne marché de 400 à 670 €/an, source izi-by-EDF.)</em></p>
+<p>Le <strong>coût d'usage seul</strong> (hors financement du véhicule) est le montant le plus comparable entre électrique et thermique, car il isole ce qui change réellement avec la motorisation. Le budget automobile total dépend, lui, surtout du prix du véhicule choisi et du mode de financement — le type de financement (crédit, LOA, LLD) peut être identique quelle que soit la motorisation, mais son coût réel diffère selon le taux, les aides mobilisables et la valeur de revente. <em>(Postes recharge et entretien calculés à partir des données détaillées plus bas ; assurance basée sur une moyenne marché de 400 à 670 €/an, source izi-by-EDF.)</em></p>
 
 <h2>Le bonus écologique et les aides à l'achat</h2>
 <p>Depuis le 1<sup>er</sup> juillet 2025, le bonus écologique pour l'achat d'une voiture électrique a été remplacé par la prime <strong>« Coup de pouce Véhicules Particuliers Électriques »</strong>, financée par les certificats d'économies d'énergie (CEE) et non plus directement par l'État. En 2026, son montant indicatif peut atteindre <strong>5 700 €</strong> pour les ménages en situation de précarité énergétique, <strong>4 700 €</strong> pour les ménages modestes non précaires et <strong>3 500 €</strong> pour les autres ménages, avec un soutien additionnel possible pour les véhicules dont la batterie est produite en Europe. Ces montants sont présentés par l'administration comme indicatifs, à confirmer au moment de votre achat.</p>
@@ -87,7 +87,7 @@ author: "Gabriel Dubois"
 <tr><td>Recharge rapide / ultra-rapide (autoroute)</td><td>~10 à 14 €</td></tr>
 </tbody>
 </table>
-<p><em>Estimations calculées à partir des tarifs bornes publiques de 0,39 à 0,69 €/kWh et d'une consommation moyenne de 15 à 18 kWh/100 km pour une citadine ou compacte électrique (source : izi-by-EDF).</em></p>
+<p><em>Estimations calculées à partir des tarifs bornes publiques de 0,39 à 0,69 €/kWh et d'une consommation moyenne de 15 à 18 kWh/100 km pour une citadine ou compacte électrique (source : izi-by-EDF). La recharge rapide/ultra-rapide applique généralement un tarif au kWh plus élevé que la borne publique standard (souvent 0,50 à 0,80 €/kWh selon l'opérateur) — c'est ce tarif majoré, non les hypothèses ci-dessus, qui explique le coût plus élevé de cette ligne du tableau.</em></p>
 <p>La recharge à domicile reste la plus économique. Pour le détail complet des tarifs selon le type de borne, consultez notre <a href="/prix-recharge-voiture-electrique-combien-ca-coute/">guide dédié sur le prix de la recharge d'une voiture électrique</a>.</p>
 <p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile — l'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p>
 
@@ -144,7 +144,7 @@ author: "Gabriel Dubois"
 <h3>Quelle est la voiture électrique la moins chère ?</h3>
 <p>La <strong>Dacia Spring</strong> est actuellement l'une des voitures électriques neuves les moins chères du marché français, à partir d'environ 16 900 €.</p>
 <h3>Quel est le prix d'une batterie de voiture électrique ?</h3>
-<p>Le coût de remplacement complet varie fortement selon le modèle et la capacité. Les montants circulant sur le web (souvent 8 000 à 15 000 €) proviennent généralement de comparateurs plutôt que des constructeurs directement — pour un chiffre fiable, demandez un devis à votre constructeur ou réparateur agréé. Ce qui est établi : ce remplacement complet reste rare, généralement couvert par la garantie batterie (souvent 8 ans / 160 000 km) sur les modèles récents.</p>
+<p>Le coût de remplacement complet varie fortement selon le modèle et la capacité. Comme indiqué plus haut, nous ne retenons volontairement aucun montant précis faute de source constructeur vérifiable et datée — pour un chiffre fiable, demandez un devis à votre constructeur ou réparateur agréé. Ce qui est établi : ce remplacement complet reste rare, il intervient généralement après plusieurs centaines de milliers de kilomètres ou en dehors de la période de garantie constructeur (souvent 8 ans / 160 000 km) ; dans ce cas, il n'est pas pris en charge.</p>
 
 <p><em>Sources et méthodologie : les prix des véhicules proviennent de relevés effectués en août 2026 auprès de comparateurs spécialisés (Vivacar, fournisseurs-electricite.com, izi-by-EDF, meilleurelectrique.fr) et doivent être revérifiés au moment de votre achat, ces données étant volatiles. Les tarifs de recharge sont calculés à partir des tarifs bornes publiques (0,39-0,69 €/kWh) et de consommations moyennes constatées. Les estimations de coût annuel et la comparaison électrique/thermique sont des simulations basées sur des hypothèses explicitement indiquées (voir sections correspondantes) : elles donnent un ordre de grandeur et ne remplacent pas un calcul individualisé selon votre profil réel, votre région et votre assureur. Aucune donnée constructeur officielle n'a pu être consultée directement pour les prix batterie faute d'accès à leurs bases tarifaires (sites protégés) — ce point est signalé explicitement plutôt que masqué.</em></p>
 

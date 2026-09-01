@@ -14,7 +14,7 @@ author: "Gabriel Dubois"
 <p>Roadstr est une plateforme de location de voitures entre particuliers, positionnée sur le premium, le sport et la collection depuis sa création en 2014. Elle propose aussi une catégorie dédiée aux véhicules électriques, avec des modèles allant de la citadine à la Tesla haut de gamme. J'ai vérifié en direct ce que propose réellement la plateforme, ses prix constatés et ses conditions, plutôt que de reprendre une promesse générique de "mobilité écologique" — c'est ce genre de raccourci marketing qui coûte cher quand on ne le vérifie pas soi-même.</p>
 
 <div class="highlight-box">
-<p><strong>A retenir :</strong> Roadstr n'est pas un spécialiste de la voiture électrique — c'est une plateforme de location entre particuliers axée premium/collection/sport, qui propose aussi des modèles électriques (Tesla Model 3/Y, notamment). Comptez à partir de 50 EUR/jour selon les modèles, avec 200 à 250 km inclus par jour et une assurance intégrée au prix. Condition d'accès : 28 ans minimum et 5 ans de permis.</p>
+<p><strong>A retenir :</strong> Roadstr n'est pas un spécialiste de la voiture électrique — c'est une plateforme de location entre particuliers axée premium/collection/sport, qui propose aussi des modèles électriques (Tesla Model 3/Y, notamment). Sur les annonces électriques relevées, comptez de 125 à 295 EUR/jour selon le modèle et la ville, avec 200 à 250 km inclus par jour et une assurance intégrée au prix. Condition d'accès : 28 ans minimum et 5 ans de permis.</p>
 </div>
 <!--more-->
 
@@ -43,7 +43,7 @@ author: "Gabriel Dubois"
 <h2>Ce qui est inclus dans le prix</h2>
 <p>Selon les conditions générales de Roadstr, le prix affiché inclut :</p>
 <ul>
-<li><strong>L'assurance</strong> — aucune option payante supplémentaire n'est nécessaire, contrairement à certains loueurs qui facturent l'assurance à part</li>
+<li><strong>L'assurance de base</strong> — aucun surcoût n'est requis pour cette couverture, contrairement à certains loueurs qui la facturent à part ; le montant de la franchise et les éventuelles protections optionnelles ne sont pas détaillés publiquement, à vérifier au moment de la réservation</li>
 <li><strong>Un kilométrage quotidien de 200 à 250 km</strong> selon les annonces (Roadstr communique les deux chiffres selon les sources — le forfait exact dépend de l'annonce)</li>
 <li><strong>Un deuxième conducteur gratuit</strong> selon plusieurs annonces</li>
 <li><strong>L'assistance</strong>, joignable au téléphone</li>
@@ -64,7 +64,7 @@ author: "Gabriel Dubois"
 <h2>Roadstr face aux autres options de location électrique</h2>
 <p>Pour situer Roadstr par rapport aux alternatives, la différence principale est le modèle économique :</p>
 <ul>
-<li><strong>Roadstr</strong> : location entre particuliers, catalogue variable selon les annonces, prix premium, spécialisation collection/sport/électrique</li>
+<li><strong>Roadstr</strong> : location entre particuliers, catalogue variable selon les annonces, prix premium, spécialisation collection/sport (l'électrique est une catégorie de ce catalogue, pas une spécialité historique)</li>
 <li><strong>Loueurs généralistes (Europcar, Sixt, Hertz)</strong> : flotte professionnelle homogène, disponibilité plus prévisible, souvent moins cher sur une citadine électrique standard</li>
 <li><strong>LLD constructeur (Renault, dispositifs spécifiques)</strong> : engagement long terme (1 à 5 ans), pas adapté à un test ponctuel</li>
 </ul>
@@ -88,7 +88,7 @@ author: "Gabriel Dubois"
 <h3>Roadstr est-il spécialisé dans les voitures électriques ?</h3>
 <p>Non. Roadstr est une plateforme de location entre particuliers positionnée sur le premium, le sport et la collection depuis 2014. L'électrique est une catégorie de son catalogue, pas sa spécialité historique.</p>
 <h3>Quel est le prix d'une voiture électrique en location sur Roadstr ?</h3>
-<p>Les prix varient fortement selon le modèle et la ville : de 50 EUR/jour environ pour l'entrée de gamme jusqu'à 250-300 EUR/jour pour des modèles récents ou puissants (Tesla Model Y, MG Cyberster). Ce sont des annonces de particuliers, sans grille tarifaire fixe.</p>
+<p>Sur les annonces électriques relevées, les prix vont de 125 EUR/jour (Tesla Model Y) à 295 EUR/jour (Mazda MX-30), selon le modèle et la ville. Un tarif à partir de 50 EUR/jour existe sur Roadstr, mais concerne l'entrée de gamme du catalogue global de la plateforme, pas spécifiquement les modèles électriques. Ce sont des annonces de particuliers, sans grille tarifaire fixe.</p>
 <h3>L'assurance est-elle incluse dans le prix Roadstr ?</h3>
 <p>Oui, selon les conditions officielles de la plateforme, l'assurance est comprise dans le prix affiché, sans option payante supplémentaire.</p>
 <h3>Faut-il un âge minimum pour louer sur Roadstr ?</h3>

@@ -51,7 +51,7 @@ author: "Léa Moreau"
 <tr><th>Profil</th><th>Prix indicatif</th><th>Remarque</th></tr>
 </thead>
 <tbody>
-<tr><td>Premiers modèles (Q90/R90), batterie louée</td><td>5 500 € - 9 000 €</td><td>Kilométrage souvent élevé, mensualité batterie à prévoir</td></tr>
+<tr><td>Anciennes versions (Q90/R90 et versions antérieures), batterie louée</td><td>5 500 € - 9 000 €</td><td>Kilométrage souvent élevé, mensualité batterie à prévoir</td></tr>
 <tr><td>R110, batterie louée</td><td>8 000 € - 13 000 €</td><td>Bon compromis budget/fiabilité</td></tr>
 <tr><td>R110/R135, batterie achetée intégralement</td><td>13 000 € - 19 000 €</td><td>Pas de mensualité batterie, revente plus simple</td></tr>
 </tbody>
@@ -59,7 +59,7 @@ author: "Léa Moreau"
 <p><em>Fourchettes construites à partir d'annonces réelles observées sur LaCentrale, LeBonCoin et réseaux Renault (relevé août 2026) — les prix évoluent en continu, vérifiez les annonces à jour au moment de votre achat.</em></p>
 
 <h2>Fiabilité de la Renault Zoé : ce qu'il faut vraiment vérifier avant de craquer</h2>
-<p>La peur numéro un quand on achète une électrique d'occasion, c'est l'état de la batterie — légitime, c'est la pièce la plus chère à remplacer. Bonne nouvelle : la fiabilité de la Zoé s'est progressivement améliorée au fil de ses 9 années de commercialisation. Les problèmes les plus fréquemment rapportés concernaient surtout le moteur de 90 chevaux (premières générations), avec des correctifs apportés par Renault au fil du temps. Des dysfonctionnements électroniques restent possibles sur toutes les générations, notamment sur le système multimédia R-Link — à tester impérativement lors de l'essai.</p>
+<p>La peur numéro un quand on achète une électrique d'occasion, c'est l'état de la batterie — légitime, c'est la pièce la plus chère à remplacer. Bonne nouvelle : la fiabilité de la Zoé s'est progressivement améliorée au fil de ses 11 années de commercialisation (2013-2024). Les problèmes les plus fréquemment rapportés concernaient surtout le moteur de 90 chevaux (premières générations), avec des correctifs apportés par Renault au fil du temps. Des dysfonctionnements électroniques restent possibles sur toutes les générations, notamment sur le système multimédia R-Link — à tester impérativement lors de l'essai.</p>
 <p>Avant de signer, prenez le temps de vérifier ces points un par un :</p>
 <ul>
 <li><strong>L'état de santé de la batterie (SOH)</strong> — demandez un diagnostic au vendeur, un point aussi important que le kilométrage sur un véhicule thermique</li>
