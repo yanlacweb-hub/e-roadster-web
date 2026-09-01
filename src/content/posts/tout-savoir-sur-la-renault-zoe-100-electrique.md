@@ -11,7 +11,7 @@ imageAlt: "RENAULT ZOE :100% électrique"
 author: "Léa Moreau"
 ---
 
-<p>La <strong>Renault Zoé</strong> reste l'une des citadines électriques les plus recherchées en occasion en France. Sa production s'est arrêtée le 30 mars 2024, mais elle continue d'être un excellent point d'entrée dans l'électrique — à condition de bien comprendre ses versions et le piège classique de la batterie en location.</p>
+<p>Vous cherchez une première voiture électrique d'occasion et la Zoé revient sans cesse dans vos recherches ? Normal : c'est l'une des citadines électriques les plus disponibles sur le marché français, avec des prix qui peuvent vraiment coller à un budget serré. Sa production s'est arrêtée le 30 mars 2024, mais ça ne change rien à son intérêt en occasion — à condition de comprendre un piège qui fait varier le prix de plusieurs milliers d'euros sans que les annonces le précisent toujours clairement : la batterie en location.</p>
 <div class="highlight-box">
 <p><strong>À retenir :</strong> deux motorisations principales existent (R110 : 109 ch ; R135 : 135 ch). Avec la grande batterie (52 kWh), les deux offrent une autonomie WLTP proche de 390 km. Le prix varie fortement selon que la batterie est en location ou achetée intégralement — un écart pouvant dépasser 5 000 €. Comptez de 5 500 € à 19 000 € selon l'année, le modèle et la formule batterie.</p>
 </div>
@@ -35,8 +35,8 @@ author: "Léa Moreau"
 </table>
 <p>La R135, plus récente, offre de meilleures reprises grâce à sa puissance supérieure. La R110 avec batterie 52 kWh offre une autonomie très proche de la R135 pour un prix d'occasion généralement inférieur — c'est souvent le meilleur compromis. La R110 avec la petite batterie 41 kWh (325 km) reste un choix pertinent pour un usage urbain avec un budget plus serré. <em>Spécifications vérifiées : Wikipédia et Automobile Propre (fiche technique + tableau des générations).</em></p>
 
-<h2>Batterie en location ou achat intégral : le point qui change tout le budget</h2>
-<p>C'est la question la plus importante avant d'acheter une Zoé d'occasion — et celle que les annonces mentionnent rarement en clair. Jusqu'en 2018, Renault ne proposait la Zoé qu'avec une <strong>location de batterie</strong> obligatoire (un contrat mensuel séparé, le plus souvent autour de <strong>70 €/mois</strong>, avec des grilles tarifaires variables selon le kilométrage annuel souscrit). Depuis 2018, l'<strong>achat intégral</strong> est possible, avec un surcoût à l'achat d'environ <strong>8 900 €</strong> par rapport à une Zoé équivalente avec batterie louée.</p>
+<h2>Batterie en location ou achat intégral : la question à ne surtout pas zapper</h2>
+<p>C'est LA question à se poser avant d'acheter une Zoé d'occasion — et celle que les annonces mentionnent rarement en clair, ce qui peut coûter cher si on ne fait pas attention. Jusqu'en 2018, Renault ne proposait la Zoé qu'avec une <strong>location de batterie</strong> obligatoire (un contrat mensuel séparé, le plus souvent autour de <strong>70 €/mois</strong>, avec des grilles tarifaires variables selon le kilométrage annuel souscrit). Depuis 2018, l'<strong>achat intégral</strong> est possible, avec un surcoût à l'achat d'environ <strong>8 900 €</strong> par rapport à une Zoé équivalente avec batterie louée.</p>
 <ul>
 <li><strong>Batterie en location</strong> : prix d'achat du véhicule plus bas, mais mensualité de location à vie (ou jusqu'à rachat du contrat), et une <strong>assurance séparée à souscrire</strong> puisque Renault reste propriétaire du pack — à additionner au coût réel de possession</li>
 <li><strong>Batterie en propriété (achat intégral)</strong> : prix d'achat plus élevé, mais aucune mensualité supplémentaire et revente facilitée</li>
@@ -58,9 +58,9 @@ author: "Léa Moreau"
 </table>
 <p><em>Fourchettes construites à partir d'annonces réelles observées sur LaCentrale, LeBonCoin et réseaux Renault (relevé août 2026) — les prix évoluent en continu, vérifiez les annonces à jour au moment de votre achat.</em></p>
 
-<h2>Fiabilité de la Renault Zoé : les points à vérifier avant achat</h2>
-<p>La fiabilité de la Zoé s'est progressivement améliorée au fil de ses 9 années de commercialisation. Les problèmes les plus fréquemment rapportés concernaient surtout le moteur de 90 chevaux (premières générations), avec des correctifs apportés par Renault au fil du temps. Des dysfonctionnements électroniques restent possibles sur toutes les générations, notamment sur le système multimédia R-Link — à tester impérativement lors de l'essai.</p>
-<p>Avant l'achat, vérifiez systématiquement :</p>
+<h2>Fiabilité de la Renault Zoé : ce qu'il faut vraiment vérifier avant de craquer</h2>
+<p>La peur numéro un quand on achète une électrique d'occasion, c'est l'état de la batterie — légitime, c'est la pièce la plus chère à remplacer. Bonne nouvelle : la fiabilité de la Zoé s'est progressivement améliorée au fil de ses 9 années de commercialisation. Les problèmes les plus fréquemment rapportés concernaient surtout le moteur de 90 chevaux (premières générations), avec des correctifs apportés par Renault au fil du temps. Des dysfonctionnements électroniques restent possibles sur toutes les générations, notamment sur le système multimédia R-Link — à tester impérativement lors de l'essai.</p>
+<p>Avant de signer, prenez le temps de vérifier ces points un par un :</p>
 <ul>
 <li><strong>L'état de santé de la batterie (SOH)</strong> — demandez un diagnostic au vendeur, un point aussi important que le kilométrage sur un véhicule thermique</li>
 <li><strong>Le fonctionnement du chargeur embarqué</strong> — testez une charge complète si possible, notamment sur les premières générations</li>
@@ -117,7 +117,7 @@ author: "Léa Moreau"
 <p>Depuis l'arrêt de sa production en mars 2024, la Renault Zoé a été remplacée dans la gamme du constructeur par la Renault 5 E-Tech Electric, une citadine électrique plus récente. Pour qui recherche un modèle neuf équivalent chez Renault, la 5 E-Tech Electric constitue aujourd'hui l'alternative directe. La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif.</p>
 
 <h2>Conclusion</h2>
-<p>La Renault Zoé reste une valeur sûre en occasion pour qui cherche une citadine électrique fiable et économique à l'usage, même si elle n'est plus produite depuis 2024. Le point décisif avant achat n'est pas tant l'année ou le kilométrage que le statut de la batterie — louée ou achetée intégralement — qui peut faire varier le budget réel de plusieurs milliers d'euros. En complément ou en alternative, la Renault 5 E-Tech Electric reste l'option neuve équivalente chez Renault.</p>
+<p>Si vous cherchez une première électrique fiable sans casser votre budget, la Zoé reste une valeur sûre en occasion, même si elle n'est plus produite depuis 2024. Le point qui compte vraiment avant d'acheter, ce n'est pas tant l'année ou le kilométrage que le statut de la batterie — louée ou achetée intégralement — qui peut faire varier votre budget réel de plusieurs milliers d'euros. Prenez le temps de vérifier ce point avant toute autre chose. En complément ou en alternative, la Renault 5 E-Tech Electric reste l'option neuve équivalente chez Renault, si votre budget le permet.</p>
 
 <h2>FAQ : questions fréquentes sur la Renault Zoé</h2>
 <h3>La Renault Zoé est-elle toujours vendue neuve ?</h3>

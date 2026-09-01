@@ -11,7 +11,7 @@ imageAlt: "Tesla Roadster - supercar électrique annoncée par Tesla"
 author: "Gabriel Dubois"
 ---
 
-<p>Le <strong>Tesla Roadster</strong> est censé être la voiture de série la plus rapide jamais construite : 0 à 100 km/h en moins de 2 secondes, une autonomie annoncée de 1 000 km, et des propulseurs inspirés de SpaceX en option. Annoncé par Elon Musk en 2017, le projet accumule les retards depuis près de 9 ans et n'a toujours pas été commercialisé en août 2026.</p>
+<p>Le <strong>Tesla Roadster</strong> est censé être la voiture de série la plus rapide jamais construite : 0 à 100 km/h en moins de 2 secondes, une autonomie annoncée de 1 000 km, et des propulseurs inspirés de SpaceX en option. Sur le papier, difficile de ne pas être impressionné. Mais avant de vous laisser emballer : annoncé par Elon Musk en 2017, le projet accumule les retards depuis près de 9 ans et n'a toujours pas été commercialisé en août 2026. Voici ce qui est vérifié, et ce qui reste une simple promesse.</p>
 
 <figure><img src="/wp-content/uploads/2026/08/tesla-roadster-exterieur.jpg" alt="Illustration d'une supercar électrique de type Tesla Roadster sur route au coucher du soleil" loading="lazy" /></figure>
 
@@ -89,7 +89,7 @@ author: "Gabriel Dubois"
 <p>En attendant une éventuelle commercialisation du Roadster, la <a href="https://e-roadster.fr/location-de-voiture-electrique-roadstr-economique-ecologique/">location de voiture électrique chez Roadstr</a> permet d'accéder dès maintenant à une mobilité électrique performante, sans les incertitudes de calendrier d'un véhicule encore au stade de promesse.</p>
 
 <h2>Conclusion</h2>
-<p>Le Tesla Roadster ambitionne de redéfinir la supercar électrique avec des chiffres qui, sur le papier, dépassent tout ce qui existe aujourd'hui sur le marché. Mais après 9 ans d'attente et de reports successifs, ces promesses restent non vérifiées sur un véhicule livré — un schéma récurrent chez <a href="https://e-roadster.fr/qui-est-elon-musk/">Elon Musk</a>, entre visions ambitieuses et calendriers rarement tenus. Le dernier point d'actualité connu (fin août 2026) évoque une démonstration « bientôt », sans date ferme — un scénario déjà vu à plusieurs reprises depuis 2017.</p>
+<p>Le Tesla Roadster ambitionne de redéfinir la supercar électrique avec des chiffres qui, sur le papier, dépassent tout ce qui existe aujourd'hui sur le marché. Mon conseil, après avoir suivi ce dossier depuis des années : ne réservez pas sur la seule promesse. Après 9 ans d'attente et de reports successifs, ces chiffres restent non vérifiés sur un véhicule livré — un schéma récurrent chez <a href="https://e-roadster.fr/qui-est-elon-musk/">Elon Musk</a>, entre visions ambitieuses et calendriers rarement tenus. Le dernier point d'actualité connu (fin août 2026) évoque une démonstration « bientôt », sans date ferme — un scénario déjà vu à plusieurs reprises depuis 2017.</p>
 
 <figure><img src="/wp-content/uploads/2026/08/tesla-roadster-recharge-nuit.jpg" alt="Illustration d'une supercar électrique en recharge de nuit dans un environnement urbain futuriste" loading="lazy" /></figure>
 

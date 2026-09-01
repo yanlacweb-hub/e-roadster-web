@@ -11,7 +11,7 @@ imageAlt: "Combien coûte une voiture électrique ?"
 author: "Gabriel Dubois"
 ---
 
-<p>Vous cherchez une <strong>voiture électrique</strong> et la première question reste toujours la même : combien ça coûte réellement ? La réponse dépend du modèle, mais aussi du prix d'achat, des aides disponibles et du coût à l'usage. Voici le calcul complet, chiffres à l'appui.</p>
+<p>Vous cherchez une <strong>voiture électrique</strong> et la première question reste toujours la même : combien ça coûte réellement ? C'est exactement la question que je me suis posée avant de passer à l'électrique — et la réponse honnête, c'est qu'elle dépend du modèle, mais aussi du prix d'achat, des aides disponibles et du coût à l'usage. Voici le calcul complet, chiffres à l'appui, sans arrondir dans le sens qui arrange.</p>
 <div class="highlight-box">
 <p><strong>À retenir :</strong> une citadine électrique neuve démarre autour de 17 000 €, l'occasion dès 6 000 à 10 000 €. Le coût réel dépend ensuite fortement de votre kilométrage annuel, du mode de recharge, de l'assurance, de l'entretien et des aides mobilisées — voir le calcul détaillé et les 3 profils d'usage ci-dessous.</p>
 </div>
@@ -131,10 +131,10 @@ author: "Gabriel Dubois"
 <p>L'occasion reste la meilleure option pour un budget serré. Les premiers modèles électriques (Nissan Leaf, Renault Zoé première génération) se trouvent aujourd'hui dès 6 000 à 10 000 €, avec une autonomie plus limitée que les modèles récents. Pour un modèle plus récent avec une meilleure autonomie, comptez plutôt entre 12 000 € et 20 000 €. Un point de vigilance spécifique à l'occasion électrique : vérifiez l'état de santé de la batterie (SOH) avant l'achat, un critère aussi important que le kilométrage sur un véhicule thermique — voir notre guide sur la <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">Renault Zoé d'occasion</a> pour un exemple concret.</p>
 
 <h2>Acheter ou louer : quelle option pour maîtriser son budget ?</h2>
-<p>Pour ceux qui hésitent entre achat et location, chaque option a ses avantages selon l'usage prévu. L'achat convient à un usage régulier sur le long terme, tandis que la location (LOA, LLD ou location courte durée via des plateformes comme <a href="/location-de-voiture-electrique-roadstr-economique-ecologique/">Roadstr</a>) permet de tester l'électrique sans engagement financier lourd. Le choix dépend principalement de la fréquence d'utilisation et du budget disponible.</p>
+<p>Pour ceux qui hésitent entre achat et location, chaque option a ses avantages selon l'usage prévu — il n'y a pas de bon choix universel, seulement le bon choix pour votre usage réel. L'achat convient à un usage régulier sur le long terme, tandis que la location (LOA, LLD ou location courte durée via des plateformes comme <a href="/location-de-voiture-electrique-roadstr-economique-ecologique/">Roadstr</a>) permet de tester l'électrique sans engagement financier lourd. Avant de trancher, posez-vous la vraie question : combien de kilomètres faites-vous vraiment chaque année, et pour combien de temps ?</p>
 
 <h2>Conclusion : le budget réel pour passer à l'électrique</h2>
-<p>Le budget nécessaire pour une voiture électrique varie fortement selon le modèle, le neuf ou l'occasion, et les aides mobilisées — de moins de 17 000 € pour une citadine d'entrée de gamme à plus de 60 000 € pour un SUV haut de gamme. En intégrant les économies réalisées sur le carburant et l'entretien, le coût total de possession reste souvent compétitif face à un véhicule thermique équivalent sur plusieurs années d'utilisation.</p>
+<p>Le budget nécessaire pour une voiture électrique varie fortement selon le modèle, le neuf ou l'occasion, et les aides mobilisées — de moins de 17 000 € pour une citadine d'entrée de gamme à plus de 60 000 € pour un SUV haut de gamme. En intégrant les économies réalisées sur le carburant et l'entretien, le coût total de possession reste souvent compétitif face à un véhicule thermique équivalent sur plusieurs années d'utilisation. Ne vous fiez pas au seul prix affiché à l'achat : c'est le calcul complet, sur plusieurs années, qui vous dira si le passage à l'électrique est vraiment rentable pour votre usage.</p>
 
 <h2>FAQ : questions fréquentes sur le prix d'une voiture électrique</h2>
 <h3>Quel est le prix d'une voiture électrique ?</h3>
