@@ -8,7 +8,7 @@ category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/ech21198513-1.jpg"
 imageAlt: "RENAULT ZOE :100% électrique"
-author: "Gabriel Dubois"
+author: "Léa Moreau"
 ---
 
 <p>La <strong>Renault Zoé</strong> reste l'une des citadines électriques les plus recherchées en occasion en France. Sa production s'est arrêtée le 30 mars 2024, mais elle continue d'être un excellent point d'entrée dans l'électrique — à condition de bien comprendre ses versions et le piège classique de la batterie en location.</p>
