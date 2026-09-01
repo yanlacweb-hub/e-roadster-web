@@ -44,6 +44,7 @@ const readingMinutes = kind === 'post' ? estimateReadingTime(entry.body ?? '') :
     categoryName={catInfo?.name}
     readingMinutes={readingMinutes}
     rawBody={kind === 'post' ? entry.body : undefined}
+    noindex={(entry as any).data.noindex}
   >
     <Content />
   </ArticleLayout>

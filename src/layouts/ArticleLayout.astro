@@ -15,10 +15,11 @@ export interface Props {
   categoryName?: string;
   readingMinutes?: number;
   rawBody?: string;
+  noindex?: boolean;
 }
 
 const {
-  title, description, slug, date, modified, image, imageAlt, author = 'e-roadster.', category, categoryName, readingMinutes, rawBody,
+  title, description, slug, date, modified, image, imageAlt, author = 'e-roadster.', category, categoryName, readingMinutes, rawBody, noindex = false,
 } = Astro.props;
 
 const siteUrl = 'https://e-roadster.fr';
@@ -81,6 +82,7 @@ const faqJsonLd = faqPairs.length > 0
   author={author}
   jsonLd={faqJsonLd ? [jsonLd, faqJsonLd] : jsonLd}
   activeCategory={category}
+  noindex={noindex}
 >
   <article class="article-shell">
     <div class="article-header">
