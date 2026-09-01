@@ -33,7 +33,9 @@ const jsonLd = {
   description,
   datePublished: date,
   dateModified: modified || date,
-  author: { '@type': 'Person', name: author },
+  author: author === 'Gabriel Dubois'
+    ? { '@type': 'Person', name: author, url: `${siteUrl}/auteur-gabriel-dubois/` }
+    : { '@type': 'Person', name: author },
   publisher: {
     '@type': 'Organization',
     name: 'e-roadster.',
@@ -85,7 +87,7 @@ const faqJsonLd = faqPairs.length > 0
         {modified && modified !== date && (
           <span>— Mis à jour le {new Date(modified).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
         )}
-        {author && <span>— par {author}</span>}
+        {author && (author === 'Gabriel Dubois' ? <span>— par <a href="/auteur-gabriel-dubois/">{author}</a></span> : <span>— par {author}</span>)}
         {readingMinutes && <span class="meta-reading">{readingMinutes} min de lecture</span>}
       </p>
     </div>
