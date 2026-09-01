@@ -51,6 +51,7 @@ author: "Gabriel Dubois"
 <p>Roadstr annonce ne pas demander de caution classique, mais une simple <strong>empreinte bancaire (pre-autorisation) de 1 000 EUR</strong>, libérée automatiquement après restitution du véhicule sans dommage. <em>Conditions vérifiées via la fiche officielle roadstr.fr.</em></p>
 
 <h2>Louer sur Roadstr pour tester une voiture électrique avant de l'acheter</h2>
+<img src="/wp-content/uploads/2026/09/roadstr-recharge.jpg" alt="Câble de recharge branché sur une voiture électrique en location" loading="lazy" />
 <p>Un usage fréquent de Roadstr : tester un modèle électrique plusieurs jours avant un achat. Contrairement à un essai chez un concessionnaire (souvent limité à moins d'une heure), la location entre particuliers permet de :</p>
 <ul>
 <li>Mesurer l'<strong>autonomie réelle</strong> sur vos trajets habituels — souvent inférieure à l'autonomie WLTP annoncée par le constructeur</li>
@@ -70,6 +71,7 @@ author: "Gabriel Dubois"
 <p>Pour une location courte (week-end, test avant achat), Roadstr a du sens si le modèle recherché est disponible dans le catalogue électrique local. Pour un usage récurrent ou un budget serré, un loueur généraliste ou une LLD reste souvent plus prévisible en prix.</p>
 
 <h2>Comment se déroule une location sur Roadstr, du début à la fin ?</h2>
+<img src="/wp-content/uploads/2026/09/roadstr-remise-cles.jpg" alt="Remise des clés entre le propriétaire et le locataire d'une voiture électrique en location" loading="lazy" />
 <p>Concrètement, une location Roadstr suit plusieurs étapes :</p>
 <ul>
 <li><strong>Réservation</strong> — recherche et réservation en ligne, avec validation de votre profil (âge, ancienneté de permis, absence de sinistre dans les 24 derniers mois)</li>
