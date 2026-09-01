@@ -1,34 +1,65 @@
 ---
-title: "Location de voiture électrique Roadstr"
+title: "Acheter une voiture électrique d'occasion : les 7 étapes"
 postSlug: "acheter-une-voiture-electrique-occasion-les-7-etapes"
 date: "2022-12-05T01:03:54"
-modified: "2022-12-18T02:09:25"
-description: "Louer une voiture électrique Roadstr : écologique, économique et pratique. Découvrez les 7 avantages de cette solution de mobilité électrique sans engagement."
+modified: "2026-09-01T00:00:00"
+description: "Acheter une voiture électrique d'occasion sans se faire avoir : budget, état de la batterie, aides possibles. Les 7 étapes concrètes, expliquées simplement."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
-image: "/wp-content/uploads/2022/12/bonus-voiture-electrique-occasion-1000-euros-1.jpg"
-imageAlt: "acheter une voiture electrique occasion"
+image: "/wp-content/uploads/2026/09/acheter-voiture-electrique-occasion-featured.jpg"
+imageAlt: "Personne inspectant une voiture électrique d'occasion chez un vendeur"
 author: "Gabriel Dubois"
 ---
-
-<h2>I</h2>
-<h2>Introduction :</h2>
-<p>Les véhicules électriques sont un moyen très pratique et écologique de se déplacer. La location de voitures électriques Roadstr est une excellente option pour ceux qui souhaitent adopter une solution durable et économique. La location de voitures électriques Roadstr offre aux clients les avantages suivants : des véhicules à la pointe de la technologie, une faible incidence sur l’environnement, des tarifs concurrentiels et un service clientèle de qualité. Cette solution est particulièrement intéressante pour ceux qui cherchent à réduire leur empreinte carbone sans compromettre leur budget ou leurs besoins en matière de transport. Dans cet article, nous examinerons en détail les avantages et les caractéristiques des véhicules Roadstr ainsi que les différentes options qu’ils offrent en matière de location.</p>
 <p><!--more--></p>
-<h2>1. Location de voiture électrique Roadstr : La solution idéale pour un trajet respectueux de l’environnement</h2>
-<p>La location de voiture électrique Roadstr est la solution idéale pour ceux qui souhaitent effectuer un trajet respectueux de l’environnement. En optant pour Roadstr, vous bénéficierez des dernières technologies en matière d’efficacité énergétique et de respect des normes environnementales. De plus, les voitures sont conçues pour offrir une conduite fluide et confortable avec une autonomie qui peut aller jusqu’à 500 kilomètres par charge ! Vous n’aurez plus à vous inquiéter des arrêts fréquents pour recharger votre véhicule – ce qui est le cas des voitures électriques classiques – et apprécierez un trajet agréable et écologique.</p>
-<h2>2. Partez à l’aventure en<a href="https://e-roadster.fr/location-de-voiture-electrique-roadstr/"> louant une voiture électrique Roadstr</a></h2>
-<p>La location de voiture électrique Roadstr est une expérience unique et d’aventure. Cette voiture offre une conduite fulgurante et silencieuse, ainsi qu’une autonomie illimitée à travers les paysages et les villes. Vous pourrez découvrir des endroits moins fréquentés, en toute sécurité et à votre rythme. La communication avec le service client est facile grâce à des options modernes telles que le chat en ligne, les réservations en ligne et la livraison à domicile. Avec la location de voiture électrique Roadstr, vous pouvez partir à l’aventure sans limitation ni contrainte.</p>
-<h2>3. Location de voiture électrique Roadstr : Le nouveau mode de transport pratique et écologique</h2>
-<p>La location de voiture électrique Roadstr est un moyen pratique et écologique de se déplacer. Elle offre aux utilisateurs la possibilité de louer des voitures 100 % électriques sans se soucier des frais ou des contraintes habituels associés à l’achat d’une voiture. Les véhicules Roadstr sont accessibles à tous, à un prix abordable et sans engagement aucun, pour une location ponctuelle ou plus longue durée. De plus, leurs batteries sont conçues pour optimiser l’autonomie et réduire leur impact environnemental. La location de voiture électrique Roadstr est donc une solution parfaite pour les personnes qui souhaitent facilement et sans effort profiter d’un mode de transport alternatif plus durable.</p>
-<h2>4. Les avantages d’une location de voiture électrique Roadstr</h2>
-<p>Location de voiture électrique Roadstr offre de nombreux avantages. Premièrement, la location est plus économique que l’achat d’un véhicule électrique. En outre, les frais d’entretien et les coûts liés à l’utilisation du véhicule sont beaucoup plus faibles par rapport à une voiture classique. Enfin, le fait que le véhicule soit entièrement fonctionnel avec une autonomie en autonomie jusqu’à 800 km et aucune génération externe d’énergie liée au moteur thermique apporte une certaine sécurité et un confort supplémentaire pour les utilisateurs. De plus, comme il n’y a pas d’empreinte carbone liée à l’utilisation du véhicule, cela peut contribuer directement à la conservation de l’environnement.</p>
-<h2>5. Des vacances respectueuses de l’environnement grâce à une location de voiture électrique Roadstr</h2>
-<p>Les vacances ne sont pas seulement synonymes de détente, de visites et de découvertes, elles peuvent aussi être une occasion de voyager plus durablement. Par exemple, avec une location de voiture électrique Roadstr, la consommation d’énergie est nettement réduite et vous bénéficiez des avantages suivants: la pollution sonore est minimisée et les coûts d’utilisation sont inférieurs à ceux d’une voiture à essence ou à diesel. De plus, le fait que Roadstr ne produit pas de gaz à effet de serre signifie que vos vacances sont respectueuses de l’environnement. Que demander de plus pour des vacances réussies ?</p>
-<h2>6. Voyagez en toute liberté et en toute sécurité avec une location de voiture électrique Roadstr</h2>
-<p>Le voyage en voiture électrique Roadstr est l’un des moyens les plus pratiques et les plus sûrs pour découvrir le monde. La location de voiture électrique Roadstr offre une grande liberté et sécurité car elle permet aux voyageurs de se déplacer sans contrainte, à la fois dans les grandes villes et sur les routes de campagne, tout en respectant l’environnement. Cette solution innovante représente un moyen économique et abordable pour voyager, qui combine sécurité, confort et plaisir de conduire. Avec un large choix de modèles disponibles aux prix abordables, la location Roadstr permet aux voyageurs d’explorer leur destination avec leur propre véhicule électrique.</p>
-<h2>7. Faites des trajets sans culpabilité avec la location d’une voiture électrique Roadstr</h2>
-<p>La location de voiture électrique Roadstr est la solution idéale pour ceux qui souhaitent se déplacer sans culpabilité. En effet, ces véhicules sont alimentés à l’énergie électrique, ce qui signifie qu’ils ne rejettent pas de gaz à effet de serre dans l’atmosphère et ne contribuent pas au réchauffement climatique. De plus, leur fonctionnement silencieux offre une conduite plus sereine et agréable. Avec Roadstr, il vous suffit de louer votre voiture en quelques minutes et de partir pour votre prochain trajet sans crainte ni déception.</p>
-<h2>Conclusion:</h2>
-<p>En conclusion, la location de voiture électrique Roadstr offre une solution écologique et rentable pour se déplacer en ville. La voiture est facile à conduire, confortable et très bien équipée. Elle offre une autonomie suffisante pour les trajets quotidiens et est disponible à des tarifs abordables. De plus, le service de livraison à domicile est très pratique et permet aux clients de profiter de ce moyen de transport sans effort supplémentaire. Avec tous ces avantages, il n’est pas surprenant que la location de voiture électrique Roadstr soit un choix populaire parmi les conducteurs urbains.</p>
-
+<div class="highlight-box">
+<p><strong>À retenir :</strong> une voiture électrique d'occasion coûte souvent nettement moins cher qu'un modèle neuf équivalent. Le point à vérifier en priorité n'est pas le kilométrage mais l'état réel de la batterie (SOH). En 2026, aucune subvention publique ne s'applique à l'achat d'occasion — la LOA/LLD reste une option pour étaler le coût.</p>
+</div>
+<p>Vous voulez passer à l'électrique sans casser votre budget ? L'occasion est souvent la meilleure porte d'entrée, à condition de ne pas se faire avoir sur le point qui compte vraiment : l'état de la batterie, pas le compteur kilométrique. Voici les 7 étapes concrètes pour acheter sereinement, sans jargon inutile.</p>
+<h2>1. Déterminer votre budget et vos besoins réels</h2>
+<p>Avant de regarder une seule annonce, fixez un budget total réaliste — pas seulement le prix d'achat, mais aussi l'assurance (souvent un peu plus chère qu'en thermique équivalent) et une éventuelle location de batterie sur les modèles plus anciens. Listez ensuite vos trajets réels : un usage principalement urbain ne demande pas la même autonomie qu'un usage régulier sur autoroute. Une citadine d'occasion à moins de 15 000 € peut largement suffire pour un usage quotidien court.</p>
+<h2>2. Où chercher : plateformes, professionnels ou particuliers</h2>
+<p>Trois options principales : les sites d'annonces généralistes (Leboncoin, La Centrale), les plateformes spécialisées électrique, ou les concessionnaires/reconducteurs qui proposent une garantie. Un vendeur professionnel coûte souvent plus cher qu'un particulier, mais offre une garantie légale et un contrôle préalable du véhicule — un vrai filet de sécurité pour un premier achat électrique, plus rassurant qu'un achat entre particuliers sans expertise technique.</p>
+<h2>3. Vérifier l'état réel de la batterie (le point le plus important)</h2>
+<figure><img src="/wp-content/uploads/2026/09/acheter-voiture-electrique-occasion-batterie-soh.jpg" alt="Diagnostic de l'état de santé (SOH) d'une batterie de voiture électrique d'occasion" loading="lazy" /></figure>
+<p>C'est <strong>le</strong> critère décisif sur une voiture électrique d'occasion — bien plus que le kilométrage, qui reste néanmoins utile à vérifier pour les pneus, freins et suspensions. Demandez le <strong>SOH (State of Health)</strong> de la batterie : ce pourcentage indique sa capacité restante par rapport à l'état neuf, un repère plus qu'un seuil officiel — un SOH élevé après plusieurs années d'usage est un bon signal, mais son acceptabilité dépend aussi de l'âge du véhicule et de l'autonomie initiale. Attention : <strong>le contrôle technique réglementaire classique ne mesure pas le SOH de la batterie</strong> — il vérifie des éléments de sécurité générale, pas la capacité de la batterie de traction. Pour un vrai diagnostic, demandez un contrôle batterie spécifique (constructeur ou prestataire indépendant), avec certificat si possible. Méfiez-vous d'un vendeur qui ne peut ou ne veut pas fournir ce diagnostic.</p>
+<h2>4. Réunir l'historique du véhicule</h2>
+<p>Demandez le carnet d'entretien, l'historique des recharges si disponible, et vérifiez que le véhicule n'est ni gagé ni accidenté (un rapport d'historique via l'immatriculation permet de le confirmer). Pour une voiture avec batterie en location plutôt qu'achetée avec le véhicule (fréquent sur les premières générations, ex. Renault Zoé avant 2018), vérifiez les conditions et le coût mensuel du contrat en cours — cela s'ajoute au prix d'achat et doit être budgété dès le départ.</p>
+<h2>5. Inspecter et essayer le véhicule</h2>
+<p>Avant l'essai, inspectez le véhicule statiquement : carrosserie, dessous de caisse et protection du pack batterie (souvent négligé), état des pneus, des freins (moins sollicités sur électrique, donc leur usure anormale est un signal), la trappe et les câbles de recharge, ainsi que les voyants et écrans au démarrage. Lors de l'essai routier, testez le chauffage/climatisation, la tenue de route, le freinage mécanique, et comparez l'autonomie affichée à votre trajet réel — l'autonomie au démarrage seule ne suffit pas, elle dépend des trajets précédents et de la température. Si possible, testez aussi la recharge : branchez le véhicule sur une prise classique et, si l'occasion se présente, sur une borne rapide, pour vérifier qu'aucun message d'erreur n'apparaît et que la puissance acceptée correspond aux spécifications annoncées.</p>
+<h2>6. Formaliser l'achat et les documents légaux</h2>
+<figure><img src="/wp-content/uploads/2026/09/acheter-voiture-electrique-occasion-papiers.jpg" alt="Signature des documents d'achat d'une voiture électrique d'occasion" loading="lazy" /></figure>
+<p>Une fois décidé, réunissez les documents habituels d'un achat de véhicule d'occasion : certificat de cession, carte grise barrée, contrôle technique de moins de 6 mois (au-delà de 4 ans du véhicule), certificat de non-gage. Pour les modèles avec batterie en location, un transfert de contrat auprès du prestataire (souvent le constructeur) est nécessaire — anticipez ce délai avant de finaliser.</p>
+<h2>7. Assurer et immatriculer votre voiture électrique</h2>
+<p>L'assurance d'un véhicule électrique est parfois légèrement plus élevée qu'un thermique équivalent, notamment à cause du coût de la batterie en cas de sinistre — comparez plusieurs devis avant de signer. Une fois assuré, l'immatriculation à votre nom se fait en ligne via l'ANTS, avec les documents réunis à l'étape précédente. Une fois ces formalités faites, votre voiture électrique d'occasion est prête à rouler.</p>
+<h2>Quelles aides pour l'achat d'une voiture électrique d'occasion ?</h2>
+<p>Point important, souvent mal compris : en 2026, <strong>aucune subvention publique ne s'applique à l'achat d'une voiture électrique d'occasion</strong>. La prime « Coup de pouce Véhicules Particuliers Électriques » (qui a remplacé le bonus écologique depuis juillet 2025) est réservée aux véhicules <strong>neufs</strong> — et la prime à la conversion, qui pouvait autrefois s'appliquer à l'occasion, a disparu depuis décembre 2024. Ne comptez donc pas sur une aide de l'État dans votre budget d'achat. En revanche, deux formules de financement restent disponibles sur l'occasion : la LOA (location avec option d'achat) et la LLD (location longue durée), qui permettent d'étaler le coût sans mobiliser tout le budget d'un coup. Certaines collectivités locales proposent aussi ponctuellement des aides complémentaires, dont l'existence et le montant dépendent de la politique de la ville ou de la métropole concernée — à vérifier au cas par cas.</p>
+<h2>Occasion ou neuf : quel est le vrai avantage financier ?</h2>
+<table>
+<thead>
+<tr><th>Critère</th><th>Occasion</th><th>Neuf</th></tr>
+</thead>
+<tbody>
+<tr><td>Prix d'achat</td><td>Généralement 40 à 60 % inférieur à un modèle neuf équivalent</td><td>Plus élevé, réduit par le bonus écologique (3 500 à 5 700 € selon revenus)</td></tr>
+<tr><td>Aides disponibles</td><td>Aucune subvention publique en 2026 — LOA/LLD possibles pour étaler le coût</td><td>Prime Coup de pouce VE (3 500 à 5 700 €)</td></tr>
+<tr><td>État de la batterie</td><td>À vérifier impérativement (SOH) avant achat</td><td>Garantie constructeur neuve (souvent 8 ans/160 000 km, 70 % capacité mini)</td></tr>
+<tr><td>Garantie</td><td>Garantie légale si achat chez un professionnel, sinon aucune</td><td>Garantie constructeur complète</td></tr>
+</tbody>
+</table>
+<h2>Les points de vigilance à ne pas négliger</h2>
+<ul>
+<li><strong>SOH de la batterie non communiqué</strong> par le vendeur — un vrai signal d'alerte, à exiger avant toute négociation</li>
+<li><strong>Batterie en location</strong> sur les modèles plus anciens — coût mensuel à ajouter au budget, contrat à transférer</li>
+<li><strong>Prix affiché sans les aides</strong> — en 2026, aucune subvention publique ne s'applique à l'occasion, ne comptez pas dessus dans votre budget</li>
+<li><strong>Absence de garantie</strong> sur un achat entre particuliers — un professionnel coûte plus cher mais sécurise l'achat</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Acheter une voiture électrique d'occasion permet souvent d'accéder à l'électrique pour un budget nettement inférieur au neuf — à condition de vérifier ce qui compte vraiment : l'état de la batterie, pas le kilométrage affiché. En suivant ces 7 étapes dans l'ordre, vous limitez fortement le risque d'une mauvaise surprise après l'achat.</p>
+<h2>FAQ : acheter une voiture électrique d'occasion</h2>
+<h3>Qu'est-ce que le SOH d'une batterie et pourquoi c'est important ?</h3>
+<p><strong>Le State of Health (SOH)</strong> indique la capacité restante de la batterie par rapport à son état neuf, en pourcentage. C'est l'indicateur le plus fiable de l'état réel d'une batterie d'occasion — plus révélateur que le kilométrage ou l'âge du véhicule.</p>
+<h3>Peut-on bénéficier d'aides pour acheter une voiture électrique d'occasion ?</h3>
+<p><strong>Non, aucune en 2026.</strong> La prime au neuf ne s'applique pas à l'occasion, et la prime à la conversion a disparu depuis décembre 2024. La LOA et la LLD restent des options pour étaler le coût sans aide publique.</p>
+<h3>Faut-il acheter chez un particulier ou un professionnel ?</h3>
+<p><strong>Un professionnel coûte plus cher mais sécurise l'achat</strong> avec une garantie légale et souvent un diagnostic batterie fourni — un vrai avantage pour un premier achat électrique.</p>
+<h3>Une batterie en location, est-ce un problème ?</h3>
+<p><strong>Non, mais ça change le calcul</strong> — le coût mensuel de location s'ajoute au budget d'usage, et le contrat doit être transféré à votre nom lors de l'achat.</p>
