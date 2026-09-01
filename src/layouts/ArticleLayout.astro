@@ -26,6 +26,12 @@ const canonicalUrl = `${siteUrl}/${slug}/`;
 const pageTitle = `${title} - e-roadster.`;
 const imageUrl = image ? new URL(image, siteUrl).toString() : undefined;
 
+const authorPages: Record<string, string> = {
+  'Gabriel Dubois': '/auteur-gabriel-dubois/',
+  'Léa Moreau': '/auteur-lea-moreau/',
+};
+const authorPagePath = author ? authorPages[author] : undefined;
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -33,8 +39,8 @@ const jsonLd = {
   description,
   datePublished: date,
   dateModified: modified || date,
-  author: author === 'Gabriel Dubois'
-    ? { '@type': 'Person', name: author, url: `${siteUrl}/auteur-gabriel-dubois/` }
+  author: authorPagePath
+    ? { '@type': 'Person', name: author, url: `${siteUrl}${authorPagePath}` }
     : { '@type': 'Person', name: author },
   publisher: {
     '@type': 'Organization',
@@ -87,7 +93,7 @@ const faqJsonLd = faqPairs.length > 0
         {modified && modified !== date && (
           <span>— Mis à jour le {new Date(modified).toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
         )}
-        {author && (author === 'Gabriel Dubois' ? <span>— par <a href="/auteur-gabriel-dubois/">{author}</a></span> : <span>— par {author}</span>)}
+        {author && (authorPagePath ? <span>— par <a href={authorPagePath}>{author}</a></span> : <span>— par {author}</span>)}
         {readingMinutes && <span class="meta-reading">{readingMinutes} min de lecture</span>}
       </p>
     </div>
