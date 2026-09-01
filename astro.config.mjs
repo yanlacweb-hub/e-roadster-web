@@ -5,7 +5,7 @@ export default defineConfig({
   site: 'https://e-roadster.fr',
   integrations: [
     sitemap({
-      filter: (page) => !page.includes('/test-gpt-'),
+      filter: (page) => !page.includes('/test-gpt-') && !page.includes('/test-claude-'),
     }),
   ],
 });
