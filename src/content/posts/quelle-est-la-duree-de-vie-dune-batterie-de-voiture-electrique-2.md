@@ -35,7 +35,9 @@ author: "Gabriel Dubois"
 <h2>Comment prolonger la durée de vie de sa batterie ?</h2>
 <ul>
 <li>Éviter de laisser la voiture longtemps proche de 0 % ou à 100 % — un usage quotidien classique n'exige pas de suivre strictement la règle des 20-80 %</li>
+<li>Recharger occasionnellement jusqu'à 100 % (une fois toutes les quelques semaines) aide le système de gestion de la batterie (BMS) à réétalonner précisément le niveau de charge affiché entre les différentes cellules</li>
 <li>Privilégier la recharge lente au quotidien quand c'est pratique, sans s'interdire la recharge rapide en voyage</li>
+<li>Après un trajet long ou une conduite rapide sur autoroute, laisser la batterie refroidir quelques minutes avant de la recharger, plutôt que de brancher immédiatement — elle est déjà chaude, et la recharger tout de suite augmente encore sa température</li>
 <li>Stationner à l'abri des fortes chaleurs quand c'est possible — la chaleur pèse plus sur la durée de vie que le froid</li>
 <li>Mettre à jour le logiciel du véhicule régulièrement (optimisations de gestion de la batterie)</li>
 </ul>
