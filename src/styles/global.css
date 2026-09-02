@@ -599,6 +599,21 @@ table tbody tr:hover { background: var(--accent-soft); }
 .article-body .highlight-box p { margin: 0; }
 .article-body .highlight-box strong:first-child { color: var(--accent-dark); }
 
+/* "Le saviez-vous"/definition box: a second, differently-colored callout
+   (blue) for explaining a technical term/acronym the first time it's
+   used in an article — visually distinct from the green "À retenir"
+   summary box above so readers don't confuse the two purposes. */
+.article-body .info-box {
+  background: #eaf4fd;
+  border: 1px solid #35a9ff;
+  border-left: 4px solid #35a9ff;
+  border-radius: var(--radius-sm);
+  padding: 1.1rem 1.4rem;
+  margin: 1.25rem 0 1.75rem;
+}
+.article-body .info-box p { margin: 0; }
+.article-body .info-box strong:first-child { color: #176ba4; }
+
 /* Table caption: small label placed right above a table to name what
    it shows at a glance, when several tables follow one another. */
 .article-body .table-caption {

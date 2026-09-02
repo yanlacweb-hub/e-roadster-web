@@ -14,6 +14,9 @@ author: "Gabriel Dubois"
 <div class="highlight-box">
 <p><strong>À retenir :</strong> les voitures électriques actuelles affichent une autonomie WLTP entre 135 et 730 km selon le modèle, soit généralement moins en conditions réelles. L'écart entre autonomie annoncée et autonomie réelle s'explique surtout par la vitesse, la météo et le chauffage — il ne signale pas, à lui seul, un défaut du véhicule.</p>
 </div>
+<div class="info-box">
+<p><strong>C'est quoi le WLTP ?</strong> Le WLTP (Worldwide Harmonized Light Vehicles Test Procedure) est le protocole d'essai officiel utilisé en Europe pour mesurer la consommation et l'autonomie de tous les véhicules neufs, dans des conditions standardisées identiques pour chaque modèle. C'est le chiffre que vous voyez affiché par les constructeurs — il sert à comparer les voitures entre elles de façon équitable, mais ne correspond pas forcément à ce que vous obtiendrez sur la route.</p>
+</div>
 <p>Combien de kilomètres parcourt vraiment une voiture électrique ? La valeur affichée par le constructeur (cycle WLTP) sert à comparer les modèles dans des conditions standardisées, mais elle ne garantit pas la distance obtenue sur autoroute, en hiver ou avec le chauffage allumé. Voici comment lire ce chiffre, le calculer vous-même, et ce qui le fait vraiment varier.</p>
 <h2>Combien de kilomètres parcourt une voiture électrique ?</h2>
 <p>Les modèles commercialisés en France affichent une autonomie WLTP allant de 135 à environ 730 km selon la taille de la batterie et le segment du véhicule — les citadines d'entrée de gamme se situent plutôt entre 225 et 400 km, les berlines et SUV premium peuvent dépasser 600 km. En conditions réelles, comptez généralement entre 100 et 600 km selon le modèle et l'usage.</p>
