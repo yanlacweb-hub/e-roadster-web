@@ -3,7 +3,7 @@ title: "Fin des moteurs thermiques en 2035"
 postSlug: "lunion-europeenne-acte-la-fin-des-moteurs-thermiques-en-2035"
 date: "2022-12-30T23:21:27"
 modified: "2025-05-15T10:08:38"
-description: "L'Union Européenne interdit les moteurs thermiques dès 2035. Découvrez les impacts sur l'industrie, les alternatives et les défis de cette transition écologique."
+description: "L'Union Européenne interdit les moteurs thermiques dès 2035. Impacts sur l'industrie, alternatives et défis de cette transition écologique."
 category: "voiture-electrique"
 categories: ["voiture-electrique"]
 image: "/wp-content/uploads/2022/12/l-hydrogene-pourait-permettre-de-conserver-nos-moteurs-thermiques.jpg"
