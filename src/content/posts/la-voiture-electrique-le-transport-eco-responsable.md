@@ -21,7 +21,7 @@ author: "Gabriel Dubois"
 
 <p><strong>La voiture électrique émet zéro CO₂ en roulant</strong> — c'est son premier atout. Contrairement aux véhicules thermiques qui rejettent des gaz polluants à l'échappement (CO₂, NOx, particules fines), une électrique en circulation ne produit aucune émission locale.</p>
 
-<p>Mais le vrai bilan environnemental se mesure sur la durée de vie complète du véhicule : fabrication de la batterie, électricité pour la recharge, fin de vie du véhicule. Étude après étude, le résultat est clair : après environ <strong>30 000 km de roulage, une électrique a compensé l'impact de sa fabrication et présente un bilan carbone trois fois meilleur qu'une thermique équivalente</strong>. Cet avantage s'accentue si l'électricité provient de sources renouvelables (ce qui est le cas en France : 68 % du mix énergétique en 2025 provient du nucléaire et des renouvelables).</p>
+<p>Mais le vrai bilan environnemental se mesure sur la durée de vie complète du véhicule : fabrication de la batterie, électricité pour la recharge, fin de vie du véhicule. Selon l'Ademe (Agence de l'Environnement et de la Maîtrise de l'Énergie, l'organisme français de référence), le résultat est clair : après environ <strong>30 000 km de roulage, une électrique a compensé l'impact de sa fabrication et présente un bilan carbone trois fois meilleur qu'une thermique équivalente</strong>. Cet avantage s'accentue si l'électricité provient de sources renouvelables (ce qui est le cas en France : 68 % du mix énergétique en 2025 provient du nucléaire et des renouvelables).</p>
 
 <p>Au-delà de la combustion, les électriques réduisent aussi les nuisances sonores (80 % plus silencieuses) et les polluants spécifiques aux thermiques : pas de particules fines de freinage usé (frein régénératif électrique), pas d'émanations d'hydrocarbures, pas de pollution de l'air urbain.</p>
 
@@ -44,7 +44,7 @@ author: "Gabriel Dubois"
 <p>Un citadine électrique neuve (type Renault Zoé, Citroën ë-C3) démarre autour de <strong>22 000 à 28 000 €</strong>. Une thermique équivalente : 18 000 à 24 000 €. L'écart apparent : 4 000 à 5 000 €. Mais le gouvernement français propose :</p>
 
 <ul>
-<li><strong>Bonus écologique</strong> : jusqu'à 7 000 € pour un achat neuf (plafonné à véhicules sous 47 000 €)</li>
+<li><strong>Bonus écologique</strong> : jusqu'à 7 000 € pour un achat neuf (plafonné à véhicules sous 47 000 €), accordé dès l'immatriculation du véhicule</li>
 <li><strong>Prime à la conversion</strong> : jusqu'à 5 000 € si vous remplacez un vieux diesel</li>
 <li><strong>Exonérations régionales</strong> : certaines régions ajoutent 2 000 à 3 000 € supplémentaires</li>
 </ul>
@@ -132,7 +132,7 @@ author: "Gabriel Dubois"
 
 <h3>Trajets urbains (< 50 km/jour)</h3>
 
-<p><strong>Optez pour une petite citadine compacte (280-350 km d'autonomie WLTP).</strong> Types : Renault Zoé, Citroën ë-C3, Fiat 500e, Peugeot e-208. Avantages : agiles en ville, consommation basse, moins cher, faciles à recharger la nuit. Prix : 20 000 à 30 000 € après aides.</p>
+<p><strong>Optez pour une petite citadine compacte (280-350 km d'autonomie WLTP).</strong> Types : Renault Zoé, Citroën ë-C3, Fiat 500e, Peugeot e-208. Les constructeurs automobiles français et européens dominent ce segment avec d'excellents rapports prix/qualité. Avantages : agiles en ville, consommation basse, moins cher, faciles à recharger la nuit. Prix : 20 000 à 30 000 € après aides.</p>
 
 <h3>Trajets mixtes urbains + autoroute occasionnelle (50-150 km/jour)</h3>
 
@@ -144,17 +144,19 @@ author: "Gabriel Dubois"
 
 <h3>Types de motorisation à ne pas confondre</h3>
 
+<p>Le choix des motorisations disponibles aujourd'hui dépasse largement le diesel vs essence des anciens combats automobiles. Voici les trois catégories principales qui structurent le marché :</p>
+
 <ul>
 <li><strong>Hybride simple (Toyota Prius)</strong> : thermique + électrique sans recharge externe. Le moteur électrique aide le thermique, pas de zéro émission possible. Utile pour réduire la consommation, moins pour l'écologie réelle</li>
 <li><strong>Hybride rechargeable (PHEV, ex : Peugeot 3008 Hybrid4)</strong> : thermique + électrique, batterie rechargeable. Mode électrique pour 50 km environ, puis bascule au thermique. Bon compromis pour transitions progressives, mais plus cher et pas 100 % électrique</li>
-<li><strong>100 % électrique (ex : Renault Zoé, Tesla Model 3)</strong> : moteur électrique unique, zéro combustion. C'est le vrai changement écologique</li>
+<li><strong>Tout-électrique (ex : Renault Zoé, Tesla Model 3)</strong> : moteur électrique unique, zéro combustion. C'est le vrai changement écologique et la motorisation la plus avancée en termes de mobilité électrique</li>
 </ul>
 
 <h2>🔌 Recharger son électrique : solutions pratiques</h2>
 
-<p><strong>La majorité des utilisateurs rechargent à domicile</strong> (garage ou prise extérieure), ce qui simplifie énormément. Une charge lente (230 V, prise domestique classique) remplit 30-50 km d'autonomie par heure. Pour la nuit, c'est suffisant pour reconstituer une journée urbaine.</p>
+<p><strong>La majorité des utilisateurs rechargent à domicile</strong> (garage ou prise extérieure), ce qui simplifie énormément les recharges au quotidien. Une charge lente (230 V, prise domestique classique) remplit 30-50 km d'autonomie par heure. Pour la nuit, c'est suffisant pour reconstituer une journée urbaine.</p>
 
-<p>Pour les plus exigeants, une borne de recharge dédiée (Wallbox, 7 à 11 kW) remplit le réservoir en 6 à 8 heures. Coût d'installation : 500 à 1 500 € (il existe parfois des subventions MaPrimeRénov' ou des aides régionales pour couvrir 30-50 %).</p>
+<p>Pour les plus exigeants, une borne de recharge dédiée (Wallbox, 7 à 11 kW) remplit le réservoir en 6 à 8 heures. Coût d'installation : 500 à 1 500 € (il existe parfois des subventions MaPrimeRénov' ou des aides régionales pour couvrir 30-50 %). Nota : les hybrides rechargeables bénéficient aussi de ces installations, même s'ils ont une batterie plus petite.</p>
 
 <p>En déplacement, le réseau de bornes publiques s'est étoffé considérablement :</p>
 
@@ -256,9 +258,9 @@ author: "Gabriel Dubois"
 
 <h2>🌱 Un engagement écologique concret</h2>
 
-<p>Passer à l'électrique, c'est accepter la réalité des émissions de ses déplacements et choisir activement de les réduire. Ce n'est pas la panacée (l'idéal reste les transports en commun pour trajets urbains réguliers), mais c'est un progrès tangible et mesurable.</p>
+<p>Passer à l'électrique, c'est accepter la réalité des émissions de ses déplacements et choisir activement de les réduire. Ce n'est pas la panacée (l'idéal reste les transports en commun pour trajets urbains réguliers), mais c'est un progrès tangible et mesurable — en particulier comparé aux véhicules thermiques, et nettement plus avancé que les simples véhicules hybrides qui ne réduisent que partiellement les émissions.</p>
 
-<p>Pour une personne qui roule 15 000 km/an, l'électrique économise <strong>4 à 5 tonnes de CO₂ équivalent annuellement</strong> — soit l'impact carbone d'un vol Paris-New York aller-retour. Multiplié par des millions de véhicules, c'est un levier de décarbonation du transport capable de réduire les émissions nationales de 8-12 % à horizon 2030.</p>
+<p>Pour une personne qui roule 15 000 km/an, l'électrique économise <strong>4 à 5 tonnes de CO₂ équivalent annuellement</strong> — soit l'impact carbone d'un vol Paris-New York aller-retour. Multiplié par des millions de véhicules, c'est un levier de décarbonation du transport capable de réduire les émissions nationales de 8-12 % à horizon 2030. À long terme, d'autres motorisations (comme l'hydrogène) pourraient émerger, mais l'électrique reste aujourd'hui la solution la plus mature et accessible.</p>
 
 <h2>❓ FAQ — Les vraies réponses à vos questions</h2>
 
@@ -278,7 +280,7 @@ author: "Gabriel Dubois"
 
 <h2>✅ Conclusion : Le moment pour passer à l'électrique est maintenant</h2>
 
-<p>La voiture électrique a dépassé le stade de la promesse. <strong>Les coûts d'usage sont 75 % plus bas que les thermiques, les technologies sont fiables, le réseau de recharge se densifie, et les aides financières réduisent drastiquement le surcoût initial.</strong></p>
+<p>La voiture électrique a dépassé le stade de la promesse. <strong>Les coûts d'usage sont 75 % plus bas que les thermiques, les technologies sont fiables, le réseau de recharge se densifie, et les aides financières réduisent drastiquement le surcoût initial.</strong> La mobilité électrique n'est plus une niche : elle devient le standard des trajets durables.</p>
 
 <p>Écologiquement, le bilan carbone d'une électrique dépasse celui d'une thermique dès 30 000 km — et persiste pour le reste de la durée de vie du véhicule. Pour une mobilité cohérente avec les enjeux climatiques, c'est un changement concret et chiffrable.</p>
 
