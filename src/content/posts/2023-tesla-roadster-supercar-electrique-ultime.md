@@ -33,6 +33,8 @@ author: "Gabriel Dubois"
 </ul>
 <p>Le projet a également été mis en pause plusieurs années durant lesquelles Tesla a donné la priorité au Cybertruck. <em>Chronologie vérifiée via Caradisiac, Numerama et Les Numériques (sources datées mars, juin et août 2026).</em></p>
 
+<p>Le projet est porté par <strong>Tesla, Inc.</strong> — l'entreprise, fondée en 2003 par Martin Eberhard et Marc Tarpenning sous le nom de Tesla Motors, Inc., a changé de raison sociale en février 2017 pour refléter sa diversification au-delà de l'automobile (énergie solaire, stockage). Ce changement de nom n'a toutefois aucun lien avec les retards du Roadster, annoncé la même année.</p>
+
 <h2>Prix du Tesla Roadster</h2>
 <p>Deux versions sont annoncées, avec des tarifs distincts entre les États-Unis et la France :</p>
 <span class="table-caption">Prix annoncés (susceptibles d'évoluer avant commercialisation effective)</span>
@@ -52,17 +54,23 @@ author: "Gabriel Dubois"
 <ul>
 <li><strong>0 à 100 km/h :</strong> 1,9 seconde annoncée (0-60 mph en 1,9 s selon les chiffres américains)</li>
 <li><strong>Vitesse maximale :</strong> plus de 400 km/h annoncés</li>
-<li><strong>Couple :</strong> 10 000 Nm, grâce à un système tri-moteur à transmission intégrale</li>
+<li><strong>Couple :</strong> 10 000 Nm, grâce à un système tri-moteur assurant une propulsion intégrale</li>
 <li><strong>Configuration :</strong> 2+2 places, toit amovible</li>
 </ul>
 <p>Une version optionnelle équipée de <strong>propulseurs à gaz froid</strong> développés avec SpaceX est également promise, censée générer une poussée supplémentaire lors des accélérations. C'est précisément ce système qui serait à l'origine des derniers retards en 2026, ses tests internes ne se déroulant pas comme prévu selon les informations de The Information relayées par Numerama.</p>
+
+<p>Contrairement à un moteur thermique essence ou <strong>diesel</strong>, dont le couple monte progressivement avec le régime, un système tri-moteur électrique délivre son couple maximal dès les premiers tours de roue — c'est ce qui explique en grande partie des temps d'accélération aussi courts. Le <strong>freinage</strong> régénératif, standard sur les véhicules électriques, recharge également la batterie lors des décélérations, bien que son apport reste marginal sur une batterie de cette capacité.</p>
 
 <figure><img src="/wp-content/uploads/2026/08/tesla-roadster-interieur.jpg" alt="Illustration de l'habitacle futuriste d'une supercar électrique, écran tactile et sièges baquets" loading="lazy" /></figure>
 
 <h2>Autonomie et batterie</h2>
 <p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong> — le double de celle de la Tesla Model S Plaid — pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Ce chiffre, s'il se confirme, dépasserait largement l'autonomie des véhicules électriques actuellement <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">les plus performants du marché</a>.</p>
 
+<p>Comme le reste de la gamme Tesla, le Roadster utiliserait une chimie <strong>lithium-ion</strong>, la technologie dominante sur les véhicules électriques à batterie — à distinguer des véhicules à <strong>hydrogène</strong>, qui reposent sur une pile à combustible et restent marginaux en France faute de réseau de stations dédiées. Le Roadster n'a jamais été présenté par Tesla comme un projet à hydrogène : il s'agit d'un véhicule 100 % électrique à batterie.</p>
+
 <p>Aucune donnée officielle sur la puissance de recharge n'a été communiquée à ce jour ; Tesla a laissé entendre que le véhicule pourrait bénéficier du futur réseau Megacharger, actuellement développé pour le Tesla Semi.</p>
+
+<p>En attendant, un Roadster resterait vraisemblablement <strong>rechargeable</strong> sur les <strong>bornes de recharge</strong> rapide Supercharger déjà déployées, comme le reste de la gamme Tesla — même si sa capacité de 200 kWh impliquerait des temps de charge nettement plus longs qu'un Model S ou un Model 3 pour retrouver une autonomie complète.</p>
 
 <h2>Comparatif avec les autres hypercars électriques</h2>
 <p>Pour situer les chiffres annoncés du Roadster face à des véhicules réellement commercialisés et testés :</p>
@@ -88,6 +96,8 @@ author: "Gabriel Dubois"
 <li><strong>Lucid Air Sapphire</strong> : berline américaine ultra-performante, plus abordable que les deux précédentes</li>
 </ul>
 <p>Contrairement à ces modèles, le Roadster n'est ni livrable, ni testable par la presse à ce jour — la comparaison reste donc théorique tant que le véhicule n'est pas sur le marché.</p>
+
+<p>Le positionnement du Roadster tranche aussi avec le reste du marché électrique français, largement dominé par les <strong>citadines</strong> compactes et les <strong>SUV</strong> familiaux — des segments où la motorisation privilégie l'autonomie et le rapport qualité-prix plutôt que la performance pure. Une supercar 2 places à plus de 170 000 € s'adresse à une clientèle radicalement différente de celle d'une citadine électrique conçue pour les trajets urbains quotidiens.</p>
 
 <h2>Alternative disponible dès aujourd'hui</h2>
 <p>En attendant une éventuelle commercialisation du Roadster, la <a href="https://e-roadster.fr/location-de-voiture-electrique-roadstr-economique-ecologique/">location de voiture électrique chez Roadstr</a> permet d'accéder dès maintenant à une mobilité électrique performante, sans les incertitudes de calendrier d'un véhicule encore au stade de promesse.</p>
