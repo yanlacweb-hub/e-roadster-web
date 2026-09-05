@@ -43,9 +43,13 @@ author: "Gabriel Dubois"
 <tr><td>Renault 5 E-Tech</td><td>~25 000 €</td><td>312 à 430 km</td><td>Rapport qualité/prix, design</td></tr>
 <tr><td>MG4 Electric</td><td>~29 000 €</td><td>350 à 520 km</td><td>Excellent rapport autonomie/prix</td></tr>
 <tr><td>Peugeot e-208</td><td>~28 000 à 32 500 €</td><td>Jusqu'à 433 km</td><td>Bonne autonomie, finition soignée</td></tr>
+<tr><td>Kia Niro EV</td><td>~34 950 à 40 850 €</td><td>Jusqu'à 450 km</td><td>Compacte polyvalente, garantie constructeur</td></tr>
+<tr><td>Nissan Leaf</td><td>~35 300 à 42 100 €</td><td>453 km (52 kWh, finition ENGAGE) à 623 km (75 kWh, finition ENGAGE)</td><td>Pionnière du segment, bornes CHAdeMO ou CCS selon version</td></tr>
 <tr><td>Tesla Model Y</td><td>~42 000 à 60 000 €</td><td>Grande autonomie selon version (variable, voir fiche technique du modèle choisi)</td><td>SUV le plus vendu, techno de bord</td></tr>
 </tbody>
 </table>
+<p>La Kia Niro EV embarque une batterie <strong>lithium-ion de 64,8 kWh</strong> (source : automobile-propre.com, vérifié septembre 2026), quand la Nissan Leaf est proposée avec deux capacités selon la version, <strong>52 ou 75 kWh</strong> (source : leaf.nissan.fr, vérifié septembre 2026). Plus la capacité en kWh est élevée, plus l'autonomie potentielle augmente, mais le poids et le prix du véhicule électrique suivent la même tendance.</p>
+<p>Côté vitesse de recharge, la Nissan Leaf 75 kWh accepte jusqu'à <strong>150 kW en recharge rapide DC</strong>, ce qui permet de récupérer jusqu'à 417 km d'autonomie WLTP en seulement 30 minutes sur une borne rapide adaptée, contre 11 kW maximum en recharge AC à domicile ou sur une borne classique (source : leaf.nissan.fr, vérifié septembre 2026) — l'écart illustre pourquoi le type de borne utilisée change radicalement le temps d'attente : une trentaine de minutes pour une bonne part de l'autonomie sur autoroute, contre plusieurs heures pour une recharge complète à la maison. Ce paramètre pèse autant que l'autonomie WLTP dans le choix d'un modèle si vous rechargez fréquemment en itinérance plutôt qu'à domicile.</p>
 <p>Envie de savoir <a href="https://e-roadster.fr/combien-coute-une-voiture-electrique/">combien coûte vraiment une voiture électrique</a> une fois les aides et le coût d'usage pris en compte ? Notre guide détaille le calcul complet.</p>
 <h2>SUV et berlines premium : confort et grande autonomie</h2>
 <figure><img src="/wp-content/uploads/2026/09/comparatif-voitures-electriques-premium.jpg" alt="SUV électrique premium garé devant une maison moderne" loading="lazy" /></figure>
@@ -61,6 +65,7 @@ author: "Gabriel Dubois"
 <tr><td>Tesla Model S</td><td>~94 990 €</td><td>Jusqu'à 634 km</td><td>Très grande autonomie, performances</td></tr>
 </tbody>
 </table>
+<p>Certains constructeurs premium ont resserré leur offre 100% électrique ces dernières années : le Jaguar I-Pace, un des premiers SUV électriques du segment, est aujourd'hui <strong>arrêté à la commande</strong> (statut "Arrêté" listé sur automobile-propre.com, vérifié septembre 2026) — un point à vérifier avant de comparer un modèle d'occasion à une offre encore commercialisée. Le Volvo EX30 (segment premium compact, à partir de 37 500 €) et le Ford Explorer électrique (SUV familial, à partir de 43 900 €, jusqu'à 53 900 € en version quatre roues motrices 79 kWh) restent deux alternatives neuves sur ce même positionnement premium, à comparer selon votre budget réel.</p>
 <h2>Quels critères comparer avant d'acheter ?</h2>
 <p><strong>Au-delà du prix affiché, quatre critères déterminent le meilleur choix pour votre usage</strong> : l'autonomie réelle (souvent inférieure à la valeur WLTP annoncée), la capacité et la technologie de la batterie, la vitesse de recharge maximale acceptée, et le coût total sur la durée (entretien, recharge, décote). Consultez notre guide sur l'<a href="https://e-roadster.fr/autonomie-voiture-electrique/">autonomie réelle vs WLTP</a> pour affiner votre estimation selon votre trajet type.</p>
 <h2>Comment choisir selon votre usage ?</h2>
@@ -72,6 +77,7 @@ author: "Gabriel Dubois"
 <p>Pour un achat d'occasion plutôt que neuf, notre guide détaille <a href="https://e-roadster.fr/acheter-une-voiture-electrique-occasion-les-7-etapes/">comment bien acheter une voiture électrique d'occasion</a>, avec les points de vigilance sur l'état de la batterie.</p>
 <h2>Conclusion</h2>
 <p>Il n'existe pas de "meilleure" voiture électrique universelle — le bon choix dépend avant tout de votre budget et de votre usage réel. Les citadines couvrent bien l'usage urbain à petit prix, le segment polyvalent offre le meilleur compromis pour la majorité des acheteurs, et le premium cible les gros rouleurs cherchant confort et grande autonomie. Comparez toujours les prix et autonomies sur la fiche technique officielle du modèle et de la version qui vous intéressent, ces valeurs pouvant évoluer.</p>
+<p>Gardez aussi en tête que l'offre de véhicules électriques évolue vite : un modèle peut être retiré du catalogue neuf (comme le Jaguar I-Pace) pendant qu'un autre constructeur lance une nouvelle génération plus abordable ou plus autonome sur le même segment. Vérifier la disponibilité actuelle et la fiche technique à jour avant un achat reste indispensable, plutôt que de se fier à un comparatif figé dans le temps.</p>
 <h2>FAQ : comparatif voitures électriques</h2>
 <h3>Quelle est la voiture électrique la moins chère du marché ?</h3>
 <p><strong>La Dacia Spring</strong>, à partir d'environ 16 900 € hors bonus, reste le prix d'entrée le plus bas — avec une autonomie et une puissance limitées, adaptées à un usage urbain.</p>
@@ -79,3 +85,4 @@ author: "Gabriel Dubois"
 <p><strong>La Renault 5 E-Tech et le MG4 Electric</strong> se distinguent régulièrement dans cette catégorie, avec un bon équilibre entre prix, autonomie et équipement.</p>
 <h3>Faut-il privilégier le prix ou l'autonomie ?</h3>
 <p><strong>Cela dépend de votre usage</strong> — pour des trajets majoritairement urbains, l'autonomie maximale n'est pas indispensable ; pour des trajets longs fréquents, elle devient un critère prioritaire, quitte à augmenter le budget.</p>
+<p>Plus largement, le choix entre électrique, hybride et diesel dépend surtout du kilométrage annuel, du type de trajets et de l'accès à une borne de recharge. Le 100% électrique convainc pour un usage majoritairement urbain avec recharge à domicile ou au travail : pas de vidange ni d'entretien lié à l'embrayage, et un freinage régénératif qui récupère une partie de l'énergie au ralentissement — même si pneus et plaquettes de frein restent à entretenir comme sur tout véhicule. Un hybride simple convient à un usage mixte sans contrainte de recharge, tandis qu'un hybride rechargeable perd une grande partie de son intérêt s'il n'est pas rechargé régulièrement. Un diesel récent garde un intérêt pour les gros rouleurs faisant fréquemment de très longs trajets autoroutiers dans des zones encore mal desservies en bornes rapides.</p>
