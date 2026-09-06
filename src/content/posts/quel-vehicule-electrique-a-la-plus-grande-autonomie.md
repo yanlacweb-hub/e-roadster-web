@@ -15,7 +15,7 @@ author: "Gabriel Dubois"
 <p><strong>À retenir :</strong> en 2026, la <strong>Mercedes-Benz CLA</strong> affiche la plus grande autonomie WLTP homologuée (791 km) dans le comparatif Frandroid. Sur route, dans le comparatif de L'Argus, c'est la <strong>BMW iX3 50 xDrive</strong> qui a parcouru la plus grande distance mesurée (671 km). Ces deux chiffres répondent à deux questions différentes — voici pourquoi.</p>
 </div>
 <p>La question « quelle voiture électrique a la plus grande autonomie » a une réponse différente selon qu'on parle d'autonomie <strong>WLTP</strong> (valeur homologuée officielle, mesurée en laboratoire) ou d'autonomie <strong>mesurée sur route</strong> (constatée lors d'un test en conditions réelles, généralement inférieure).</p>
-<p>Ce guide distingue les deux, présente un test grandeur nature poussé jusqu'à la panne, et détaille les facteurs qui expliquent l'écart entre les chiffres annoncés et l'expérience au volant.</p>
+<p>Ce guide distingue les deux pour les véhicules électriques disponibles en 2026, présente un test grandeur nature poussé jusqu'à la panne, et détaille les facteurs qui expliquent l'écart entre les chiffres annoncés et l'expérience au volant.</p>
 <p><em>Données vérifiées le 2 septembre 2026 — les autonomies et caractéristiques peuvent évoluer selon les versions, équipements et mises à jour des constructeurs.</em></p>
 <h2>Quelles voitures électriques ont la meilleure autonomie WLTP en 2026 ?</h2>
 <p><strong>Dans cette sélection de Frandroid, la Mercedes-Benz CLA affiche la plus grande autonomie WLTP avec 791 km</strong>, la valeur officielle homologuée en laboratoire.</p>
@@ -84,12 +84,14 @@ author: "Gabriel Dubois"
 <h2>Grosse batterie ou bonne efficience : que privilégier ?</h2>
 <p><strong>Une autonomie élevée ne dépend pas que de la taille de la batterie — l'efficience énergétique du véhicule (exprimée en km parcourus par kWh) joue un rôle tout aussi déterminant.</strong></p>
 <p>Dans le test CarWow, la Porsche Taycan (97 kWh) et la Tesla Model 3 (75 kWh) affichaient toutes deux une efficience proche de 6,1 à 6,4 km/kWh malgré une différence de batterie de plus de 20 kWh — preuve qu'un véhicule plus léger et mieux profilé peut compenser une batterie plus petite.</p>
+<p>Comme la quasi-totalité des véhicules électriques commercialisés aujourd'hui, ces modèles embarquent des batteries lithium-ion (chimie NMC, NCA ou LFP selon les constructeurs automobiles), dont la densité énergétique influence le compromis entre capacité utile, poids et encombrement de la batterie. Le rendement du moteur électrique et le choix de motorisation (propulsion ou transmission intégrale) influencent également la quantité d'énergie que le véhicule consomme par kilomètre parcouru.</p>
 <p>Pour comprendre les différentes technologies de batterie et leur impact sur le poids et le coût du véhicule, consultez notre guide sur les <a href="https://e-roadster.fr/les-differents-types-de-batteries-de-voitures-electriques/">types de batteries de voiture électrique</a>.</p>
 <h2>Grande autonomie ou recharge rapide : qu'est-ce qui compte le plus ?</h2>
 <p><strong>Pour un long trajet, l'autonomie maximale n'est pas le seul critère qui compte — la puissance de recharge rapide du véhicule pèse tout autant sur le temps de trajet total.</strong></p>
 <p>Un modèle avec une autonomie légèrement inférieure mais capable de récupérer 80 % de charge en 20 minutes peut au final être plus rapide sur un trajet de plusieurs centaines de kilomètres qu'un modèle à plus grande autonomie mais à charge lente.</p>
 <p>Concrètement, sur un trajet de 800 km, une voiture à 500 km d'autonomie et recharge rapide ne fera qu'un seul arrêt d'une vingtaine de minutes, quand une voiture à 650 km d'autonomie mais à charge lente peut immobiliser son conducteur bien plus longtemps au même arrêt.</p>
 <p>Avant de choisir sur le seul critère de l'autonomie, vérifiez donc aussi la courbe de recharge du modèle visé et le maillage de bornes rapides sur vos trajets habituels.</p>
+<p>La densité du réseau électrique de bornes de recharge rapide sur votre itinéraire et leur espacement pèsent aussi sur le temps de trajet réel, tout comme la courbe de recharge du véhicule — la puissance réellement acceptée par la batterie en courant continu, qui varie selon sa température et son état de charge, influence la vitesse de rechargement en itinérance au moins autant que la seule autonomie WLTP affichée.</p>
 <p>Notre <a href="https://e-roadster.fr/comment-recharger-une-voiture-electrique-a-domicile-guide-complet/">guide complet sur la recharge</a> détaille ces éléments.</p>
 <h2>Quelle autonomie choisir selon votre usage ?</h2>
 <ul>
@@ -99,7 +101,7 @@ author: "Gabriel Dubois"
 <li><strong>Autoroute fréquente, gros rouleur</strong> : comparez les autonomies mesurées en usage routier plutôt que le seul chiffre WLTP, et privilégiez un modèle avec une bonne courbe de recharge rapide</li>
 </ul>
 <p><em>Ces fourchettes sont des repères, pas des seuils obligatoires — votre trajet type, le climat de votre région et votre tolérance aux arrêts recharge doivent aussi entrer en compte.</em></p>
-<p>Pour comparer les modèles par budget plutôt que par record d'autonomie, notre <a href="https://e-roadster.fr/comparatif-voitures-electrique/">comparatif complet par segment</a> détaille aussi les citadines et modèles polyvalents.</p>
+<p>Pour comparer les modèles par budget plutôt que par record d'autonomie, notre <a href="https://e-roadster.fr/comparatif-voitures-electrique/">comparatif complet par segment</a> détaille aussi les citadines, berlines et SUV électriques polyvalents.</p>
 <p>Si votre budget est plus serré, notre guide sur le <a href="https://e-roadster.fr/combien-coute-une-voiture-electrique/">coût réel d'une voiture électrique</a> aide à mettre l'autonomie en perspective avec le prix.</p>
 <h2>Conclusion</h2>
 <p>Il n'y a pas une seule « meilleure autonomie » mais deux réponses selon le critère et la source retenus : la Mercedes-Benz CLA pour l'autonomie WLTP homologuée la plus élevée relevée par Frandroid, la BMW iX3 pour la plus grande distance mesurée dans le comparatif routier de L'Argus.</p>
