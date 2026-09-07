@@ -22,7 +22,7 @@ author: "Gabriel Dubois"
 <p>Fondée en 2014 par Thomas Ceccaldi, Roadstr est une plateforme française de location de voitures entre particuliers, comparable à un Airbnb de l'automobile. Elle se distingue des loueurs traditionnels (Sixt, Europcar, Avis) par son modèle : ce sont des propriétaires qui mettent leur véhicule en location, pas une flotte professionnelle.</p>
 
 <p>La plateforme revendique plus de 5 000 véhicules disponibles en France, avec une spécialisation historique sur les voitures de collection, sportives et premium — la catégorie électrique existe mais reste secondaire dans le catalogue.</p>
-<p>Pour louer, il faut avoir au minimum <strong>28 ans et 5 ans de permis</strong>. L'annulation est possible sans frais jusqu'à 96 heures avant le début de la location. <em>Conditions vérifiées via roadstr.fr et rouleur-électrique.fr.</em></p>
+<p>Pour louer une voiture sur Roadstr, il faut avoir au minimum <strong>28 ans et 5 ans de permis</strong>, quel que soit le type de véhicule choisi. L'annulation est possible sans frais jusqu'à 96 heures avant le début de la location. <em>Conditions vérifiées via roadstr.fr et rouleur-électrique.fr.</em></p>
 
 <h2>Quels modèles électriques disponibles sur Roadstr ?</h2>
 <p>Le catalogue électrique de Roadstr comprend notamment des Tesla Model 3, Model X et Model Y, ainsi que d'autres modèles selon les annonces actives (Fiat 500e, BMW iX1, Abarth 500e ont été relevés). La disponibilité varie fortement selon la ville et la période, puisque chaque véhicule appartient à un particulier — contrairement à un loueur classique, il n'y a pas de stock garanti.</p>
@@ -69,26 +69,26 @@ author: "Gabriel Dubois"
 <p>Pour situer Roadstr par rapport aux alternatives, la différence principale est le modèle économique :</p>
 <ul>
 <li><strong>Roadstr</strong> : location entre particuliers, catalogue variable selon les annonces, prix premium, spécialisation collection/sport (l'électrique est une catégorie de ce catalogue, pas une spécialité historique)</li>
-<li><strong>Loueurs généralistes (Europcar, Sixt, Hertz)</strong> : flotte professionnelle homogène, disponibilité plus prévisible, souvent moins cher sur une citadine électrique standard</li>
+<li><strong>Loueurs généralistes (Europcar, Sixt, Hertz)</strong> : agences de location classiques avec flotte professionnelle homogène, disponibilité plus prévisible, souvent moins cher sur une citadine électrique standard</li>
 <li><strong>LLD constructeur (Renault, dispositifs spécifiques)</strong> : engagement long terme (1 à 5 ans), pas adapté à un test ponctuel</li>
 </ul>
-<p>Pour une location courte (week-end, test avant achat), Roadstr a du sens si le modèle recherché est disponible dans le catalogue électrique local. Pour un usage récurrent ou un budget serré, un loueur généraliste ou une LLD reste souvent plus prévisible en prix.</p>
+<p>Pour une location courte (week-end, test avant achat), Roadstr a du sens si le modèle recherché est disponible dans le catalogue électrique local. Pour un usage récurrent ou si votre budget est serré, comparer plusieurs loueurs de voitures classiques ou une LLD reste souvent plus prévisible en prix qu'une location de véhicule entre particuliers.</p>
 
 <h2>Comment se déroule une location sur Roadstr, du début à la fin ?</h2>
 <img src="/wp-content/uploads/2026/09/roadstr-remise-cles.jpg" alt="Remise des clés entre le propriétaire et le locataire d'une voiture électrique en location" loading="lazy" />
 <p>Concrètement, une location Roadstr suit plusieurs étapes :</p>
 <ul>
-<li><strong>Réservation</strong> — recherche et réservation en ligne, avec validation de votre profil (âge, ancienneté de permis, absence de sinistre dans les 24 derniers mois)</li>
+<li><strong>Réservation</strong> — recherche et réservation en ligne, avec validation de votre profil (âge, ancienneté de permis, absence de sinistre dans les 24 derniers mois) puis signature d'un contrat de location précisant les conducteurs autorisés et le kilométrage inclus</li>
 <li><strong>Remise des clés</strong> — organisée directement avec le propriétaire du véhicule, qui vous explique les spécificités du modèle (recharge, options embarquées)</li>
 <li><strong>Utilisation</strong> — le kilométrage quotidien et les conditions de recharge dépendent de l'annonce précise</li>
-<li><strong>Restitution</strong> — retour du véhicule au propriétaire, généralement avec un niveau de charge équivalent à celui du départ</li>
+<li><strong>Restitution</strong> — retour du véhicule au propriétaire avec un état des lieux de sortie, généralement avec un niveau de charge équivalent à celui du départ</li>
 </ul>
 <p>En cas de panne ou de crevaison sans accident, une assistance dédiée (Allianz Assistance selon les conditions constatées) prend en charge le dépannage et le transport du véhicule. En cas de sinistre, la procédure passe par un contact direct avec Roadstr accompagné d'un constat amiable et de photos des dommages ; en cas de vol, un dépôt de plainte est nécessaire. <em>Processus vérifié via serenitrip.fr — à reconfirmer auprès de Roadstr au moment de la réservation, les procédures pouvant évoluer.</em></p>
 
 <h2>Conclusion</h2>
 <p>Roadstr n'est pas le spécialiste de la location électrique que son image marketing peut laisser croire — c'est avant tout une plateforme premium de location entre particuliers, où l'électrique est une catégorie parmi d'autres (collection, sport, mariage). Mon conseil : ne réservez pas sur la promesse « mobilité écologique », regardez le catalogue réel disponible dans votre ville avant de comparer.</p>
 
-<p>Son intérêt réel : un catalogue de modèles parfois introuvables ailleurs (Tesla haut de gamme, modèles récents), une flexibilité de courte durée, et un usage pertinent pour tester un véhicule avant achat. En contrepartie, les prix sont généralement supérieurs à un loueur généraliste sur une citadine électrique classique, et la disponibilité dépend entièrement des annonces actives dans votre zone.</p>
+<p>Son intérêt réel : un catalogue de modèles parfois introuvables ailleurs (Tesla haut de gamme, modèles récents), une flexibilité de courte durée, et un usage pertinent pour tester un véhicule avant achat. En contrepartie, cette voiture de location reste généralement plus chère qu'auprès d'un loueur généraliste sur une citadine électrique classique, et la disponibilité dépend entièrement des annonces actives dans votre zone.</p>
 
 <h2>FAQ : location de voiture électrique sur Roadstr</h2>
 <h3>Roadstr est-il spécialisé dans les voitures électriques ?</h3>
