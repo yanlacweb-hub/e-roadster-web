@@ -48,7 +48,9 @@ author: "Léa Moreau"
 
 <p>La R110 avec batterie 52 kWh offre une autonomie très proche de la R135 pour un prix d'occasion généralement inférieur — c'est souvent le meilleur compromis.</p>
 
-<p>La R110 avec la petite batterie 41 kWh (325 km) reste un choix pertinent pour un usage urbain avec un budget plus serré.</p>
+<p>La R110 avec la petite batterie 41 kWh (325 km) reste un choix pertinent pour un usage urbain avec un budget plus serré. Ces deux motorisations restent proches en pratique : l'écart de puissance (109 ch contre 135-136 ch) se ressent surtout en accélération et en reprise, pas nécessairement dans un usage urbain classique.</p>
+
+<p>Sur le segment des citadines électriques d'occasion, la Zoé partage le marché avec d'autres modèles comme la Nissan Leaf (plutôt positionnée en compacte, avec un habitacle plus généreux) ou la Smart EQ fortwo (format ultra-compact pensé pour la ville) — deux alternatives aux philosophies différentes. Contrairement aux SUV et berlines électriques, dont les tarifs d'occasion démarrent généralement plus haut, ces citadines restent la porte d'entrée la plus accessible du marché électrique.</p>
 
 <p><em>Spécifications vérifiées : Wikipédia et Automobile Propre (fiche technique + tableau des générations).</em></p>
 
@@ -141,6 +143,8 @@ author: "Léa Moreau"
 
 <p><strong>Vérifiez systématiquement cet équipement sur la fiche technique du véhicule</strong> avant l'achat si la recharge rapide est importante pour votre usage.</p>
 
+<p>Au-delà de la recharge à domicile, le réseau électrique public de bornes de recharge s'est nettement densifié en France depuis le lancement de la Zoé en 2013, ce qui facilite les trajets plus longs pour qui n'a pas de solution de recharge chez soi.</p>
+
 <p>Voir notre <a href="/comment-recharger-une-voiture-electrique-a-domicile-guide-complet/">guide complet de la recharge à domicile</a> et notre article sur <a href="/quelle-prise-pour-voiture-electrique/">le choix de la prise adaptée</a>.</p>
 
 <p><em>Temps de recharge vérifiés via Wikipédia (fiche Renault Zoé).</em></p>
@@ -149,7 +153,7 @@ author: "Léa Moreau"
 
 <p>Depuis le 1<sup>er</sup> septembre 2026, une aide CEE dédiée à l'occasion électrique est disponible, sans condition de revenus, sous réserve que le véhicule soit immatriculé pour la première fois entre 2017 et 2023, acheté ou loué auprès d'un professionnel habilité, et présente un état de santé de batterie d'au moins 80 %.</p>
 
-<p>La plupart des Zoé d'occasion (production 2018-2024) sont potentiellement éligibles selon leur date de première immatriculation.</p>
+<p>La plupart des Zoé d'occasion (production 2018-2024) sont potentiellement éligibles selon leur date de première immatriculation. Cette aide CEE occasion est distincte du bonus écologique applicable aux véhicules neufs, sous réserve des conditions et règles de cumul en vigueur au moment de l'achat.</p>
 
 <p>Consultez le <a href="/combien-coute-une-voiture-electrique/">détail des aides à l'achat d'un véhicule électrique</a> pour les conditions complètes.</p>
 
@@ -181,7 +185,7 @@ author: "Léa Moreau"
 
 <p>Pour qui recherche un modèle neuf équivalent chez Renault, la 5 E-Tech Electric constitue aujourd'hui l'alternative directe.</p>
 
-<p>La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif.</p>
+<p>La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif — généralement bien en dessous des tarifs pratiqués sur des modèles positionnés plus haut en gamme comme la Tesla Model S. Comparée à une citadine hybride ou diesel équivalente, la Zoé peut offrir un coût d'énergie et d'entretien inférieur, particulièrement avec une recharge régulière à domicile — l'écart réel dépend toutefois du kilométrage, du prix de l'électricité et de l'état de la batterie.</p>
 
 <h2>Conclusion</h2>
 
