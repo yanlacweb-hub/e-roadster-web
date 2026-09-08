@@ -153,7 +153,7 @@ author: "Léa Moreau"
 
 <p>Depuis le 1<sup>er</sup> septembre 2026, une aide CEE dédiée à l'occasion électrique est disponible, sans condition de revenus, sous réserve que le véhicule soit immatriculé pour la première fois entre 2017 et 2023, acheté ou loué auprès d'un professionnel habilité, et présente un état de santé de batterie d'au moins 80 %.</p>
 
-<p>La plupart des Zoé d'occasion (production 2018-2024) sont potentiellement éligibles selon leur date de première immatriculation. Cette aide CEE occasion est distincte du bonus écologique applicable aux véhicules neufs, sous réserve des conditions et règles de cumul en vigueur au moment de l'achat.</p>
+<p>La plupart des Zoé d'occasion (production 2018-2024) sont potentiellement éligibles selon leur date de première immatriculation. Cette aide CEE occasion est distincte de la prime à la conversion et du bonus écologique applicable aux véhicules neufs, sous réserve des conditions et règles de cumul en vigueur au moment de l'achat.</p>
 
 <p>Consultez le <a href="/combien-coute-une-voiture-electrique/">détail des aides à l'achat d'un véhicule électrique</a> pour les conditions complètes.</p>
 
@@ -185,7 +185,7 @@ author: "Léa Moreau"
 
 <p>Pour qui recherche un modèle neuf équivalent chez Renault, la 5 E-Tech Electric constitue aujourd'hui l'alternative directe.</p>
 
-<p>La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif, généralement bien en dessous des tarifs pratiqués sur des modèles positionnés plus haut en gamme comme la Tesla Model S. Comparée à une citadine hybride ou diesel équivalente, la Zoé peut offrir un coût d'énergie et d'entretien inférieur, particulièrement avec une recharge régulière à domicile. L'écart réel dépend toutefois du kilométrage, du prix de l'électricité et de l'état de la batterie.</p>
+<p>La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif, généralement bien en dessous des tarifs pratiqués sur des modèles positionnés plus haut en gamme comme la Tesla Model S. Comparée à une citadine hybride ou diesel équivalente à moteur thermique, la Zoé peut offrir un coût d'énergie et d'entretien inférieur, particulièrement avec une recharge régulière à domicile ou sur une borne de recharge publique. L'écart réel dépend toutefois du kilométrage, du prix de l'électricité et de l'état de la batterie.</p>
 
 <h2>Conclusion</h2>
 
