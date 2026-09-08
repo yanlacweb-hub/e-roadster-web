@@ -34,7 +34,7 @@ author: "Gabriel Dubois"
 
 <p>Une étude Geotab menée sur un large parc de véhicules électriques mesure un taux de dégradation annuel moyen d'environ <strong>2,3 %</strong>, avec de fortes variations selon la température, l'usage et la fréquence de recharge rapide. Cela explique pourquoi certaines batteries restent performantes bien au-delà de 15 ans dans des conditions favorables.</p>
 <h2>Qu'est-ce qu'un cycle de charge ?</h2>
-<p><strong>Un cycle de charge correspond à une recharge complète cumulée</strong>, de 0 à 100 %, pas forcément en une seule fois : deux recharges de 50 % équivalent à un cycle complet.</p>
+<p><strong>Un cycle de charge correspond à une recharge complète cumulée</strong>, de 0 à 100 %, pas forcément en une seule fois : deux recharges de 50 % équivalent à un cycle complet. Ce cycle repose sur un déplacement d'ions lithium entre deux électrodes (la cathode et l'anode) à travers un électrolyte : c'est ce mouvement répété qui use progressivement les matériaux et explique la perte de capacité au fil du temps.</p>
 
 <p>Les batteries lithium-ion actuelles supportent généralement de l'ordre de <strong>1 000 à 1 500 cycles complets</strong> avant de descendre sous le seuil de fonctionnement optimal. C'est un ordre de grandeur, pas une règle universelle.</p>
 
@@ -117,3 +117,5 @@ author: "Gabriel Dubois"
 <p><strong>Entre 5 000 et 12 000 €</strong> selon la capacité et le modèle. Une opération rare qui concerne surtout les véhicules les plus anciens.</p>
 <h3>Les batteries de voiture électrique sont-elles recyclables ?</h3>
 <p><strong>Oui.</strong> Les matériaux comme le lithium, le nickel et le cobalt sont récupérés et réutilisés, et de nombreuses batteries connaissent d'abord une seconde vie en stockage stationnaire avant recyclage complet.</p>
+<h3>Une batterie lithium-ion a-t-elle un effet mémoire ?</h3>
+<p><strong>Non.</strong> Contrairement aux anciennes batteries au nickel-cadmium ou nickel-métal hydrure, la chimie lithium-ion ne souffre pas d'effet mémoire : recharger le véhicule avant que la batterie soit totalement vide n'use pas prématurément sa capacité.</p>
