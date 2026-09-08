@@ -18,7 +18,7 @@ author: "Gabriel Dubois"
 <figure><img src="/wp-content/uploads/2026/08/tesla-roadster-exterieur.jpg" alt="Illustration d'une supercar électrique de type Tesla Roadster sur route au coucher du soleil" loading="lazy" /></figure>
 
 <div class="highlight-box">
-<p><strong>À retenir :</strong> le Tesla Roadster n'est <strong>toujours pas commercialisé</strong> à ce jour (août 2026). Une démonstration est promise « bientôt » par Tesla, mais sans date ferme — le projet a déjà connu de multiples reports depuis 2017. Les chiffres de performance ci-dessous restent des <strong>annonces du constructeur</strong>, non des caractéristiques vérifiées sur un véhicule livré à un client.</p>
+<p><strong>À retenir :</strong> le Tesla Roadster n'est <strong>toujours pas commercialisé</strong> à ce jour (août 2026). Une démonstration est promise « bientôt » par Tesla, mais sans date ferme : le projet a déjà connu de multiples reports depuis 2017. Les chiffres de performance ci-dessous restent des <strong>annonces du constructeur</strong>, non des caractéristiques vérifiées sur un véhicule livré à un client.</p>
 </div>
 <!--more-->
 
@@ -33,7 +33,7 @@ author: "Gabriel Dubois"
 </ul>
 <p>Le projet a également été mis en pause plusieurs années durant lesquelles Tesla a donné la priorité au Cybertruck. <em>Chronologie vérifiée via Caradisiac, Numerama et Les Numériques (sources datées mars, juin et août 2026).</em></p>
 
-<p>Le projet est porté par <strong>Tesla, Inc.</strong> — l'entreprise, fondée en 2003 par Martin Eberhard et Marc Tarpenning sous le nom de Tesla Motors, Inc., a changé de raison sociale en février 2017 pour refléter sa diversification au-delà de l'automobile (énergie solaire, stockage). Ce changement de nom n'a toutefois aucun lien avec les retards du Roadster, annoncé la même année.</p>
+<p>Le projet est porté par <strong>Tesla, Inc.</strong> L'entreprise, fondée en 2003 par Martin Eberhard et Marc Tarpenning sous le nom de Tesla Motors, Inc., a changé de raison sociale en février 2017 pour refléter sa diversification au-delà de l'automobile (énergie solaire, stockage). Ce changement de nom n'a toutefois aucun lien avec les retards du Roadster, annoncé la même année.</p>
 
 <h2>Prix du Tesla Roadster</h2>
 <p>Deux versions sont annoncées, avec des tarifs distincts entre les États-Unis et la France :</p>
@@ -59,14 +59,14 @@ author: "Gabriel Dubois"
 </ul>
 <p>Une version optionnelle équipée de <strong>propulseurs à gaz froid</strong> développés avec SpaceX est également promise, censée générer une poussée supplémentaire lors des accélérations. C'est précisément ce système qui serait à l'origine des derniers retards en 2026, ses tests internes ne se déroulant pas comme prévu selon les informations de The Information relayées par Numerama.</p>
 
-<p>Contrairement à un moteur thermique essence ou <strong>diesel</strong>, dont le couple monte progressivement avec le régime, un système tri-moteur électrique délivre son couple maximal dès les premiers tours de roue — c'est ce qui explique en grande partie des temps d'accélération aussi courts. Le <strong>freinage</strong> régénératif, standard sur les véhicules électriques, recharge également la batterie lors des décélérations, bien que son apport reste marginal sur une batterie de cette capacité.</p>
+<p>Contrairement à un moteur thermique essence ou <strong>diesel</strong>, dont le couple monte progressivement avec le régime, un système tri-moteur électrique délivre son couple maximal dès les premiers tours de roue. C'est ce qui explique en grande partie des temps d'accélération aussi courts. Le <strong>freinage</strong> régénératif, standard sur les véhicules électriques, recharge également la batterie lors des décélérations, bien que son apport reste marginal sur une batterie de cette capacité.</p>
 
 <figure><img src="/wp-content/uploads/2026/08/tesla-roadster-interieur.jpg" alt="Illustration de l'habitacle futuriste d'une supercar électrique, écran tactile et sièges baquets" loading="lazy" /></figure>
 
 <h2>Autonomie et batterie</h2>
-<p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong> — le double de celle de la Tesla Model S Plaid — pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Ce chiffre, s'il se confirme, dépasserait largement l'autonomie des véhicules électriques actuellement <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">les plus performants du marché</a>.</p>
+<p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong>, soit le double de celle de la Tesla Model S Plaid, pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Ce chiffre, s'il se confirme, dépasserait largement l'autonomie des véhicules électriques actuellement <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">les plus performants du marché</a>.</p>
 
-<p>Comme le reste de la gamme Tesla, le Roadster utiliserait une chimie <strong>lithium-ion</strong>, la technologie dominante sur les véhicules électriques à batterie — à distinguer des véhicules à <strong>hydrogène</strong>, qui reposent sur une pile à combustible et restent marginaux en France faute de réseau de stations dédiées. Le Roadster n'a jamais été présenté par Tesla comme un projet à hydrogène : il s'agit d'un véhicule 100 % électrique à batterie.</p>
+<p>Comme le reste de la gamme Tesla, le Roadster utiliserait une chimie <strong>lithium-ion</strong>, la technologie dominante sur les véhicules électriques à batterie, à distinguer des véhicules à <strong>hydrogène</strong>, qui reposent sur une pile à combustible et restent marginaux en France faute de réseau de stations dédiées. Le Roadster n'a jamais été présenté par Tesla comme un projet à hydrogène : il s'agit d'un véhicule 100 % électrique à batterie.</p>
 
 <p>Aucune donnée officielle sur la puissance de recharge n'a été communiquée à ce jour ; Tesla a laissé entendre que le véhicule pourrait bénéficier du futur réseau Megacharger, actuellement développé pour le Tesla Semi.</p>
 
@@ -86,7 +86,7 @@ author: "Gabriel Dubois"
 <tr><td>Tesla Model S Plaid</td><td>2,1 s</td><td>322 km/h</td><td>600 km</td><td>~140 000 €</td><td>Commercialisé</td></tr>
 </tbody>
 </table>
-<p>Si les chiffres annoncés se confirment, le Roadster afficherait un rapport performance/prix très inhabituel face à des hypercars jusqu'à 10 fois plus chères — mais contrairement à ses rivales de ce tableau, aucun exemplaire du Roadster n'a encore été testé de façon indépendante. <em>Specs Rimac Nevera et Lotus Evija vérifiées via Wikipédia.</em></p>
+<p>Si les chiffres annoncés se confirment, le Roadster afficherait un rapport performance/prix très inhabituel face à des hypercars jusqu'à 10 fois plus chères. Contrairement à ses rivales de ce tableau, aucun exemplaire du Roadster n'a encore été testé de façon indépendante. <em>Specs Rimac Nevera et Lotus Evija vérifiées via Wikipédia.</em></p>
 
 <h2>Concurrentes déjà commercialisées</h2>
 <p>Le Roadster vise un segment très restreint d'hypercars électriques, dont certaines rivales sont déjà sur le marché :</p>
@@ -95,7 +95,7 @@ author: "Gabriel Dubois"
 <li><strong>Lotus Evija</strong> : britannique, autonomie 400 km, environ 2,1 millions d'euros</li>
 <li><strong>Lucid Air Sapphire</strong> : berline américaine ultra-performante, plus abordable que les deux précédentes</li>
 </ul>
-<p>Contrairement à ces modèles, le Roadster n'est ni livrable, ni testable par la presse à ce jour — la comparaison reste donc théorique tant que le véhicule n'est pas sur le marché.</p>
+<p>Contrairement à ces modèles, le Roadster n'est ni livrable, ni testable par la presse à ce jour. La comparaison reste donc théorique tant que le véhicule n'est pas sur le marché.</p>
 
 <p>Le positionnement du Roadster tranche aussi avec le reste du marché électrique français, largement dominé par les <strong>citadines</strong> compactes et les <strong>SUV</strong> familiaux — des segments où la motorisation privilégie l'autonomie et le rapport qualité-prix plutôt que la performance pure. Une supercar 2 places à plus de 170 000 € s'adresse à une clientèle radicalement différente de celle d'une citadine électrique conçue pour les trajets urbains quotidiens.</p>
 
@@ -120,6 +120,6 @@ author: "Gabriel Dubois"
 <h3>Pourquoi le Tesla Roadster est-il autant retardé ?</h3>
 <p>Le dernier retard connu (2026) serait lié à des tests internes défaillants sur le système de propulseurs « à gaz froid » inspiré de SpaceX, destiné aux versions les plus extrêmes du véhicule, selon des informations relayées par la presse spécialisée.</p>
 <h3>Quelles sont les concurrentes du Tesla Roadster ?</h3>
-<p>Les principales rivales déjà commercialisées sont la Rimac Nevera, la Lotus Evija et la Lucid Air Sapphire — toutes des hypercars ou berlines électriques haute performance, généralement à des prix supérieurs.</p>
+<p>Les principales rivales déjà commercialisées sont la Rimac Nevera, la Lotus Evija et la Lucid Air Sapphire, toutes des hypercars ou berlines électriques haute performance, généralement à des prix supérieurs.</p>
 
 <p><em>Sources et méthodologie : chronologie des reports vérifiée via Caradisiac (mars 2026), Numerama citant The Information (juin 2026) et Les Numériques (31 août 2026). Prix et spécifications annoncées vérifiés via Automobile Propre (fiche officielle constructeur). Spécifications des véhicules concurrents (Rimac Nevera, Lotus Evija) vérifiées via Wikipédia.</em></p>
