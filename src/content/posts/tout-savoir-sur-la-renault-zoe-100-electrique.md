@@ -13,7 +13,7 @@ author: "Léa Moreau"
 
 <p>Vous cherchez une première voiture électrique d'occasion et la Zoé revient sans cesse dans vos recherches ? Normal : c'est l'une des citadines électriques les plus disponibles sur le marché français, avec des prix qui peuvent vraiment coller à un budget serré.</p>
 
-<p>Sa production s'est arrêtée le 30 mars 2024, mais ça ne change rien à son intérêt en occasion — à condition de comprendre un piège qui fait varier le prix de plusieurs milliers d'euros sans que les annonces le précisent toujours clairement : la batterie en location.</p>
+<p>Sa production s'est arrêtée le 30 mars 2024, mais ça ne change rien à son intérêt en occasion, à condition de comprendre un piège qui fait varier le prix de plusieurs milliers d'euros sans que les annonces le précisent toujours clairement : la batterie en location.</p>
 
 <div class="highlight-box">
 <p><strong>À retenir :</strong> deux motorisations principales existent (R110 : 109 ch ; R135 : 135 ch). Avec la grande batterie (52 kWh), les deux offrent une autonomie WLTP proche de 390 km. Le prix varie fortement selon que la batterie est en location ou achetée intégralement — un écart pouvant dépasser 5 000 €. Comptez de 5 500 € à 19 000 € selon l'année, le modèle et la formule batterie.</p>
@@ -46,24 +46,24 @@ author: "Léa Moreau"
 
 <p>La R135, plus récente, offre de meilleures reprises grâce à sa puissance supérieure.</p>
 
-<p>La R110 avec batterie 52 kWh offre une autonomie très proche de la R135 pour un prix d'occasion généralement inférieur — c'est souvent le meilleur compromis.</p>
+<p>La R110 avec batterie 52 kWh offre une autonomie très proche de la R135 pour un prix d'occasion généralement inférieur : c'est souvent le meilleur compromis.</p>
 
 <p>La R110 avec la petite batterie 41 kWh (325 km) reste un choix pertinent pour un usage urbain avec un budget plus serré. Ces deux motorisations restent proches en pratique : l'écart de puissance (109 ch contre 135-136 ch) se ressent surtout en accélération et en reprise, pas nécessairement dans un usage urbain classique.</p>
 
-<p>Sur le segment des citadines électriques d'occasion, la Zoé partage le marché avec d'autres modèles comme la Nissan Leaf (plutôt positionnée en compacte, avec un habitacle plus généreux) ou la Smart EQ fortwo (format ultra-compact pensé pour la ville) — deux alternatives aux philosophies différentes. Contrairement aux SUV et berlines électriques, dont les tarifs d'occasion démarrent généralement plus haut, ces citadines restent la porte d'entrée la plus accessible du marché électrique.</p>
+<p>Sur le segment des citadines électriques d'occasion, la Zoé partage le marché avec d'autres modèles comme la Nissan Leaf (plutôt positionnée en compacte, avec un habitacle plus généreux) ou la Smart EQ fortwo (format ultra-compact pensé pour la ville), deux alternatives aux philosophies différentes. Contrairement aux SUV et berlines électriques, dont les tarifs d'occasion démarrent généralement plus haut, ces citadines restent la porte d'entrée la plus accessible du marché électrique.</p>
 
 <p><em>Spécifications vérifiées : Wikipédia et Automobile Propre (fiche technique + tableau des générations).</em></p>
 
 <h2>Batterie en location ou achat intégral : la question à ne surtout pas zapper</h2>
 
-<p>C'est LA question à se poser avant d'acheter une Zoé d'occasion — et celle que les annonces mentionnent rarement en clair, ce qui peut coûter cher si on ne fait pas attention.</p>
+<p>C'est LA question à se poser avant d'acheter une Zoé d'occasion, et celle que les annonces mentionnent rarement en clair, ce qui peut coûter cher si on ne fait pas attention.</p>
 
 <p>Jusqu'en 2018, Renault ne proposait la Zoé qu'avec une <strong>location de batterie</strong> obligatoire (un contrat mensuel séparé, le plus souvent autour de <strong>70 €/mois</strong>, avec des grilles tarifaires variables selon le kilométrage annuel souscrit).</p>
 
 <p>Depuis 2018, l'<strong>achat intégral</strong> est possible, avec un surcoût à l'achat d'environ <strong>8 900 €</strong> par rapport à une Zoé équivalente avec batterie louée.</p>
 
 <ul>
-<li><strong>Batterie en location</strong> : prix d'achat du véhicule plus bas, mais mensualité de location à vie (ou jusqu'à rachat du contrat), et une <strong>assurance séparée à souscrire</strong> puisque Renault reste propriétaire du pack — à additionner au coût réel de possession</li>
+<li><strong>Batterie en location</strong> : prix d'achat du véhicule plus bas, mais mensualité de location à vie (ou jusqu'à rachat du contrat), et une <strong>assurance séparée à souscrire</strong> puisque Renault reste propriétaire du pack, un coût à additionner au coût réel de possession</li>
 <li><strong>Batterie en propriété (achat intégral)</strong> : prix d'achat plus élevé, mais aucune mensualité supplémentaire et revente facilitée</li>
 </ul>
 
@@ -89,23 +89,23 @@ author: "Léa Moreau"
 </tbody>
 </table>
 
-<p><em>Fourchettes construites à partir d'annonces réelles observées sur LaCentrale, LeBonCoin et réseaux Renault (relevé août 2026) — les prix évoluent en continu, vérifiez les annonces à jour au moment de votre achat.</em></p>
+<p><em>Fourchettes construites à partir d'annonces réelles observées sur LaCentrale, LeBonCoin et réseaux Renault (relevé août 2026). Les prix évoluent en continu, vérifiez les annonces à jour au moment de votre achat.</em></p>
 
 <h2>Fiabilité de la Renault Zoé : ce qu'il faut vraiment vérifier avant de craquer</h2>
 
-<p>La peur numéro un quand on achète une électrique d'occasion, c'est l'état de la batterie — légitime, c'est la pièce la plus chère à remplacer.</p>
+<p>La peur numéro un quand on achète une électrique d'occasion, c'est l'état de la batterie. Une crainte légitime, car c'est la pièce la plus chère à remplacer.</p>
 
 <p>Bonne nouvelle : la fiabilité de la Zoé s'est progressivement améliorée au fil de ses 11 années de commercialisation (2013-2024).</p>
 
 <p>Les problèmes les plus fréquemment rapportés concernaient surtout le moteur de 90 chevaux (premières générations), avec des correctifs apportés par Renault au fil du temps.</p>
 
-<p>Des dysfonctionnements électroniques restent possibles sur toutes les générations, notamment sur le système multimédia R-Link — à tester impérativement lors de l'essai.</p>
+<p>Des dysfonctionnements électroniques restent possibles sur toutes les générations, notamment sur le système multimédia R-Link, à tester impérativement lors de l'essai.</p>
 
 <p>Avant de signer, prenez le temps de vérifier ces points un par un :</p>
 
 <ul>
-<li><strong>L'état de santé de la batterie (SOH)</strong> — demandez un diagnostic au vendeur, un point aussi important que le kilométrage sur un véhicule thermique</li>
-<li><strong>Le fonctionnement du chargeur embarqué</strong> — testez une charge complète si possible, notamment sur les premières générations</li>
+<li><strong>L'état de santé de la batterie (SOH)</strong> : demandez un diagnostic au vendeur, un point aussi important que le kilométrage sur un véhicule thermique</li>
+<li><strong>Le fonctionnement du chargeur embarqué</strong> : testez une charge complète si possible, notamment sur les premières générations</li>
 <li><strong>Le système multimédia R-Link</strong> — écran tactile, connectivité, mises à jour</li>
 <li><strong>Le chauffage et la climatisation</strong> — leur fonctionnement affecte directement l'autonomie réelle en hiver</li>
 <li><strong>L'historique d'entretien</strong> — carnet à jour, révisions effectuées chez un réseau agréé</li>
@@ -185,7 +185,7 @@ author: "Léa Moreau"
 
 <p>Pour qui recherche un modèle neuf équivalent chez Renault, la 5 E-Tech Electric constitue aujourd'hui l'alternative directe.</p>
 
-<p>La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif — généralement bien en dessous des tarifs pratiqués sur des modèles positionnés plus haut en gamme comme la Tesla Model S. Comparée à une citadine hybride ou diesel équivalente, la Zoé peut offrir un coût d'énergie et d'entretien inférieur, particulièrement avec une recharge régulière à domicile — l'écart réel dépend toutefois du kilométrage, du prix de l'électricité et de l'état de la batterie.</p>
+<p>La Zoé reste néanmoins un choix pertinent en occasion, avec une bonne disponibilité sur le marché et un tarif attractif, généralement bien en dessous des tarifs pratiqués sur des modèles positionnés plus haut en gamme comme la Tesla Model S. Comparée à une citadine hybride ou diesel équivalente, la Zoé peut offrir un coût d'énergie et d'entretien inférieur, particulièrement avec une recharge régulière à domicile. L'écart réel dépend toutefois du kilométrage, du prix de l'électricité et de l'état de la batterie.</p>
 
 <h2>Conclusion</h2>
 
