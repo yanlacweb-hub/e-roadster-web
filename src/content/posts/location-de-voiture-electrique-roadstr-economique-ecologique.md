@@ -52,7 +52,7 @@ author: "Gabriel Dubois"
 <li><strong>Un deuxième conducteur gratuit</strong> selon plusieurs annonces</li>
 <li><strong>L'assistance</strong>, joignable au téléphone</li>
 </ul>
-<p>Roadstr annonce ne pas demander de caution classique, mais une simple <strong>empreinte bancaire (pre-autorisation) de 1 000 EUR</strong>, libérée automatiquement après restitution du véhicule sans dommage. <em>Conditions vérifiées via la fiche officielle roadstr.fr.</em></p>
+<p>Roadstr annonce ne pas demander de caution classique, mais une simple <strong>empreinte bancaire (pre-autorisation) de 1 000 EUR</strong> sur votre carte bancaire, libérée automatiquement après restitution du véhicule sans dommage. <em>Conditions vérifiées via la fiche officielle roadstr.fr.</em></p>
 
 <h2>Louer sur Roadstr pour tester une voiture électrique avant de l'acheter</h2>
 <img src="/wp-content/uploads/2026/09/roadstr-recharge.jpg" alt="Câble de recharge branché sur une voiture électrique en location" loading="lazy" />
@@ -70,7 +70,7 @@ author: "Gabriel Dubois"
 <ul>
 <li><strong>Roadstr</strong> : location entre particuliers, catalogue variable selon les annonces, prix premium, spécialisation collection/sport (l'électrique est une catégorie de ce catalogue, pas une spécialité historique)</li>
 <li><strong>Loueurs généralistes (Europcar, Sixt, Hertz)</strong> : agences de location classiques avec flotte professionnelle homogène, disponibilité plus prévisible, souvent moins cher sur une citadine électrique standard</li>
-<li><strong>LLD constructeur (Renault, dispositifs spécifiques)</strong> : engagement long terme (1 à 5 ans), pas adapté à un test ponctuel</li>
+<li><strong>LLD constructeur (Renault, dispositifs spécifiques)</strong> : engagement long terme (1 à 5 ans), pas adapté à un test ponctuel. Cette location longue durée cible un usage régulier, pas une location courte comme sur Roadstr</li>
 </ul>
 <p>Pour une location courte (week-end, test avant achat), Roadstr a du sens si le modèle recherché est disponible dans le catalogue électrique local. Pour un usage récurrent ou si votre budget est serré, comparer plusieurs loueurs de voitures classiques ou une LLD reste souvent plus prévisible en prix qu'une location de véhicule entre particuliers.</p>
 
