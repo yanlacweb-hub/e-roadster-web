@@ -11,7 +11,7 @@ imageAlt: "Voiture électrique citadine branchée sur une borne murale à domici
 author: "Gabriel Dubois"
 ---
 
-<p>Vous regardez le prix d'une Renault Zoé et vous tombez sur des annonces qui vont du simple au triple pour, apparemment, le même modèle ? C'est normal, et c'est exactement le genre de piège que je veux vous éviter ici : le prix d'une Zoé dépend d'abord de la génération, ensuite du statut de la batterie — louée ou achetée — bien avant l'année ou le kilométrage.</p>
+<p>Vous regardez le prix d'une Renault Zoé et vous tombez sur des annonces qui vont du simple au triple pour, apparemment, le même modèle ? C'est normal, et c'est exactement le genre de piège que je veux vous éviter ici : le prix d'une Zoé dépend d'abord de la génération, ensuite du statut de la batterie (louée ou achetée), bien avant l'année ou le kilométrage.</p>
 
 <div class="highlight-box">
 <p><strong>À retenir :</strong> la Zoé n'est plus vendue neuve par Renault depuis l'arrêt de sa production le 30 mars 2024, mais quelques unités de fin de stock circulent encore chez des mandataires à partir de 13 868 €. En occasion, comptez de 5 500 € à 19 000 € selon la génération et le statut de la batterie (louée ou achetée intégralement, un écart pouvant dépasser 8 000 €). Côté usage, prévoyez environ 25 à 65 € de recharge par mois selon votre kilométrage.</p>
@@ -20,7 +20,7 @@ author: "Gabriel Dubois"
 
 <h2>La Zoé ne se vend plus neuve : ce que ça change pour votre budget</h2>
 <p>Renault a arrêté la production de la Zoé le <strong>30 mars 2024</strong>, dans son usine de Flins, après 426 706 exemplaires produits depuis son lancement en 2013. L'usine s'est reconvertie au reconditionnement de véhicules d'occasion, et la Zoé a été remplacée dans la gamme par la <strong>Renault 5 E-Tech Electric</strong>.</p>
-<p>Concrètement, si vous cherchez une Zoé aujourd'hui, deux options existent : quelques dernières unités neuves de fin de stock chez des mandataires automobiles ou des concessionnaires Renault encore approvisionnés, ou l'occasion — de loin le marché le plus large et le plus actif sur ce modèle.</p>
+<p>Concrètement, si vous cherchez une Zoé aujourd'hui, deux options existent : quelques dernières unités neuves de fin de stock chez des mandataires automobiles ou des concessionnaires Renault encore approvisionnés, ou l'occasion, de loin le marché le plus large et le plus actif sur ce modèle.</p>
 
 <h2>Combien coûtait une Zoé neuve avant l'arrêt de sa production ?</h2>
 <p>Pour comprendre les prix d'occasion actuels, il faut d'abord connaître les tarifs catalogue pratiqués du temps où Renault la commercialisait encore neuve — ils expliquent une bonne partie de la décote observée aujourd'hui.</p>
@@ -44,9 +44,9 @@ author: "Gabriel Dubois"
 <p><em>Spécifications vérifiées via Wikipédia (fiche Renault Zoé) et Automobile Propre.</em></p>
 
 <h2>Le piège à ne pas rater : batterie louée ou achetée intégralement</h2>
-<p>C'est le facteur qui explique le plus d'écarts de prix apparemment incohérents entre deux Zoé du même millésime — et les annonces ne le précisent pas toujours en clair.</p>
+<p>C'est le facteur qui explique le plus d'écarts de prix apparemment incohérents entre deux Zoé du même millésime, et les annonces ne le précisent pas toujours en clair.</p>
 <p>Jusqu'en avril 2018, Renault ne proposait la Zoé qu'avec batterie en <strong>location</strong> obligatoire, un contrat séparé facturé entre <strong>69 € et 120 €/mois</strong> selon le kilométrage souscrit, selon BYmyCAR.</p>
-<p>Depuis avril 2018, l'<strong>achat intégral</strong> est également possible, avec un surcoût à l'achat pouvant dépasser <strong>8 000 à 8 900 €</strong> par rapport à une Zoé équivalente en location — les deux formules ont ensuite coexisté plusieurs années. Renault a définitivement arrêté de proposer la formule location sur les Zoé neuves depuis janvier 2021, selon Automobile Propre — mais de nombreuses Zoé d'occasion en circulation restent sous contrat de location, souscrit à l'origine.</p>
+<p>Depuis avril 2018, l'<strong>achat intégral</strong> est également possible, avec un surcoût à l'achat pouvant dépasser <strong>8 000 à 8 900 €</strong> par rapport à une Zoé équivalente en location. Les deux formules ont ensuite coexisté plusieurs années. Renault a définitivement arrêté de proposer la formule location sur les Zoé neuves depuis janvier 2021, selon Automobile Propre, mais de nombreuses Zoé d'occasion en circulation restent sous contrat de location, souscrit à l'origine.</p>
 <p><strong>Vérifiez systématiquement ce point avant de comparer deux annonces</strong> : une Zoé "moins chère" à l'achat avec batterie louée peut revenir plus cher sur la durée qu'une Zoé en achat intégral légèrement plus onéreuse au départ. Notez aussi qu'une Zoé, comme toute voiture électrique, est exonérée du malus écologique — un avantage qui ne joue pas sur le prix de vente lui-même, mais qui compte dans le calcul global si vous comparez avec un modèle thermique équivalent.</p>
 
 <figure><img src="/wp-content/uploads/2026/09/combien-coute-zoe-batterie-soh.jpg" alt="Diagnostic de l'état de santé de la batterie sur une voiture électrique en atelier" loading="lazy" /></figure>
@@ -79,7 +79,7 @@ author: "Gabriel Dubois"
 <tr><td>Gros rouleur</td><td>~2 000 km</td><td>~65 €</td><td>~65 €</td></tr>
 </tbody>
 </table>
-<p><em>Estimation calculée à partir d'une recharge à domicile en heures creuses (tarif réglementé autour de 0,15 à 0,20 €/kWh, soit ~2 à 3 €/100 km) et d'une consommation moyenne de 15-16 kWh/100 km — un tarif nettement inférieur à celui des bornes publiques (0,39-0,69 €/kWh), qui reste l'option la plus chère pour recharger une Zoé. Pour le détail complet des tarifs de recharge selon le mode utilisé, voir notre <a href="/prix-recharge-voiture-electrique-combien-ca-coute/">guide sur le prix de la recharge</a>.</em></p>
+<p><em>Estimation calculée à partir d'une recharge à domicile en heures creuses (tarif réglementé autour de 0,15 à 0,20 €/kWh, soit ~2 à 3 €/100 km) et d'une consommation moyenne de 15-16 kWh/100 km, un tarif nettement inférieur à celui des bornes publiques (0,39-0,69 €/kWh), qui reste l'option la plus chère pour recharger une Zoé. Pour le détail complet des tarifs de recharge selon le mode utilisé, voir notre <a href="/prix-recharge-voiture-electrique-combien-ca-coute/">guide sur le prix de la recharge</a>.</em></p>
 <p>À cela s'ajoute l'assurance, comparable à celle d'une citadine électrique classique (moyenne marché autour de 400 à 670 €/an selon les profils), les frais de carte grise (gratuite ou fortement réduite pour un véhicule électrique dans la plupart des régions françaises, à vérifier auprès de votre préfecture), et, le cas échéant, la mensualité de location de batterie évoquée plus haut si votre Zoé n'a pas la batterie en propriété.</p>
 
 <h2>Les aides disponibles pour réduire la facture</h2>
@@ -98,8 +98,8 @@ author: "Gabriel Dubois"
 <p>Cela dit, la Zoé garde un argument imbattable pour un budget serré : sa large disponibilité en occasion et des prix d'entrée nettement inférieurs à tout modèle électrique neuf du marché, R5 E-Tech comprise. Si votre besoin est plutôt ponctuel, la <a href="/location-de-voiture-electrique-roadstr-economique-ecologique/">location courte durée via Roadstr</a> permet aussi de tester l'électrique sans investissement.</p>
 
 <h2>Conclusion : quel budget prévoir réellement ?</h2>
-<p>Le prix d'une Zoé varie du simple au triple selon un seul critère déterminant : le statut de la batterie, louée ou achetée intégralement — bien avant l'année ou le kilométrage affiché. Comptez de 5 500 € pour les premières générations en location à 19 000 € pour une R135 récente en achat intégral, et gardez toujours à l'esprit la mensualité de location si elle s'applique à votre annonce.</p>
-<p>Avant de signer, vérifiez systématiquement l'état de santé de la batterie et le statut location/propriété — c'est ce qui déterminera votre budget réel, bien plus que le prix affiché sur l'annonce.</p>
+<p>Le prix d'une Zoé varie du simple au triple selon un seul critère déterminant : le statut de la batterie, louée ou achetée intégralement, bien avant l'année ou le kilométrage affiché. Comptez de 5 500 € pour les premières générations en location à 19 000 € pour une R135 récente en achat intégral, et gardez toujours à l'esprit la mensualité de location si elle s'applique à votre annonce.</p>
+<p>Avant de signer, vérifiez systématiquement l'état de santé de la batterie et le statut location/propriété : c'est ce qui déterminera votre budget réel, bien plus que le prix affiché sur l'annonce.</p>
 
 <h2>FAQ : questions fréquentes sur le prix de la Renault Zoé</h2>
 <h3>Quel est le prix moyen d'une Zoé ?</h3>
@@ -107,7 +107,7 @@ author: "Gabriel Dubois"
 <h3>Peut-on encore acheter une Zoé neuve ?</h3>
 <p>Renault a arrêté sa production le 30 mars 2024. Seules quelques unités de fin de stock restent disponibles chez certains mandataires, à partir d'environ 13 868 €, dans la limite des stocks existants.</p>
 <h3>Combien coûte la location de la batterie de la Zoé ?</h3>
-<p>Entre <strong>69 € et 120 € par mois</strong> selon le kilométrage souscrit, sur les contrats encore en cours — cette formule n'est plus proposée sur Zoé neuve depuis janvier 2021.</p>
+<p>Entre <strong>69 € et 120 € par mois</strong> selon le kilométrage souscrit, sur les contrats encore en cours. Cette formule n'est plus proposée sur Zoé neuve depuis janvier 2021.</p>
 <h3>La Zoé est-elle la voiture électrique la moins chère du marché ?</h3>
 <p>En occasion, oui, elle fait partie des électriques les plus abordables grâce à sa large disponibilité. Côté neuf, la Dacia Spring reste généralement moins chère à l'achat.</p>
 <h3>Par quoi la Renault Zoé est-elle remplacée ?</h3>
