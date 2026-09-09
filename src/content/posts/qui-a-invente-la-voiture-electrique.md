@@ -19,19 +19,19 @@ author: "Gabriel Dubois"
 <p>Ce guide reprend chaque étape avec ses sources, sans trancher artificiellement en faveur d'un seul nom. <em>Faits vérifiés le 3 septembre 2026 auprès de Wikipédia (versions française et anglaise), sources académiques citées par ces articles, et articles de presse spécialisée datés.</em></p>
 
 <h2>Qui a inventé la voiture électrique en premier ?</h2>
-<p><strong>Personne ne peut revendiquer seul le titre d'inventeur de la voiture électrique</strong> — les historiens créditent généralement trois jalons distincts et disputés : Ányos Jedlik (Hongrie, 1827-1828) pour le premier moteur électrique appliqué à un modèle roulant, Robert Anderson (Écosse, entre 1832 et 1839) pour la première calèche électrique grandeur nature, et Gustave Trouvé (France, 1881) pour le premier véhicule électrique documenté ayant réellement transporté une personne avec sa propre source d'énergie embarquée.</p>
+<p><strong>Personne ne peut revendiquer seul le titre d'inventeur de la voiture électrique.</strong> Les historiens créditent généralement trois jalons distincts et disputés : Ányos Jedlik (Hongrie, 1827-1828) pour le premier moteur électrique appliqué à un modèle roulant, Robert Anderson (Écosse, entre 1832 et 1839) pour la première calèche électrique grandeur nature, et Gustave Trouvé (France, 1881) pour le premier véhicule électrique documenté ayant réellement transporté une personne avec sa propre source d'énergie embarquée.</p>
 
 <p>Aucun de ces trois inventeurs n'a construit un véhicule commercialisable ; c'est cette accumulation d'étapes techniques, plus qu'un éclair de génie isolé, qui a rendu la voiture électrique possible.</p>
 
 <h2>Ányos Jedlik et Robert Anderson : les tout premiers prototypes (1827-1839)</h2>
 <figure><img src="/wp-content/uploads/2026/09/invention-voiture-electrique-jedlik-anderson.jpg" alt="Reconstitution d'un moteur électrique et d'un chariot du début du 19e siècle" loading="lazy" /></figure>
-<p><strong>Le prêtre et physicien hongrois Ányos Jedlik construit en 1827 un des tout premiers moteurs électriques utilisables</strong>, puis l'utilise dès l'année suivante pour propulser un petit modèle réduit sur roues — une preuve de concept plus qu'un véhicule pour transporter des personnes.</p>
+<p><strong>Le prêtre et physicien hongrois Ányos Jedlik construit en 1827 un des tout premiers moteurs électriques utilisables</strong>, puis l'utilise dès l'année suivante pour propulser un petit modèle réduit sur roues, une preuve de concept plus qu'un véhicule pour transporter des personnes.</p>
 
 <p>Quelques années plus tard, entre 1832 et 1839 selon les sources (la date exacte reste débattue faute de documentation précise), l'ingénieur écossais Robert Anderson construit ce que plusieurs historiens décrivent comme la première calèche électrique grandeur nature, alimentée par des piles non rechargeables à l'acide sulfurique. Son autonomie restait très limitée et le véhicule n'a jamais été commercialisé : une fois les piles épuisées, il fallait les remplacer entièrement, ce qui rendait l'usage pratique quasiment impossible.</p>
 
 <p>À peu près à la même époque, en 1834, le forgeron américain Thomas Davenport construit un dispositif similaire fonctionnant sur un circuit circulaire électrifié — davantage un ancêtre de la locomotive électrique qu'une automobile au sens strict. La même année, le professeur néerlandais Sibrandus Stratingh et son assistant allemand Christopher Becker assemblent à Groningue une petite voiture électrique à échelle réduite, elle aussi alimentée par des piles non rechargeables.</p>
 
-<p>Ces expérimentations partagent toutes la même limite technique : sans batterie rechargeable, chaque trajet nécessitait de remplacer des piles à usage unique, ce qui rendait un usage régulier coûteux et peu pratique — même si des essais ponctuels restaient possibles.</p>
+<p>Ces expérimentations partagent toutes la même limite technique : sans batterie rechargeable, chaque trajet nécessitait de remplacer des piles à usage unique, ce qui rendait un usage régulier coûteux et peu pratique, même si des essais ponctuels restaient possibles.</p>
 
 <h2>Pourquoi la batterie de Gaston Planté a-t-elle tout changé en 1859 ?</h2>
 <p><strong>Le physicien français Gaston Planté invente en 1859 la batterie rechargeable au plomb-acide</strong>, la première technologie capable de stocker et restituer de l'électricité à bord d'un véhicule de façon répétée — jusque-là, chaque trajet nécessitait de remplacer des piles à usage unique. Cette invention est la véritable rupture technologique qui rend l'automobile électrique viable, bien plus qu'un simple perfectionnement parmi d'autres.</p>
@@ -42,16 +42,16 @@ author: "Gabriel Dubois"
 <figure><img src="/wp-content/uploads/2026/09/invention-voiture-electrique-trouve-1881.jpg" alt="Reconstitution d'un tricycle électrique testé à Paris en 1881" loading="lazy" /></figure>
 <p><strong>C'est l'ingénieur français Gustave Trouvé qui teste, le 19 avril 1881 rue de Valois à Paris, ce qui est considéré comme le premier véhicule électrique transportant un être humain avec sa propre source d'énergie embarquée.</strong> Trouvé perfectionne un petit moteur électrique développé par Siemens et l'associe à la nouvelle batterie rechargeable pour équiper un tricycle anglais de marque Starley. L'essai fonctionne, mais Trouvé ne parvient pas à faire breveter son invention — un détail qui explique pourquoi son nom reste moins connu que d'autres, malgré l'antériorité de sa réalisation.</p>
 
-<p>Quelques semaines plus tard, en mai 1881, il adapte le même moteur électrique à la propulsion d'une embarcation sur la Seine — l'une des premières démonstrations documentées d'un moteur électrique amovible pour bateau, considérée par plusieurs historiens comme un précurseur du moteur hors-bord moderne.</p>
+<p>Quelques semaines plus tard, en mai 1881, il adapte le même moteur électrique à la propulsion d'une embarcation sur la Seine. L'une des premières démonstrations documentées d'un moteur électrique amovible pour bateau, considérée par plusieurs historiens comme un précurseur du moteur hors-bord moderne.</p>
 
 <h2>Thomas Parker et les débuts de la production britannique (1884)</h2>
-<p><strong>L'ingénieur britannique Thomas Parker construit sa première voiture électrique à Wolverhampton en 1884</strong>, en utilisant des batteries rechargeables à forte capacité qu'il conçoit lui-même — la seule trace documentée de ce véhicule reste toutefois une photographie datée de 1895, ce qui alimente encore le débat sur la date exacte.</p>
+<p><strong>L'ingénieur britannique Thomas Parker construit sa première voiture électrique à Wolverhampton en 1884</strong>, en utilisant des batteries rechargeables à forte capacité qu'il conçoit lui-même. La seule trace documentée de ce véhicule reste toutefois une photographie datée de 1895, ce qui alimente encore le débat sur la date exacte.</p>
 
 <p>Parker, déjà connu pour avoir électrifié une partie du métro de Londres et des réseaux de tramways à Liverpool et Birmingham, fonde en 1882 l'Elwell-Parker Company pour la construction de tramways électriques. L'entreprise fusionne en 1888 avec des concurrents pour former l'Electric Construction Corporation, qui domine alors le marché britannique de la voiture électrique dans les années 1890 et lance la première « dog cart » électrique en 1896.</p>
 
 <h2>Camille Jenatzy et « la Jamais Contente » : le record de 1899</h2>
 <figure><img src="/wp-content/uploads/2026/09/invention-voiture-electrique-jamais-contente.jpg" alt="Reconstitution d'un véhicule électrique profilé de course de la fin du 19e siècle" loading="lazy" /></figure>
-<p><strong>Le 29 avril 1899, sur le circuit d'Achères près de Paris, l'ingénieur belge Camille Jenatzy devient le premier être humain à dépasser les 100 km/h au volant d'un véhicule</strong>, à bord de « la Jamais Contente », une voiture électrique profilée en forme d'obus qui atteint 105,88 km/h — un record resté dans l'histoire comme la première voiture de course conçue spécifiquement pour battre un record de vitesse.</p>
+<p><strong>Le 29 avril 1899, sur le circuit d'Achères près de Paris, l'ingénieur belge Camille Jenatzy devient le premier être humain à dépasser les 100 km/h au volant d'un véhicule</strong>, à bord de « la Jamais Contente », une voiture électrique profilée en forme d'obus qui atteint 105,88 km/h. Un record resté dans l'histoire comme la première voiture de course conçue spécifiquement pour battre un record de vitesse.</p>
 
 <p>Un peu plus tôt, le 18 décembre 1898 sur ce même circuit d'Achères, l'ingénieur français Charles Jeantaud construit sa propre voiture électrique baptisée « la Duc » : pilotée par le comte Gaston de Chasseloup-Laubat, elle établit un premier record à 63,15 km/h. Ce record change ensuite plusieurs fois de mains entre Chasseloup-Laubat et Jenatzy au cours du mois de janvier 1899, avant que Jenatzy ne l'emporte définitivement en avril avec la Jamais Contente.</p>
 
@@ -94,12 +94,12 @@ author: "Gabriel Dubois"
 <p>Elle ne disparaît toutefois pas complètement : les usages professionnels (véhicules de livraison, milk floats britanniques, chariots élévateurs à partir de 1923) restent électriques bien après cette date, et une tentative de relance commerciale, la Henney Kilowatt, voit même le jour dès 1959.</p>
 
 <h2>Et Tesla, dans tout ça ?</h2>
-<p><strong>Tesla n'a pas inventé la voiture électrique — l'entreprise a inventé la voiture électrique moderne à longue autonomie, plus d'un siècle après Trouvé et Jenatzy.</strong> Fondée en 2003, Tesla lance en 2008 son premier modèle, la Tesla Roadster, qui relance véritablement l'intérêt du grand public pour la mobilité électrique après des décennies de désintérêt.</p>
+<p><strong>Tesla n'a pas inventé la voiture électrique : l'entreprise a inventé la voiture électrique moderne à longue autonomie, plus d'un siècle après Trouvé et Jenatzy.</strong> Fondée en 2003, Tesla lance en 2008 son premier modèle, la Tesla Roadster, qui relance véritablement l'intérêt du grand public pour la mobilité électrique après des décennies de désintérêt.</p>
 
 <p>Pour l'histoire complète de la marque et de ses fondateurs, notre article <a href="https://e-roadster.fr/testla-qui-a-creer-tesla/">qui a créé Tesla</a> détaille cette période plus récente, tandis que notre guide sur le <a href="https://e-roadster.fr/2023-tesla-roadster-supercar-electrique-ultime/">Tesla Roadster</a> revient sur ce modèle fondateur.</p>
 
 <h2>Ce que cette histoire change concrètement pour vous aujourd'hui</h2>
-<p><strong>Les mêmes limites qui ont freiné la voiture électrique au 19e siècle — autonomie, coût de la batterie, réseau de recharge — restent les critères à vérifier avant d'acheter en 2026, même si la technologie a radicalement progressé.</strong></p>
+<p><strong>Les mêmes limites qui ont freiné la voiture électrique au 19e siècle (autonomie, coût de la batterie, réseau de recharge) restent les critères à vérifier avant d'acheter en 2026, même si la technologie a radicalement progressé.</strong></p>
 
 <p>Pour comparer les autonomies réelles des modèles actuels, consultez notre guide sur <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">le véhicule électrique à la plus grande autonomie</a> et notre article sur le <a href="https://e-roadster.fr/autonomie-voiture-electrique/">calcul de l'autonomie WLTP et réelle</a>.</p>
 
@@ -116,6 +116,6 @@ author: "Gabriel Dubois"
 <h3>Pourquoi la voiture électrique a-t-elle disparu au début du 20e siècle ?</h3>
 <p><strong>Trois facteurs combinés expliquent son déclin</strong> : l'invention du démarreur électrique par Charles Kettering en 1912 a supprimé l'avantage principal de l'électrique face à l'essence, la découverte de grandes réserves de pétrole a rendu l'essence bon marché, et la production en série de Ford a fait chuter le prix des voitures à essence pendant que celui des voitures électriques augmentait.</p>
 <h3>Tesla a-t-il inventé la voiture électrique ?</h3>
-<p><strong>Non.</strong> Tesla, fondée en 2003, a lancé son premier modèle en 2008 — plus de 125 ans après les premiers essais documentés de Gustave Trouvé en 1881. L'entreprise a relancé l'intérêt du grand public pour la mobilité électrique, sans en être l'inventrice.</p>
+<p><strong>Non.</strong> Tesla, fondée en 2003, a lancé son premier modèle en 2008, plus de 125 ans après les premiers essais documentés de Gustave Trouvé en 1881. L'entreprise a relancé l'intérêt du grand public pour la mobilité électrique, sans en être l'inventrice.</p>
 <h3>Quelle est la plus ancienne voiture électrique connue ?</h3>
 <p><strong>Cela dépend du critère retenu</strong> : le plus ancien prototype documenté est le modèle réduit de Jedlik (1828), la plus ancienne calèche électrique grandeur nature celle de Robert Anderson (entre 1832 et 1839), et le plus ancien véhicule électrique transportant réellement une personne avec sa propre source d'énergie celui de Gustave Trouvé (1881).</p>
