@@ -11,15 +11,15 @@ imageAlt: "Combien coûte une voiture électrique ?"
 author: "Gabriel Dubois"
 ---
 
-<p>Vous cherchez une <strong>voiture électrique</strong> et la première question reste toujours la même : combien ça coûte réellement ? C'est exactement la question que je me suis posée avant de passer à l'électrique — et la réponse honnête, c'est qu'elle dépend du modèle, mais aussi du prix d'achat, des aides disponibles et du coût à l'usage. Voici le calcul complet, chiffres à l'appui, sans arrondir dans le sens qui arrange.</p>
+<p>Vous cherchez une <strong>voiture électrique</strong> et la première question reste toujours la même : combien ça coûte réellement ? C'est exactement la question que je me suis posée avant de passer à l'électrique, et la réponse honnête, c'est qu'elle dépend du modèle, mais aussi du prix d'achat, des aides disponibles et du coût à l'usage. Voici le calcul complet, chiffres à l'appui, sans arrondir dans le sens qui arrange.</p>
 <div class="highlight-box">
-<p><strong>À retenir :</strong> une citadine électrique neuve démarre autour de 17 000 €, l'occasion dès 6 000 à 10 000 €. Le coût réel dépend ensuite fortement de votre kilométrage annuel, du mode de recharge, de l'assurance, de l'entretien et des aides mobilisées — voir le calcul détaillé et les 3 profils d'usage ci-dessous.</p>
+<p><strong>À retenir :</strong> une citadine électrique neuve démarre autour de 17 000 €, l'occasion dès 6 000 à 10 000 €. Le coût réel dépend ensuite fortement de votre kilométrage annuel, du mode de recharge, de l'assurance, de l'entretien et des aides mobilisées. Voir le calcul détaillé et les 3 profils d'usage ci-dessous.</p>
 </div>
 <!--more-->
 
 <h2>Le budget à prévoir selon votre profil</h2>
 <p>Le prix d'une voiture électrique neuve varie fortement selon le segment choisi : de moins de <strong>17 000 €</strong> pour une citadine d'entrée de gamme à plus de <strong>60 000 €</strong> pour un SUV haut de gamme, la fourchette la plus courante se situant entre 20 000 € et 45 000 €. Le tableau ci-dessous détaille les prix par modèle.</p>
-<p>Pour un budget plus serré, l'occasion permet d'accéder à ce type de véhicule dès <strong>6 000 à 10 000 €</strong> pour les premiers modèles — voir le détail dans la section dédiée à l'occasion plus bas, et notre <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">guide sur la Renault Zoé d'occasion</a>, un des modèles les plus recherchés sur ce segment.</p>
+<p>Pour un budget plus serré, l'occasion permet d'accéder à ce type de véhicule dès <strong>6 000 à 10 000 €</strong> pour les premiers modèles. Voir le détail dans la section dédiée à l'occasion plus bas, et notre <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">guide sur la Renault Zoé d'occasion</a>, un des modèles les plus recherchés sur ce segment.</p>
 
 <h2>Prix par segment : citadine, berline, SUV</h2>
 <p>Prix catalogue indicatifs relevés auprès de comparateurs spécialisés (Vivacar) en <strong>août 2026</strong>, hors options et hors aides — vérifiez toujours le tarif à jour auprès du constructeur ou concessionnaire avant achat.</p>
@@ -48,7 +48,7 @@ author: "Gabriel Dubois"
 <li><strong>Entretien</strong> : moins de pièces d'usure (pas d'embrayage, moins de freinage grâce à la récupération d'énergie)</li>
 <li><strong>Fiscalité</strong> : exonération partielle de la carte grise selon les régions, avantages en flotte d'entreprise</li>
 </ul>
-<p>Sur une utilisation de plusieurs années avec un kilométrage annuel important, le coût total de possession d'une électrique devient souvent inférieur à celui d'un modèle essence ou diesel comparable — l'écart dépendant surtout du prix d'achat initial et du kilométrage parcouru.</p>
+<p>Sur une utilisation de plusieurs années avec un kilométrage annuel important, le coût total de possession d'une électrique devient souvent inférieur à celui d'un modèle essence ou diesel comparable, l'écart dépendant surtout du prix d'achat initial et du kilométrage parcouru.</p>
 
 <h2>Combien coûte une voiture électrique par mois ?</h2>
 <p>Le coût mensuel dépend de ce que vous incluez dans le calcul. Voici la décomposition, hors puis avec financement :</p>
@@ -89,14 +89,14 @@ author: "Gabriel Dubois"
 <tr><td>Recharge rapide / ultra-rapide (autoroute)</td><td>~10 à 14 €</td></tr>
 </tbody>
 </table>
-<p><em>Estimations calculées à partir des tarifs bornes publiques de 0,39 à 0,69 €/kWh et d'une consommation moyenne de 15 à 18 kWh/100 km pour une citadine ou compacte électrique (source : izi-by-EDF). La recharge rapide/ultra-rapide applique généralement un tarif au kWh plus élevé que la borne publique standard (souvent 0,50 à 0,80 €/kWh selon l'opérateur) — c'est ce tarif majoré, non les hypothèses ci-dessus, qui explique le coût plus élevé de cette ligne du tableau.</em></p>
+<p><em>Estimations calculées à partir des tarifs bornes publiques de 0,39 à 0,69 €/kWh et d'une consommation moyenne de 15 à 18 kWh/100 km pour une citadine ou compacte électrique (source : izi-by-EDF). La recharge rapide/ultra-rapide applique généralement un tarif au kWh plus élevé que la borne publique standard (souvent 0,50 à 0,80 €/kWh selon l'opérateur), et c'est ce tarif majoré, non les hypothèses ci-dessus, qui explique le coût plus élevé de cette ligne du tableau.</em></p>
 <p>La recharge à domicile reste la plus économique. Pour le détail complet des tarifs selon le type de borne, consultez notre <a href="/prix-recharge-voiture-electrique-combien-ca-coute/">guide dédié sur le prix de la recharge d'une voiture électrique</a>.</p>
-<p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile — l'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p>
+<p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile. L'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p>
 
 <h2>Entretien et coût sur la durée</h2>
 <p>Au-delà du prix d'achat et de la recharge, l'entretien reste globalement moins coûteux sur une électrique : pas de vidange ni de courroie de distribution, un frein moteur régénératif qui use moins les plaquettes, mécanique plus simple dans l'ensemble (environ -25 % vs thermique, source izi-by-EDF). Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie.</p>
 <div class="data-warning">
-<p><strong>⚠️ Chiffre non retenu volontairement :</strong> les montants circulant sur le web pour ce remplacement (souvent entre 8 000 € et 15 000 € selon le modèle) proviennent de comparateurs et non des constructeurs eux-mêmes — nous ne les reprenons pas ici faute de source constructeur vérifiable et datée.</p>
+<p><strong>⚠️ Chiffre non retenu volontairement :</strong> les montants circulant sur le web pour ce remplacement (souvent entre 8 000 € et 15 000 € selon le modèle) proviennent de comparateurs et non des constructeurs eux-mêmes. Nous ne les reprenons pas ici faute de source constructeur vérifiable et datée.</p>
 </div>
 <p>Ce qui est en revanche établi : ce remplacement complet reste rare, il intervient généralement après plusieurs centaines de milliers de kilomètres ou en dehors de la période de garantie constructeur (souvent 8 ans / 160 000 km), et certaines interventions ne concernent qu'un module de la batterie plutôt que son remplacement intégral. Pour un devis fiable, contactez directement le constructeur ou un réparateur agréé de votre modèle.</p>
 
@@ -135,10 +135,10 @@ author: "Gabriel Dubois"
 <p>Un point de vigilance spécifique à l'occasion électrique : vérifiez l'état de santé de la batterie (SOH) avant l'achat, un critère aussi important que le kilométrage sur un véhicule thermique — voir notre guide sur la <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">Renault Zoé d'occasion</a> pour un exemple concret.</p>
 
 <h2>Acheter ou louer : quelle option pour maîtriser son budget ?</h2>
-<p>Pour ceux qui hésitent entre achat et location, chaque option a ses avantages selon l'usage prévu — il n'y a pas de bon choix universel, seulement le bon choix pour votre usage réel. L'achat convient à un usage régulier sur le long terme, tandis que la location (LOA, LLD ou location courte durée via des plateformes comme <a href="/location-de-voiture-electrique-roadstr-economique-ecologique/">Roadstr</a>) permet de tester l'électrique sans engagement financier lourd. Avant de trancher, posez-vous la vraie question : combien de kilomètres faites-vous vraiment chaque année, et pour combien de temps ?</p>
+<p>Pour ceux qui hésitent entre achat et location, chaque option a ses avantages selon l'usage prévu. Il n'y a pas de bon choix universel, seulement le bon choix pour votre usage réel. L'achat convient à un usage régulier sur le long terme, tandis que la location (LOA, LLD ou location courte durée via des plateformes comme <a href="/location-de-voiture-electrique-roadstr-economique-ecologique/">Roadstr</a>) permet de tester l'électrique sans engagement financier lourd. Avant de trancher, posez-vous la vraie question : combien de kilomètres faites-vous vraiment chaque année, et pour combien de temps ?</p>
 
 <h2>Conclusion : le budget réel pour passer à l'électrique</h2>
-<p>Le budget nécessaire pour une voiture électrique varie fortement selon le modèle, le neuf ou l'occasion, et les aides mobilisées — de moins de 17 000 € pour une citadine d'entrée de gamme à plus de 60 000 € pour un SUV haut de gamme. En intégrant les économies réalisées sur le carburant et l'entretien, le coût total de possession reste souvent compétitif face à un véhicule thermique équivalent sur plusieurs années d'utilisation.</p>
+<p>Le budget nécessaire pour une voiture électrique varie fortement selon le modèle, le neuf ou l'occasion, et les aides mobilisées : de moins de 17 000 € pour une citadine d'entrée de gamme à plus de 60 000 € pour un SUV haut de gamme. En intégrant les économies réalisées sur le carburant et l'entretien, le coût total de possession reste souvent compétitif face à un véhicule thermique équivalent sur plusieurs années d'utilisation.</p>
 <p>Ne vous fiez pas au seul prix affiché à l'achat : c'est le calcul complet, sur plusieurs années, qui vous dira si le passage à l'électrique est vraiment rentable pour votre usage.</p>
 
 <h2>FAQ : questions fréquentes sur le prix d'une voiture électrique</h2>
