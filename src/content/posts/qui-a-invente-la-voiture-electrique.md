@@ -57,6 +57,8 @@ author: "Gabriel Dubois"
 
 <p>Cet exploit, largement documenté et souvent cité comme symbole de l'âge d'or de la voiture électrique, ne concerne pas l'invention du véhicule électrique en tant que telle mais illustre la maturité technique atteinte dès la fin du 19e siècle.</p>
 
+<p>À la même période, l'ingénieur autrichien Ferdinand Porsche présente un autre jalon technique moins connu : la Lohner-Porsche Mixte, dévoilée en 1900 à l'Exposition universelle de Paris. Équipée de moteurs-roues électriques associés à un moteur thermique Daimler, elle est considérée comme la première automobile hybride essence-électrique à propulsion intégrale de l'histoire. Environ 300 exemplaires du modèle seront produits dans les années suivantes, mais l'hybride reste alors une curiosité technique : le grand public de l'époque choisit entre voiture électrique, à vapeur ou à essence, sans version intermédiaire réellement démocratisée.</p>
+
 <h2>L'âge d'or de la voiture électrique (1890-1910s)</h2>
 <p><strong>Entre 1895 et 1910, la voiture électrique n'est pas un marché de niche mais une option sérieuse face à la vapeur et à l'essence</strong> : aux États-Unis, en 1900, sur l'ensemble des automobiles produites cette année-là, environ 40 % fonctionnaient à la vapeur, 38 % à l'électricité et 22 % à l'essence, selon les chiffres cités par Wikipédia (édition anglaise, article « History of the electric vehicle »).</p>
 
@@ -89,12 +91,16 @@ author: "Gabriel Dubois"
 
 <p>Enfin, la production en série lancée par Henry Ford fait chuter le prix des voitures à essence, quand celui des voitures électriques continue au contraire d'augmenter : dès 1912, un modèle électrique pouvait coûter nettement plus cher qu'un modèle à essence comparable.</p>
 
+<p>Le moteur Diesel, breveté par l'ingénieur allemand Rudolf Diesel en 1892 et perfectionné dans les décennies suivantes, ne concurrence pas directement la voiture électrique particulière à cette époque : il s'impose d'abord dans l'industrie lourde et la marine, puis dans les poids lourds, avant d'atteindre l'automobile de tourisme avec la Mercedes 260D en 1936. Son essor renforce néanmoins la domination générale des motorisations thermiques sur le marché automobile pendant tout le 20e siècle, aux côtés du moteur à essence classique.</p>
+
 <p>Combinée à une autonomie limitée à 50-65 km et une vitesse plafonnée à 24-32 km/h sur les modèles urbains les plus courants de l'époque, la voiture électrique s'efface progressivement du marché grand public tout au long des années 1920.</p>
 
 <p>Elle ne disparaît toutefois pas complètement : les usages professionnels (véhicules de livraison, milk floats britanniques, chariots élévateurs à partir de 1923) restent électriques bien après cette date, et une tentative de relance commerciale, la Henney Kilowatt, voit même le jour dès 1959.</p>
 
 <h2>Et Tesla, dans tout ça ?</h2>
-<p><strong>Tesla n'a pas inventé la voiture électrique : l'entreprise a inventé la voiture électrique moderne à longue autonomie, plus d'un siècle après Trouvé et Jenatzy.</strong> Fondée en 2003, Tesla lance en 2008 son premier modèle, la Tesla Roadster, qui relance véritablement l'intérêt du grand public pour la mobilité électrique après des décennies de désintérêt.</p>
+<p><strong>Tesla n'a pas inventé la voiture électrique : l'entreprise a inventé la voiture électrique moderne à longue autonomie, plus d'un siècle après Trouvé et Jenatzy.</strong> Fondée en 2003, Tesla lance en 2008 son premier modèle, la Tesla Roadster, un cabriolet sportif équipé d'une batterie lithium-ion de 53 kWh, qui relance véritablement l'intérêt du grand public pour la mobilité électrique après des décennies de désintérêt.</p>
+
+<p>La rupture technique se confirme quatre ans plus tard avec la Tesla Model S, présentée en 2009 et commercialisée à partir de 2012 aux États-Unis : cette berline haut de gamme prouve qu'un véhicule tout-électrique peut rivaliser avec les motorisations thermiques sur l'autonomie et les performances, pas seulement sur le concept. D'autres constructeurs suivent rapidement : Nissan commercialise sa citadine Leaf au Japon et aux États-Unis dès décembre 2010, avant une arrivée en Europe fin 2011, marquant le vrai retour de la voiture électrique dans le segment grand public après un siècle d'éclipse.</p>
 
 <p>Pour l'histoire complète de la marque et de ses fondateurs, notre article <a href="https://e-roadster.fr/testla-qui-a-creer-tesla/">qui a créé Tesla</a> détaille cette période plus récente, tandis que notre guide sur le <a href="https://e-roadster.fr/2023-tesla-roadster-supercar-electrique-ultime/">Tesla Roadster</a> revient sur ce modèle fondateur.</p>
 
