@@ -91,6 +91,8 @@ author: "Léa Moreau"
 
 <p><em>Fourchettes construites à partir d'annonces réelles observées sur LaCentrale, LeBonCoin et réseaux Renault (relevé août 2026). Les prix évoluent en continu, vérifiez les annonces à jour au moment de votre achat.</em></p>
 
+<p>Pour un calcul détaillé du budget réel (prix d'achat, recharge, entretien, assurance), consultez notre guide dédié sur <a href="/combien-coute-une-zoe-electrique/">combien coûte une Renault Zoé électrique</a>.</p>
+
 <h2>Fiabilité de la Renault Zoé : ce qu'il faut vraiment vérifier avant de craquer</h2>
 
 <p>La peur numéro un quand on achète une électrique d'occasion, c'est l'état de la batterie. Une crainte légitime, car c'est la pièce la plus chère à remplacer.</p>

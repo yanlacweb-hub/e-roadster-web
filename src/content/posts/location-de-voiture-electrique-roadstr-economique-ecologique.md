@@ -58,7 +58,7 @@ author: "Gabriel Dubois"
 <img src="/wp-content/uploads/2026/09/roadstr-recharge.jpg" alt="Câble de recharge branché sur une voiture électrique en location" loading="lazy" />
 <p>Un usage fréquent de Roadstr : tester un modèle électrique plusieurs jours avant un achat. Contrairement à un essai chez un concessionnaire (souvent limité à moins d'une heure), la location entre particuliers permet de :</p>
 <ul>
-<li>Mesurer l'<strong>autonomie réelle</strong> sur vos trajets habituels, souvent inférieure à l'autonomie WLTP annoncée par le constructeur</li>
+<li>Mesurer l'<strong>autonomie réelle</strong> sur vos trajets habituels, souvent inférieure à l'autonomie WLTP annoncée par le constructeur (voir notre guide sur <a href="/autonomie-voiture-electrique/">l'autonomie réelle d'une voiture électrique</a>)</li>
 <li>Tester la <strong>recharge</strong> sur bornes publiques proches de chez vous : temps d'attente, tarifs, facilité d'utilisation des applications</li>
 <li>Essayer le <strong>freinage régénératif</strong> ("mode une pédale") et les aides à la conduite en usage quotidien</li>
 <li>Comparer plusieurs segments (citadine type Fiat 500e, berline type Model 3, SUV type Model Y ou BMW iX1) avant de trancher</li>
@@ -88,7 +88,7 @@ author: "Gabriel Dubois"
 <h2>Conclusion</h2>
 <p>Roadstr n'est pas le spécialiste de la location électrique que son image marketing peut laisser croire. C'est avant tout une plateforme premium de location entre particuliers, où l'électrique est une catégorie parmi d'autres (collection, sport, mariage). Mon conseil : ne réservez pas sur la promesse « mobilité écologique », regardez le catalogue réel disponible dans votre ville avant de comparer.</p>
 
-<p>Son intérêt réel : un catalogue de modèles parfois introuvables ailleurs (Tesla haut de gamme, modèles récents), une flexibilité de courte durée, et un usage pertinent pour tester un véhicule avant achat. En contrepartie, cette voiture de location reste généralement plus chère qu'auprès d'un loueur généraliste sur une citadine électrique classique, et la disponibilité dépend entièrement des annonces actives dans votre zone.</p>
+<p>Son intérêt réel : un catalogue de modèles parfois introuvables ailleurs (Tesla haut de gamme, modèles récents), une flexibilité de courte durée, et un usage pertinent pour tester un véhicule avant achat. En contrepartie, cette voiture de location reste généralement plus chère qu'auprès d'un loueur généraliste sur une citadine électrique classique, et la disponibilité dépend entièrement des annonces actives dans votre zone. Si vous envisagez ensuite un achat, consultez notre guide sur <a href="/combien-coute-une-voiture-electrique/">le budget réel d'une voiture électrique</a> pour comparer avec le coût d'une location prolongée.</p>
 
 <h2>FAQ : location de voiture électrique sur Roadstr</h2>
 <h3>Roadstr est-il spécialisé dans les voitures électriques ?</h3>

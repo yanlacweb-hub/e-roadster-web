@@ -19,7 +19,7 @@ author: "Gabriel Dubois"
 
 <h2>Le budget à prévoir selon votre profil</h2>
 <p>Le prix d'une voiture électrique neuve varie fortement selon le segment choisi : de moins de <strong>17 000 €</strong> pour une citadine d'entrée de gamme à plus de <strong>60 000 €</strong> pour un SUV haut de gamme, la fourchette la plus courante se situant entre 20 000 € et 45 000 €. Le tableau ci-dessous détaille les prix par modèle.</p>
-<p>Pour un budget plus serré, l'occasion permet d'accéder à ce type de véhicule dès <strong>6 000 à 10 000 €</strong> pour les premiers modèles. Voir le détail dans la section dédiée à l'occasion plus bas, et notre <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">guide sur la Renault Zoé d'occasion</a>, un des modèles les plus recherchés sur ce segment.</p>
+<p>Pour un budget plus serré, l'occasion permet d'accéder à ce type de véhicule dès <strong>6 000 à 10 000 €</strong> pour les premiers modèles. Voir le détail dans la section dédiée à l'occasion plus bas, et notre <a href="/tout-savoir-sur-la-renault-zoe-100-electrique/">guide sur la Renault Zoé d'occasion</a>, un des modèles les plus recherchés sur ce segment (voir aussi notre <a href="/combien-coute-une-zoe-electrique/">calcul détaillé du budget Zoé</a>).</p>
 
 <h2>Prix par segment : citadine, berline, SUV</h2>
 <p>Prix catalogue indicatifs relevés auprès de comparateurs spécialisés (Vivacar) en <strong>août 2026</strong>, hors options et hors aides — vérifiez toujours le tarif à jour auprès du constructeur ou concessionnaire avant achat.</p>
