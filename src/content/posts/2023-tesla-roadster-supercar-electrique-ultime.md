@@ -49,6 +49,8 @@ author: "Gabriel Dubois"
 </table>
 <p>La réservation reste ouverte sur le site officiel de Tesla. <em>Prix vérifiés via Automobile Propre (fiche officielle Tesla Roadster).</em></p>
 
+<p>À ces tarifs, le Roadster ne serait éligible ni au bonus écologique ni à la prime à la conversion en France : ces aides sont réservées aux véhicules dont le prix de vente est inférieur à 47 000 € hors option, un plafond très loin des ~172 000 € annoncés pour la version de base. <em>Barème vérifié via Automobile Propre (dossier bonus écologique).</em></p>
+
 <h2>Performances annoncées : chiffres à prendre avec précaution</h2>
 <p>Tesla promet des chiffres qui, s'ils se confirment sur le véhicule livré, placeraient le Roadster parmi les voitures de série les plus rapides jamais produites :</p>
 <ul>
@@ -64,13 +66,15 @@ author: "Gabriel Dubois"
 <figure><img src="/wp-content/uploads/2026/08/tesla-roadster-interieur.jpg" alt="Illustration de l'habitacle futuriste d'une supercar électrique, écran tactile et sièges baquets" loading="lazy" /></figure>
 
 <h2>Autonomie et batterie</h2>
-<p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong>, soit le double de celle de la Tesla Model S Plaid, pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Ce chiffre, s'il se confirme, dépasserait largement l'autonomie des véhicules électriques actuellement <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">les plus performants du marché</a>.</p>
+<p>Le Roadster est annoncé avec une <strong>batterie de 200 kWh</strong>, soit le double de celle de la Tesla Model S Plaid, pour une autonomie promise proche de <strong>1 000 km</strong> (800 miles selon les chiffres américains). Ce chiffre, s'il se confirme, dépasserait largement l'autonomie des véhicules électriques actuellement <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">les plus performants du marché</a>. Comme tout véhicule zéro-émission, un Roadster capable de parcourir 1 000 km sur autoroute sans recharge resterait néanmoins tributaire, comme le reste du parc électrique, de la densité du réseau de bornes rapides déployé le long des grands axes français.</p>
 
-<p>Comme le reste de la gamme Tesla, le Roadster utiliserait une chimie <strong>lithium-ion</strong>, la technologie dominante sur les véhicules électriques à batterie, à distinguer des véhicules à <strong>hydrogène</strong>, qui reposent sur une pile à combustible et restent marginaux en France faute de réseau de stations dédiées. Le Roadster n'a jamais été présenté par Tesla comme un projet à hydrogène : il s'agit d'un véhicule 100 % électrique à batterie.</p>
+<p>Comme le reste de la gamme Tesla, le Roadster utiliserait une chimie <strong>lithium-ion</strong>, la technologie dominante sur les véhicules électriques à batterie, à distinguer des véhicules à <strong>hydrogène</strong>, qui reposent sur une pile à combustible et restent marginaux en France faute de réseau de stations dédiées. Le Roadster n'a jamais été présenté par Tesla comme un projet à hydrogène : il s'agit d'un véhicule tout-électrique à batterie, sans aucune partie thermique.</p>
+
+<p>Comme tout véhicule 100 % électrique, le Roadster ne rejetterait aucun polluant ni CO2 à l'échappement — il n'en a d'ailleurs pas. Cet avantage environnemental reste toutefois secondaire dans le positionnement du véhicule, conçu avant tout comme une démonstration de performance plutôt qu'un choix de mobilité raisonnée.</p>
 
 <p>Aucune donnée officielle sur la puissance de recharge n'a été communiquée à ce jour ; Tesla a laissé entendre que le véhicule pourrait bénéficier du futur réseau Megacharger, actuellement développé pour le Tesla Semi.</p>
 
-<p>En attendant, un Roadster resterait vraisemblablement <strong>rechargeable</strong> sur les <strong>bornes de recharge</strong> rapide Supercharger déjà déployées, comme le reste de la gamme Tesla — même si sa capacité de 200 kWh impliquerait des temps de charge nettement plus longs qu'un Model S ou un Model 3 pour retrouver une autonomie complète.</p>
+<p>En attendant, un Roadster resterait vraisemblablement <strong>rechargeable</strong> sur les <strong>bornes de recharge</strong> rapide Supercharger déjà déployées, comme le reste de la gamme Tesla — même si sa capacité de 200 kWh impliquerait des temps de charge nettement plus longs qu'un Model S ou un Model 3 pour retrouver une autonomie complète. Recharger une batterie de cette taille sur une simple prise domestique serait par ailleurs impraticable : il faudrait plusieurs jours pour retrouver une charge complète, contre quelques heures sur une borne de recharge rapide dédiée.</p>
 
 <h2>Comparatif avec les autres hypercars électriques</h2>
 <p>Pour situer les chiffres annoncés du Roadster face à des véhicules réellement commercialisés et testés :</p>
@@ -97,7 +101,7 @@ author: "Gabriel Dubois"
 </ul>
 <p>Contrairement à ces modèles, le Roadster n'est ni livrable, ni testable par la presse à ce jour. La comparaison reste donc théorique tant que le véhicule n'est pas sur le marché.</p>
 
-<p>Le positionnement du Roadster tranche aussi avec le reste du marché électrique français, largement dominé par les <strong>citadines</strong> compactes et les <strong>SUV</strong> familiaux — des segments où la motorisation privilégie l'autonomie et le rapport qualité-prix plutôt que la performance pure. Une supercar 2 places à plus de 170 000 € s'adresse à une clientèle radicalement différente de celle d'une citadine électrique conçue pour les trajets urbains quotidiens.</p>
+<p>Le positionnement du Roadster tranche aussi avec le reste du marché électrique français, largement dominé par les <strong>citadines</strong> compactes et les <strong>SUV</strong> familiaux — des segments où la motorisation privilégie l'autonomie et le rapport qualité-prix plutôt que la performance pure. La plupart des voitures électriques vendues aujourd'hui en France, chez la majorité des constructeurs automobiles, visent d'abord un usage quotidien abordable ; un véhicule électrique comme le Roadster fait le choix inverse, celui de la démonstration technologique assumée, quitte à sacrifier la praticité et l'accessibilité tarifaire. Une supercar 2 places à plus de 170 000 € s'adresse à une clientèle radicalement différente de celle d'une citadine électrique conçue pour les trajets urbains quotidiens.</p>
 
 <h2>Alternative disponible dès aujourd'hui</h2>
 <p>En attendant une éventuelle commercialisation du Roadster, la <a href="https://e-roadster.fr/location-de-voiture-electrique-roadstr-economique-ecologique/">location de voiture électrique chez Roadstr</a> permet d'accéder dès maintenant à une mobilité électrique performante, sans les incertitudes de calendrier d'un véhicule encore au stade de promesse.</p>
