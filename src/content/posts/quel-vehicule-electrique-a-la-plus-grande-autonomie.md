@@ -20,7 +20,7 @@ author: "Gabriel Dubois"
 <h2>Quelles voitures électriques ont la meilleure autonomie WLTP en 2026 ?</h2>
 <p><strong>Dans cette sélection de Frandroid, la Mercedes-Benz CLA affiche la plus grande autonomie WLTP avec 791 km</strong>, la valeur officielle homologuée en laboratoire.</p>
 <p>C'est la référence que les constructeurs mettent en avant dans leurs communications, mais elle peut être supérieure à l'autonomie mesurée en usage réel, notamment sur autoroute ou par temps froid.</p>
-<span class="table-caption">Sélection d'autonomies WLTP (source : <a href="https://www.frandroid.com/survoltes/voitures-electriques/724697_voitures-electriques-plus-grande-autonomie-batterie" rel="noopener" target="_blank">Frandroid</a>, mise à jour juillet 2026 — liste non exhaustive)</span>
+<span class="table-caption">Sélection d'autonomies WLTP (source : <a href="https://www.frandroid.com/survoltes/voitures-electriques/724697_voitures-electriques-plus-grande-autonomie-batterie" rel="noopener" target="_blank">Frandroid</a>, mise à jour juillet 2026 ; liste non exhaustive)</span>
 <table>
 <thead>
 <tr><th>Rang</th><th>Modèle</th><th>Autonomie WLTP</th></tr>
@@ -38,7 +38,7 @@ author: "Gabriel Dubois"
 <h2>Quelles voitures électriques vont réellement le plus loin sur route ?</h2>
 <p><strong>Dans ce comparatif routier, la BMW iX3 50 xDrive a parcouru la plus grande distance mesurée, avec 671 km</strong>, selon un <a href="https://www.largus.fr/actualite-automobile/quelles-voitures-electriques-depassent-vraiment-les-500-km-d-autonomie-30031531.html" rel="noopener" target="_blank">comparatif de L'Argus</a>.</p>
 <p>La Mercedes EQS 450+ et la DS N°8 Long Range complètent le podium de cette sélection, compilée à partir des valeurs mesurées par L'Argus selon son propre protocole (voir l'article source pour le détail des conditions de test).</p>
-<span class="table-caption">Sélection des meilleures autonomies mesurées sur route (source : <a href="https://www.largus.fr/actualite-automobile/quelles-voitures-electriques-depassent-vraiment-les-500-km-d-autonomie-30031531.html" rel="noopener" target="_blank">L'Argus</a>, 2026 — classement établi à partir des valeurs publiées, à titre indicatif)</span>
+<span class="table-caption">Sélection des meilleures autonomies mesurées sur route (source : <a href="https://www.largus.fr/actualite-automobile/quelles-voitures-electriques-depassent-vraiment-les-500-km-d-autonomie-30031531.html" rel="noopener" target="_blank">L'Argus</a>, 2026 ; classement établi à partir des valeurs publiées, à titre indicatif)</span>
 <table>
 <thead>
 <tr><th>Modèle</th><th>Autonomie mesurée</th><th>Batterie</th></tr>
@@ -72,7 +72,7 @@ author: "Gabriel Dubois"
 <tr><td>Tesla Model 3</td><td>Non communiqué</td><td>~575 km</td><td>≥90 %</td></tr>
 </tbody>
 </table>
-<p><em>Pour la Mercedes EQE et la Tesla Model 3, l'article source ne précise pas la valeur WLTP exacte — le pourcentage indiqué correspond au résultat rapporté du test (estimation « au moins 90 % »), pas à un calcul exact.</em></p>
+<p><em>Pour la Mercedes EQE et la Tesla Model 3, l'article source ne précise pas la valeur WLTP exacte ; le pourcentage indiqué correspond au résultat rapporté du test (estimation « au moins 90 % »), pas à un calcul exact.</em></p>
 <p>Dans ce test précis, les modèles ont parcouru environ 82 % à plus de 90 % de leur autonomie WLTP.</p>
 <p><strong>Cet écart ne constitue toutefois pas une règle générale</strong> : il varie selon la température, la vitesse, le parcours et le véhicule.</p>
 <p>Point notable de ce test : même après affichage de 0 km d'autonomie restante, une marge de sécurité subsiste. La Tesla Model 3 a par exemple pu parcourir plus de 32 km supplémentaires avant de s'arrêter juste à côté d'une borne de recharge.</p>
@@ -83,7 +83,7 @@ author: "Gabriel Dubois"
 <p>La <a href="https://e-roadster.fr/quelle-est-la-duree-de-vie-dune-batterie-de-voiture-electrique-2/">durée de vie de la batterie</a> et son état de santé (SOH) influencent aussi l'autonomie disponible au fil des années.</p>
 <h2>Grosse batterie ou bonne efficience : que privilégier ?</h2>
 <p><strong>Une autonomie élevée ne dépend pas que de la taille de la batterie : l'efficience énergétique du véhicule (exprimée en km parcourus par kWh) joue un rôle tout aussi déterminant.</strong></p>
-<p>Dans le test CarWow, la Porsche Taycan (97 kWh) et la Tesla Model 3 (75 kWh) affichaient toutes deux une efficience proche de 6,1 à 6,4 km/kWh malgré une différence de batterie de plus de 20 kWh — preuve qu'un véhicule plus léger et mieux profilé peut compenser une batterie plus petite.</p>
+<p>Dans le test CarWow, la Porsche Taycan (97 kWh) et la Tesla Model 3 (75 kWh) affichaient toutes deux une efficience proche de 6,1 à 6,4 km/kWh malgré une différence de batterie de plus de 20 kWh ; preuve qu'un véhicule plus léger et mieux profilé peut compenser une batterie plus petite.</p>
 <p>Comme la quasi-totalité des véhicules électriques commercialisés aujourd'hui, ces modèles embarquent des batteries lithium-ion (chimie NMC, NCA ou LFP selon les constructeurs automobiles), dont la densité énergétique influence le compromis entre capacité utile, poids et encombrement de la batterie. Le rendement du moteur électrique et le choix de motorisation (propulsion ou transmission intégrale) influencent également la quantité d'énergie que le véhicule consomme par kilomètre parcouru.</p>
 <p>Pour comprendre les différentes technologies de batterie et leur impact sur le poids et le coût du véhicule, consultez notre guide sur les <a href="https://e-roadster.fr/les-differents-types-de-batteries-de-voitures-electriques/">types de batteries de voiture électrique</a>.</p>
 <h2>Grande autonomie ou recharge rapide : qu'est-ce qui compte le plus ?</h2>
@@ -100,7 +100,7 @@ author: "Gabriel Dubois"
 <li><strong>Vacances et longues distances occasionnelles</strong> : une autonomie mesurée de 500 km et plus, associée à une recharge rapide efficace, limite le nombre d'arrêts</li>
 <li><strong>Autoroute fréquente, gros rouleur</strong> : comparez les autonomies mesurées en usage routier plutôt que le seul chiffre WLTP, et privilégiez un modèle avec une bonne courbe de recharge rapide</li>
 </ul>
-<p><em>Ces fourchettes sont des repères, pas des seuils obligatoires — votre trajet type, le climat de votre région et votre tolérance aux arrêts recharge doivent aussi entrer en compte.</em></p>
+<p><em>Ces fourchettes sont des repères, pas des seuils obligatoires ; votre trajet type, le climat de votre région et votre tolérance aux arrêts recharge doivent aussi entrer en compte.</em></p>
 <p>Pour comparer les modèles par budget plutôt que par record d'autonomie, notre <a href="https://e-roadster.fr/comparatif-voitures-electrique/">comparatif complet par segment</a> détaille aussi les citadines, berlines et SUV électriques polyvalents.</p>
 <p>Si votre budget est plus serré, notre guide sur le <a href="https://e-roadster.fr/combien-coute-une-voiture-electrique/">coût réel d'une voiture électrique</a> aide à mettre l'autonomie en perspective avec le prix.</p>
 <h2>Conclusion</h2>
@@ -116,4 +116,4 @@ author: "Gabriel Dubois"
 <h3>Peut-on rouler après l'affichage de 0 km d'autonomie restante ?</h3>
 <p><strong>Une marge de sécurité existe généralement, mais elle est imprévisible et varie fortement selon les modèles.</strong> Un test CarWow a montré une Tesla Model 3 parcourant encore 32 km après l'affichage de 0 km, tandis qu'une Porsche Taycan s'est arrêtée net à la fin de son autonomie annoncée. Cette marge ne doit jamais être anticipée volontairement : elle sert de sécurité, pas de complément d'autonomie planifiable.</p>
 <h3>Quelle voiture électrique choisir pour faire beaucoup d'autoroute ?</h3>
-<p><strong>Privilégiez un modèle avec une bonne autonomie mesurée en usage routier plutôt que le seul chiffre WLTP</strong>, associé à une recharge rapide performante — la consommation autoroutière étant plus élevée qu'en usage mixte, la vitesse à laquelle le véhicule récupère de l'autonomie sur une borne rapide devient aussi importante que sa capacité de batterie.</p>
+<p><strong>Privilégiez un modèle avec une bonne autonomie mesurée en usage routier plutôt que le seul chiffre WLTP</strong>, associé à une recharge rapide performante ; la consommation autoroutière étant plus élevée qu'en usage mixte, la vitesse à laquelle le véhicule récupère de l'autonomie sur une borne rapide devient aussi importante que sa capacité de batterie.</p>
