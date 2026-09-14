@@ -21,7 +21,8 @@ author: "Gabriel Dubois"
 
 <p><strong>La voiture électrique émet zéro CO₂ en roulant.</strong> C'est son premier atout. Contrairement aux véhicules thermiques qui rejettent des gaz polluants à l'échappement (CO₂, NOx, particules fines), une électrique en circulation ne produit aucune émission locale.</p>
 
-<p>Mais le vrai bilan environnemental se mesure sur la durée de vie complète du véhicule : fabrication de la batterie, électricité pour la recharge, fin de vie du véhicule. Selon l'Ademe (Agence de l'Environnement et de la Maîtrise de l'Énergie, l'organisme français de référence), le résultat est clair : après environ <strong>30 000 km de roulage, une électrique a compensé l'impact de sa fabrication et présente un bilan carbone trois fois meilleur qu'une thermique équivalente</strong>. Cet avantage s'accentue si l'électricité provient de sources renouvelables (ce qui est le cas en France : 68 % du mix énergétique en 2025 provient du nucléaire et des renouvelables).</p>
+<p>Mais le vrai bilan environnemental se mesure sur la durée de vie complète du véhicule : fabrication de la batterie, électricité pour la recharge, fin de vie du véhicule.</p>
+<p>Selon l'Ademe (Agence de l'Environnement et de la Maîtrise de l'Énergie, l'organisme français de référence), le résultat est clair : après environ <strong>30 000 km de roulage, une électrique a compensé l'impact de sa fabrication et présente un bilan carbone trois fois meilleur qu'une thermique équivalente</strong>. Cet avantage s'accentue si l'électricité provient de sources renouvelables (ce qui est le cas en France : 68 % du mix énergétique en 2025 provient du nucléaire et des renouvelables).</p>
 
 <p>Au-delà de la combustion, les électriques réduisent aussi les nuisances sonores (80 % plus silencieuses) et les polluants spécifiques aux thermiques : pas de particules fines de freinage usé (frein régénératif électrique), pas d'émanations d'hydrocarbures, pas de pollution de l'air urbain.</p>
 
