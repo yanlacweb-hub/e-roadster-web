@@ -20,8 +20,13 @@ author: "Gabriel Dubois"
 <p>La capacité utile d'une batterie s'exprime en <strong>kilowattheures (kWh)</strong>, l'unité qui reflète l'énergie réellement stockée et donc l'autonomie potentielle du véhicule. Le voltage, lui, indique la tension du pack (généralement plusieurs centaines de volts), et ne doit pas être confondu avec le kWh. La plupart des véhicules électriques embarquent aussi une petite batterie auxiliaire de 12 volts (au plomb ou, sur les modèles récents, au lithium-ion) qui alimente les équipements annexes : ordinateur de bord, éclairage, ouverture des portières.</p>
 <p>Un système électronique appelé <strong>BMS (Battery Management System)</strong> supervise en permanence la batterie : il coupe l'alimentation dès que l'état de charge atteint une limite haute ou basse préréglée par le constructeur, ce qui évite à la fois la surcharge et la décharge profonde, deux facteurs qui accélèrent le vieillissement des cellules.</p>
 
+<figure><img src="/wp-content/uploads/2026/09/batterie-lithium-cellules-cutaway.jpg" alt="Batterie lithium-ion avec rangées de cellules cylindriques et câblage interne dans une vue en coupe, avec éclairage industriel bleu et argent" loading="lazy" /></figure>
+
 <h2>Quels sont les différents types de batteries ?</h2>
 <p>Plusieurs chimies coexistent sur le marché actuel, chacune avec un compromis différent entre autonomie, durabilité et coût : le NMC/NCA (référence pour l'autonomie), le LFP (compromis coût/durabilité, sans cobalt), et des technologies émergentes comme l'électrolyte solide ou le sodium-ion. Le choix d'une chimie plutôt qu'une autre a un impact direct sur le poids, le prix et la longévité du véhicule.</p>
+
+<figure><img src="/wp-content/uploads/2026/09/batterie-inspection-cellules-workshop.jpg" alt="Inspection d'un module de batterie par un technicien avec un outil de diagnostic dans un atelier automobile professionnel" loading="lazy" /></figure>
+
 <p>Pour un comparatif détaillé des technologies (NMC, NCA, LFP, solide, sodium-ion), leurs avantages respectifs et le tableau de correspondance par usage, consultez notre guide dédié sur les <a href="/les-differents-types-de-batteries-de-voitures-electriques/">différents types de batteries de voiture électrique</a>.</p>
 
 <h2>Combien de temps dure une batterie de voiture électrique ?</h2>
@@ -46,6 +51,9 @@ author: "Gabriel Dubois"
 
 <h2>Que deviennent les batteries en fin de vie ?</h2>
 <p>Une batterie qui ne convient plus pour un usage automobile n'est pas nécessairement bonne à jeter : certaines trouvent une seconde vie en stockage stationnaire, pour lisser la production d'énergies renouvelables ou sécuriser un réseau électrique local. Le seuil de capacité résiduelle à partir duquel un remplacement automobile est envisagé varie selon le constructeur et l'usage, il n'existe pas de pourcentage universel applicable à tous les modèles.</p>
+
+<figure><img src="/wp-content/uploads/2026/09/batterie-recyclage-stockage-stationnaire.jpg" alt="Unités de stockage d'énergie stationnaire dans une installation industrielle de recyclage et de seconde vie, avec panneaux solaires visibles" loading="lazy" /></figure>
+
 <p>Lorsque la batterie arrive réellement en fin de vie, des filières industrielles de recyclage existent déjà en Europe et permettent de récupérer une part croissante des matériaux valorisables qui la composent (lithium, nickel, cobalt, cuivre selon la chimie et le procédé), ensuite réintégrés dans la fabrication de nouvelles cellules. Le règlement européen sur les batteries (UE 2023/1542) fixe des objectifs progressifs de collecte et de récupération des matériaux, avec des capacités et procédés qui continuent de monter en puissance.</p>
 
 <h2>Comment savoir quelle batterie équipe ma voiture ?</h2>

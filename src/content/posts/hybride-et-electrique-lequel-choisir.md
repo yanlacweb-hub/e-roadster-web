@@ -19,6 +19,7 @@ author: "Gabriel Dubois"
 <h2>Hybride, hybride rechargeable, électrique : la différence en une phrase</h2>
 <p><strong>Une hybride classique combine un moteur thermique et un petit moteur électrique qui se recharge uniquement au freinage, sans jamais se brancher.</strong> Une hybride rechargeable (PHEV, pour plug-in hybrid electric vehicle) a une batterie plus grosse, qui se recharge sur prise et permet de rouler un temps en électrique pur avant que le moteur thermique ne prenne le relais. Une voiture 100% électrique n'a aucun moteur thermique : elle roule uniquement sur batterie et nécessite systématiquement une recharge externe.</p>
 <p>Confondre les trois, c'est le piège numéro un pour qui compare des offres sans s'y connaître. Beaucoup de concessions présentent d'ailleurs l'hybride classique et le PHEV sous la même appellation « hybride », ce qui entretient la confusion.</p>
+<figure><img src="/wp-content/uploads/2026/09/hybride-electrique-comparaison-recharge-carburant.jpg" alt="Comparaison côte à côte entre une pompe essence et une borne de recharge électrique" loading="lazy" /></figure>
 
 <h2>Comment fonctionne une voiture hybride (non rechargeable) ?</h2>
 <p><strong>Le système bascule automatiquement entre le moteur thermique et le moteur électrique, ou les combine, pour optimiser la consommation selon la situation de conduite.</strong> La petite batterie électrique (généralement moins de 2 kWh) se recharge exclusivement par récupération d'énergie au freinage et à la décélération, jamais sur une prise.</p>
@@ -27,6 +28,7 @@ author: "Gabriel Dubois"
 <h2>Comment fonctionne une hybride rechargeable (PHEV) ?</h2>
 <p><strong>Une hybride rechargeable embarque une batterie nettement plus grosse qu'une hybride classique, rechargeable sur une prise domestique ou une borne, et permet de rouler un temps en tout électrique.</strong> Selon une analyse de Que Choisir, l'autonomie en mode 100% électrique d'un PHEV reste généralement inférieure à 100 km, le plus souvent autour de 50 km selon les modèles. Dès la batterie déchargée, le moteur thermique prend automatiquement le relais, portant l'autonomie totale (électrique + réservoir) à environ 600 à 700 km selon la capacité du réservoir.</p>
 <p>C'est le compromis logique pour qui fait surtout des trajets courts en semaine (compatibles avec le mode électrique) mais garde besoin d'une autonomie longue distance ponctuelle, à condition de recharger réellement la batterie tous les jours : un PHEV jamais rechargé consomme souvent plus qu'une hybride classique, à cause du poids supplémentaire de sa batterie.</p>
+<figure><img src="/wp-content/uploads/2026/09/phev-prise-recharge-domicile.jpg" alt="Port de recharge ouvert d'un véhicule hybride rechargeable avec connecteur et câble de recharge" loading="lazy" /></figure>
 
 <h2>Comment fonctionne une voiture 100% électrique ?</h2>
 <p><strong>Le véhicule électrique fonctionne uniquement grâce à sa batterie, sans aucun moteur thermique de secours, et nécessite systématiquement une recharge sur prise ou borne.</strong> Il n'émet aucun gaz polluant à l'usage, offre un couple immédiat dès le démarrage et une conduite nettement plus silencieuse qu'un thermique ou un hybride.</p>
@@ -66,6 +68,7 @@ author: "Gabriel Dubois"
 <li><strong>Aucune possibilité de recharge à domicile ou au travail, gros besoin de flexibilité</strong> : l'hybride classique reste le compromis le plus simple, sans contrainte de branchement. Pour l'occasion, voir notre guide <a href="https://e-roadster.fr/bien-choisir-sa-voiture-hybride-occasion/">bien choisir sa voiture hybride d'occasion</a></li>
 <li><strong>Longs trajets autoroutiers très fréquents, zones mal équipées en bornes</strong> : privilégiez l'hybride, ou une électrique avec une autonomie mesurée confortable et une bonne courbe de recharge rapide (voir notre <a href="https://e-roadster.fr/quel-vehicule-electrique-a-la-plus-grande-autonomie/">comparatif des autonomies</a>)</li>
 </ul>
+<figure><img src="/wp-content/uploads/2026/09/hybride-electrique-choix-profil.jpg" alt="Homme réfléchissant entre deux voitures, l'une branchée à une prise de recharge et l'autre non" loading="lazy" /></figure>
 
 <h2>Les inconvénients à connaître avant de choisir</h2>
 <p><strong>Aucune des trois motorisations n'est parfaite pour tous les usages.</strong> L'hybride classique reste dépendante du carburant et n'apporte qu'une réduction partielle des émissions ; sa mécanique à deux motorisations peut aussi coûter plus cher à entretenir qu'un thermique simple.</p>

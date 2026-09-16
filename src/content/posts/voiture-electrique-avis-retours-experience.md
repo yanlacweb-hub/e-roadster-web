@@ -31,6 +31,8 @@ author: "Gabriel Dubois"
 </tbody>
 </table>
 
+<figure><img src="/wp-content/uploads/2026/09/avis-voiture-electrique-conducteur-satisfait.jpg" alt="Conducteur satisfait entrant dans sa voiture électrique le matin, langage corporel détendu et confiant" loading="lazy" /></figure>
+
 <h2>Faut-il vraiment acheter une voiture électrique en 2026 ?</h2>
 <p><strong>Oui pour un usage majoritairement urbain ou périurbain avec accès à une recharge régulière, avec plus de réserve pour un usage de gros rouleur autoroutier fréquent.</strong> La réponse dépend moins de la technologie elle-même que de votre profil d'usage réel : kilométrage annuel, accès à une prise à domicile ou au travail, et fréquence des longs trajets.</p>
 <p>Le marché tranche de plus en plus clairement dans un sens : la part de marché des voitures électriques a doublé en un an (+111% par rapport à août 2025, source Avere-France), et ce sont surtout des particuliers qui achètent, pas des entreprises obligées par une politique de flotte. Ça ne veut pas dire que l'électrique convient à tout le monde, mais l'argument "personne n'en veut vraiment" ne tient plus face aux chiffres d'immatriculation.</p>
@@ -42,8 +44,12 @@ author: "Gabriel Dubois"
 <p>C'est l'une des limites techniques les plus documentées de la voiture électrique. Le froid affecte la chimie de la batterie et augmente la consommation liée au chauffage de l'habitacle, ce qui réduit l'autonomie réelle par rapport à la valeur WLTP affichée. Cet écart existe toute l'année, mais il s'accentue par temps froid (source : ADEME, fiche technique autonomie et température des véhicules électriques).</p>
 <p>Pour limiter l'impact : préconditionnez la batterie et l'habitacle pendant la charge (quand le véhicule est encore branché), plutôt qu'une fois en route. Cette astuce, simple mais souvent ignorée, réduit sensiblement la perte d'autonomie liée au chauffage pur.</p>
 
+<figure><img src="/wp-content/uploads/2026/09/avis-voiture-electrique-hiver-neige.jpg" alt="Voiture électrique couverte de neige en hiver avec givre sur le pare-brise et câble de charge connecté" loading="lazy" /></figure>
+
 <h3>Le réseau de recharge, encore inégal selon les régions</h3>
 <p>Si la recharge à domicile ne pose pas de problème pour l'usage quotidien, la recharge rapide en itinérance reste plus contraignante selon la région et l'heure : bornes de recharge parfois indisponibles, en panne, ou avec un temps d'attente aux heures de pointe sur les grands axes en période de vacances. C'est un point de friction réel pour les gros rouleurs autoroutiers, moins pour un usage majoritairement urbain rechargé la nuit à domicile.</p>
+
+<figure><img src="/wp-content/uploads/2026/09/avis-voiture-electrique-borne-autoroute.jpg" alt="Bornes de recharge rapide en rangée sur une aire d'autoroute avec voitures électriques en charge" loading="lazy" /></figure>
 
 <h3>Un prix d'achat neuf qui reste un frein</h3>
 <p>À l'achat, une voiture électrique reste généralement plus chère qu'un modèle thermique équivalent, même si l'écart se réduit d'année en année et s'inverse souvent une fois le coût d'usage total intégré (recharge moins chère que le carburant, entretien réduit). Le bonus écologique et les autres aides à l'achat, quand ils s'appliquent, permettent de réduire ce surcoût initial selon le modèle et le profil de l'acheteur. C'est un vrai calcul à faire au cas par cas, pas une généralité à accepter ou rejeter en bloc, d'autant que les grilles tarifaires évoluent régulièrement chez la plupart des constructeurs.</p>

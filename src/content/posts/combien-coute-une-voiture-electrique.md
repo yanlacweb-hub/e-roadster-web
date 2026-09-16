@@ -33,7 +33,11 @@ author: "Gabriel Dubois"
 <tr><td>Tesla Model Y</td><td>SUV</td><td>à partir de ~50 000 €</td><td>voir fiche constructeur</td></tr>
 </tbody>
 </table>
-<p>Ce classement par segment aide à cibler directement la fourchette de budget qui correspond à votre usage, plutôt que de comparer des véhicules aux vocations différentes.</p> <h2>Voiture électrique ou thermique : quelle est la moins chère au global ?</h2>
+<p>Ce classement par segment aide à cibler directement la fourchette de budget qui correspond à votre usage, plutôt que de comparer des véhicules aux vocations différentes.</p>
+
+<figure><img src="/wp-content/uploads/2026/09/cout-voiture-electrique-showroom-comparaison.jpg" alt="Un showroom d'exposition automobile avec une ligne de voitures électriques de différentes tailles : citadines, berlines et SUV, montrant la diversité des segments de marché" loading="lazy" /></figure>
+
+<h2>Voiture électrique ou thermique : quelle est la moins chère au global ?</h2>
 <p>À l'achat, une voiture électrique reste généralement plus chère qu'un modèle thermique équivalent. Mais l'écart se réduit, voire s'inverse, une fois le coût d'usage intégré :</p>
 <ul>
 <li><strong>Carburant</strong> : aucune dépense d'essence/diesel, remplacée par une recharge nettement moins coûteuse</li>
@@ -77,7 +81,11 @@ author: "Gabriel Dubois"
 </table>
 <p><em>Estimations calculées à partir des tarifs bornes publiques de 0,39 à 0,69 €/kWh et d'une consommation moyenne de 15 à 18 kWh/100 km pour une citadine ou compacte électrique (source : izi-by-EDF). La recharge rapide/ultra-rapide applique généralement un tarif au kWh plus élevé que la borne publique standard (souvent 0,50 à 0,80 €/kWh selon l'opérateur), et c'est ce tarif majoré, non les hypothèses ci-dessus, qui explique le coût plus élevé de cette ligne du tableau.</em></p>
 <p>La recharge à domicile reste la plus économique. Pour le détail complet des tarifs selon le type de borne, consultez notre <a href="/prix-recharge-voiture-electrique-combien-ca-coute/">guide dédié sur le prix de la recharge d'une voiture électrique</a>.</p>
-<p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile. L'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p> <h2>Entretien et coût sur la durée</h2>
+<p>À titre de comparaison, un plein de carburant pour un trajet équivalent coûte généralement plus cher qu'une recharge à domicile. L'écart est l'un des principaux arguments financiers en faveur de l'électrique pour un usage régulier.</p>
+
+<figure><img src="/wp-content/uploads/2026/09/cout-recharge-domicile-wallbox.jpg" alt="Gros plan sur un câble de recharge électrique branché dans une wallbox murale de recharge à domicile, lors du coucher du soleil avec un éclairage ambiant doux" loading="lazy" /></figure>
+
+<h2>Entretien et coût sur la durée</h2>
 <p>Au-delà du prix d'achat et de la recharge, l'entretien reste globalement moins coûteux sur une électrique : pas de vidange ni de courroie de distribution, un frein moteur régénératif qui use moins les plaquettes, mécanique plus simple dans l'ensemble (environ -25 % vs thermique, source izi-by-EDF). Le principal poste de dépense à anticiper sur le long terme reste le remplacement éventuel de la batterie.</p>
 <div class="data-warning">
 <p><strong>⚠️ Chiffre non retenu volontairement :</strong> les montants circulant sur le web pour ce remplacement (souvent entre 8 000 € et 15 000 € selon le modèle) proviennent de comparateurs et non des constructeurs eux-mêmes. Nous ne les reprenons pas ici faute de source constructeur vérifiable et datée.</p>
@@ -96,7 +104,11 @@ author: "Gabriel Dubois"
 <tr><td>Gros rouleur</td><td>25 000 km</td><td>~750 €</td><td>~800 €</td><td>~535 €</td><td><strong>~2 085 €</strong></td></tr>
 </tbody>
 </table>
-<p><em>Ces montants sont des estimations basées sur des moyennes de marché, hors financement du véhicule lui-même ; votre coût réel dépendra de votre profil de conduite, de votre région et de votre assureur.</em></p> <h2>Électrique vs thermique : énergie et entretien sur 5 ans</h2>
+<p><em>Ces montants sont des estimations basées sur des moyennes de marché, hors financement du véhicule lui-même ; votre coût réel dépendra de votre profil de conduite, de votre région et de votre assureur.</em></p>
+
+<figure><img src="/wp-content/uploads/2026/09/cout-budget-calcul-menage.jpg" alt="Une femme qui calcule son budget automobile à son bureau avec une calculatrice, un bloc-notes et une maquette de voiture électrique en arrière-plan, éclairage naturel chaleureux" loading="lazy" /></figure>
+
+<h2>Électrique vs thermique : énergie et entretien sur 5 ans</h2>
 <p>Pour un conducteur moyen (13 500 km/an), voici une estimation comparative sur 5 ans entre une citadine électrique et son équivalent thermique. Hypothèses : recharge domicile à 3 €/100 km, carburant à 1,75 €/L (estimation de marché, à ajuster selon le prix constaté au moment de votre calcul) pour une consommation moyenne de 6,5 L/100 km, entretien électrique calculé selon le même modèle que le tableau des profils ci-dessus (~662 €/an à ce kilométrage) et 25 % plus économique que le thermique (source izi-by-EDF).</p>
 <span class="table-caption">Électrique vs thermique, sur 5 ans</span>
 <table>
